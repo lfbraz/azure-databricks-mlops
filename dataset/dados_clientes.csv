@@ -136,25 +136,25 @@
 135,Sra.,Bruna,Azevedo,36,Feminino,Rua Gabriel Antunes Maciel 1068,Salto,SP,São Paulo,13323-470,BR,Brazil,BrunaCostaAzevedo@einrot.com,8576,1,1,11,0,5,18,197,1,569,64,Email,1
 136,Sra.,Carla,Pinto,24,Feminino,Vila Pará 655,Fortaleza,CE,Ceará,60711-410,BR,Brazil,CarlaBarbosaPinto@rhyta.com,4376,1,1,20,1,0,50,55,0,3753,50,Push,1
 137,Sra.,Lara,Cavalcanti,20,Feminino,Rua Barão Capanema 1586,Rio de Janeiro,RJ,Rio de Janeiro,23042-380,BR,Brazil,LaraRodriguesCavalcanti@cuvox.de,6124,1,10,5,0,2,37,88,3,333,70,Ligacao,1
-138,Sra.,Beatrice,Goncalves,51,Feminino,Rua Pioneiro Simão Romero 1529,Maringá,PR,Paraná,87020-550,BR,Brazil,BeatriceSantosGoncalves@jourrapide.com,3550,0.3,6,5,0,4,2,4,5,5625,86,Push,0
-139,Sra.,Raissa,Barros,65,Feminino,Travessa Peregrino Filho 211,Patos,PB,Paraíba,58700-455,BR,Brazil,RaissaRodriguesBarros@superrito.com,6648,0.09,0,9,0,4,2,7,4,2943,77,SMS,0
-140,Sr.,Kaua,Goncalves,58,Masculino,Rua Monsenhor João José de Azevedo 72,São Paulo,SP,São Paulo,03266-020,BR,Brazil,KauaFerreiraGoncalves@superrito.com,7499,0.23,13,20,0,4,2,1,4,3074,81,Push,0
+138,Sra.,Beatrice,Goncalves,51,Feminino,Rua Pioneiro Simão Romero 1529,Maringá,PR,Paraná,87020-550,BR,Brazil,BeatriceSantosGoncalves@jourrapide.com,3550,0.3,6,5,0,4,2,4,5,5625,86,Push,1
+139,Sra.,Raissa,Barros,65,Feminino,Travessa Peregrino Filho 211,Patos,PB,Paraíba,58700-455,BR,Brazil,RaissaRodriguesBarros@superrito.com,6648,0.09,0,9,0,4,2,7,4,2943,77,SMS,1
+140,Sr.,Kaua,Goncalves,58,Masculino,Rua Monsenhor João José de Azevedo 72,São Paulo,SP,São Paulo,03266-020,BR,Brazil,KauaFerreiraGoncalves@superrito.com,7499,0.23,13,20,0,4,2,1,4,3074,81,Push,1
 141,Sr.,Luan,Lima,62,Masculino,Avenida Contorno 940,Recife,PE,Pernambuco,51150-160,BR,Brazil,LuanAlvesLima@superrito.com,3121,0.85,7,8,0,3,29,83,0,764,33,Push,1
-142,Sra.,Isabelle,Gomes,36,Feminino,Avenida Ettore Turelli 1088,Ribeirão Pires,SP,São Paulo,09441-010,BR,Brazil,IsabelleAzevedoGomes@superrito.com,5828,0.12,9,7,0,4,1,1,5,7514,39,Push,0
+142,Sra.,Isabelle,Gomes,36,Feminino,Avenida Ettore Turelli 1088,Ribeirão Pires,SP,São Paulo,09441-010,BR,Brazil,IsabelleAzevedoGomes@superrito.com,5828,0.12,9,7,0,4,1,1,5,7514,39,Push,1
 143,Dr.,Murilo,Silva,18,Masculino,Rua Marechal Emanuel Marques Porto 357,São Paulo,SP,São Paulo,04855-070,BR,Brazil,MuriloAzevedoSilva@einrot.com,7537,0.9,6,18,0,3,19,43,3,9816,85,Ligacao,1
 144,Sr.,Enzo,Azevedo,29,Masculino,Praça dos Expedicionários 669,Santo André,SP,São Paulo,09071-330,BR,Brazil,EnzoGomesAzevedo@jourrapide.com,3907,0.88,4,18,1,2,21,198,1,6814,60,Ligacao,1
 145,Sr.,Julian,Pinto,29,Masculino,Rua Santa Isabel 1521,Chapecó,SC,Santa Catarina,89813-160,BR,Brazil,JulianFernandesPinto@cuvox.de,7066,0.86,7,0,0,4,29,157,2,7310,37,SMS,1
 146,Sr.,Luís,Santos,55,Masculino,Travessa Loanda 1361,Colombo,PR,Paraná,83410-620,BR,Brazil,LuisMartinsSantos@rhyta.com,8639,0.99,9,3,1,3,25,90,0,2931,38,Email,1
 147,Sr.,Martim,Ferreira,23,Masculino,Rua São Pedro 1183,Belo Horizonte,MG,Minas Gerais,30512-420,BR,Brazil,MartimCostaFerreira@einrot.com,7806,1,9,6,0,4,11,150,0,2393,69,Push,1
-148,Sr.,Carlos,Costa,29,Masculino,Rua Antônio Heck 1642,Cruz Alta,RS,Rio Grande do Sul,98050-400,BR,Brazil,CarlosOliveiraCosta@einrot.com,8495,0.36,3,13,0,4,3,1,4,1462,83,Push,0
-149,Sra.,Gabriela,Lima,42,Feminino,Rua da Paz 245,Franca,SP,São Paulo,14403-121,BR,Brazil,GabrielaGoncalvesLima@einrot.com,8226,0.14,1,0,0,1,2,2,5,113,53,Push,0
+148,Sr.,Carlos,Costa,29,Masculino,Rua Antônio Heck 1642,Cruz Alta,RS,Rio Grande do Sul,98050-400,BR,Brazil,CarlosOliveiraCosta@einrot.com,8495,0.36,3,13,0,4,3,1,4,1462,83,Push,1
+149,Sra.,Gabriela,Lima,42,Feminino,Rua da Paz 245,Franca,SP,São Paulo,14403-121,BR,Brazil,GabrielaGoncalvesLima@einrot.com,8226,0.14,1,0,0,1,2,2,5,113,53,Push,1
 150,Sra.,Emily,Cunha,50,Feminino,Rua A 3 1307,Goiânia,GO,Goiás,74365-040,BR,Brazil,EmilyRibeiroCunha@rhyta.com,7110,0.86,10,0,0,2,27,134,3,3756,42,Email,1
-151,Sra.,Ágatha,Cavalcanti,53,Feminino,Rua JC 58 842,Goiânia,GO,Goiás,74481-440,BR,Brazil,AgathaGomesCavalcanti@cuvox.de,9089,0.16,6,4,0,3,3,3,4,8601,79,Push,0
-152,Sr.,Davi,Barbosa,21,Masculino,Passagem Ceará 682,Belém,PA,Pará,66073-130,BR,Brazil,DaviCardosoBarbosa@fleckens.hu,7641,0.05,7,1,0,4,3,7,5,5426,30,Email,0
-153,Sr.,Igor,Sousa,66,Masculino,Rua Coronel Ponciano 1415,Dourados,MS,Mato Grosso do Sul,79831-230,BR,Brazil,IgorMeloSousa@jourrapide.com,7575,0.27,8,10,0,3,2,4,5,2734,82,SMS,0
+151,Sra.,Ágatha,Cavalcanti,53,Feminino,Rua JC 58 842,Goiânia,GO,Goiás,74481-440,BR,Brazil,AgathaGomesCavalcanti@cuvox.de,9089,0.16,6,4,0,3,3,3,4,8601,79,Push,1
+152,Sr.,Davi,Barbosa,21,Masculino,Passagem Ceará 682,Belém,PA,Pará,66073-130,BR,Brazil,DaviCardosoBarbosa@fleckens.hu,7641,0.05,7,1,0,4,3,7,5,5426,30,Email,1
+153,Sr.,Igor,Sousa,66,Masculino,Rua Coronel Ponciano 1415,Dourados,MS,Mato Grosso do Sul,79831-230,BR,Brazil,IgorMeloSousa@jourrapide.com,7575,0.27,8,10,0,3,2,4,5,2734,82,SMS,1
 154,Sra.,Luiza,Souza,40,Feminino,Rua Lontras 52,Joinville,SC,Santa Catarina,89210-160,BR,Brazil,LuizaCorreiaSouza@superrito.com,5581,0.91,0,11,1,1,43,32,0,9315,73,Ligacao,1
 155,Sr.,José,Rocha,21,Masculino,Rua Amado Melo 115,Varginha,MG,Minas Gerais,37014-620,BR,Brazil,JoseDiasRocha@gustr.com,5578,1,6,5,1,4,25,180,1,4110,41,Push,1
-156,Sra.,Maria,Azevedo,26,Feminino,Rua José Pedro Maduro 1071,Rio de Janeiro,RJ,Rio de Janeiro,23071-050,BR,Brazil,MariaMeloAzevedo@dayrep.com,3751,0.5,0,8,0,1,2,0,4,3939,65,SMS,0
+156,Sra.,Maria,Azevedo,26,Feminino,Rua José Pedro Maduro 1071,Rio de Janeiro,RJ,Rio de Janeiro,23071-050,BR,Brazil,MariaMeloAzevedo@dayrep.com,3751,0.5,0,8,0,1,2,0,4,3939,65,SMS,1
 157,Sr.,Luiz,Rocha,27,Masculino,Rua Carlos Inácio Alves 1372,Londrina,PR,Paraná,86038-390,BR,Brazil,LuizBarbosaRocha@fleckens.hu,9690,1,14,16,0,5,18,100,0,3821,54,SMS,1
 158,Sr.,Victor,Cardoso,25,Masculino,Rua Quarenta e Cinco 276,Ituiutaba,MG,Minas Gerais,38300-012,BR,Brazil,VictorGoncalvesCardoso@jourrapide.com,4184,0.98,10,7,0,3,49,153,0,4395,49,SMS,1
 159,Sra.,Luana,Martins,20,Feminino,Rua Primo Zanotto 1631,Pato Branco,PR,Paraná,85501-380,BR,Brazil,LuanaCarvalhoMartins@teleworm.us,8454,,,,,,1,7,4,6985,79,Push,0
@@ -9448,97 +9448,97 @@
 9447,Sr.,Renan,Melo,48,Masculino,Rua Bulgária 1453,Salto,SP,São Paulo,13322-181,BR,Brazil,RenanCarvalhoMelo@dayrep.com,3519,0.15,12,15,0,1,3,3,5,456,33,Email,0
 9448,Sra.,Gabrielly,Silva,21,Feminino,Rua Luís Seixas 1743,São Paulo,SP,São Paulo,05821-090,BR,Brazil,GabriellyPintoSilva@einrot.com,3585,1,12,9,1,3,38,34,1,4649,90,Push,1
 9449,Sra.,Yasmin,Pinto,36,Feminino,Rua Arte de Viver 915,Cariacica,ES,Espírito Santo,29144-880,BR,Brazil,YasminFerreiraPinto@teleworm.us,5224,0.2,14,12,0,5,3,4,4,7385,60,SMS,0
-9450,Dr.,Caio,Azevedo,39,Masculino,Rua Bernardo Guimarães 202,Barbacena,MG,Minas Gerais,36205-052,BR,Brazil,CaioOliveiraAzevedo@teleworm.us,4795,0.24,2,3,0,4,1,0,5,7652,30,Email,0
-9451,Sr.,Fábio,Almeida,29,Masculino,Rua Ribeirão Pires 1118,Osasco,SP,São Paulo,06270-290,BR,Brazil,FabioSantosAlmeida@cuvox.de,4284,0.24,8,0,0,4,2,0,5,4362,59,Email,0
+9450,Dr.,Caio,Azevedo,39,Masculino,Rua Bernardo Guimarães 202,Barbacena,MG,Minas Gerais,36205-052,BR,Brazil,CaioOliveiraAzevedo@teleworm.us,4795,0.24,2,3,0,4,1,0,5,7652,30,Email,1
+9451,Sr.,Fábio,Almeida,29,Masculino,Rua Ribeirão Pires 1118,Osasco,SP,São Paulo,06270-290,BR,Brazil,FabioSantosAlmeida@cuvox.de,4284,0.24,8,0,0,4,2,0,5,4362,59,Email,1
 9452,Sra.,Isabella,Ferreira,46,Feminino,Travessa Comendador Azevedo 269,Alvorada,RS,Rio Grande do Sul,94814-140,BR,Brazil,IsabellaPereiraFerreira@jourrapide.com,5490,0.89,6,0,1,2,14,125,3,9263,64,Push,1
 9453,Sr.,Murilo,Cardoso,56,Masculino,Rua Antônio Ramalho 410,Nova Iguaçu,RJ,Rio de Janeiro,26061-290,BR,Brazil,MuriloRochaCardoso@fleckens.hu,9334,0.83,2,13,0,5,40,199,3,2054,61,SMS,1
-9454,Sr.,Pedro,Silva,58,Masculino,Rua Eubelo 1079,São Paulo,SP,São Paulo,04327-000,BR,Brazil,PedroCarvalhoSilva@jourrapide.com,8455,0.16,1,11,0,1,2,4,5,2814,44,SMS,0
-9455,Sra.,Emilly,Santos,35,Feminino,Rua Oswaldo Ciccone 947,Lençóis Paulista,SP,São Paulo,18681-190,BR,Brazil,EmillyBarbosaSantos@cuvox.de,9209,0.22,12,5,1,3,3,6,4,4113,60,Ligacao,0
-9456,Sr.,Davi,Cardoso,38,Masculino,Rua Toulon 1643,Campo Limpo Paulista,SP,São Paulo,13233-632,BR,Brazil,DaviAraujoCardoso@jourrapide.com,8309,0.28,0,12,0,3,2,6,4,5009,82,Push,0
+9454,Sr.,Pedro,Silva,58,Masculino,Rua Eubelo 1079,São Paulo,SP,São Paulo,04327-000,BR,Brazil,PedroCarvalhoSilva@jourrapide.com,8455,0.16,1,11,0,1,2,4,5,2814,44,SMS,1
+9455,Sra.,Emilly,Santos,35,Feminino,Rua Oswaldo Ciccone 947,Lençóis Paulista,SP,São Paulo,18681-190,BR,Brazil,EmillyBarbosaSantos@cuvox.de,9209,0.22,12,5,1,3,3,6,4,4113,60,Ligacao,1
+9456,Sr.,Davi,Cardoso,38,Masculino,Rua Toulon 1643,Campo Limpo Paulista,SP,São Paulo,13233-632,BR,Brazil,DaviAraujoCardoso@jourrapide.com,8309,0.28,0,12,0,3,2,6,4,5009,82,Push,1
 9457,Sr.,Kauan,Ribeiro,45,Masculino,Rua Maria Candian Amistade 576,Barbacena,MG,Minas Gerais,36201-149,BR,Brazil,KauanCastroRibeiro@teleworm.us,3752,0.83,15,18,0,1,31,95,0,7261,63,Email,1
-9458,Sr.,Leonardo,Alves,64,Masculino,Rua José Maria 1842,Nova Iguaçu,RJ,Rio de Janeiro,26065-026,BR,Brazil,LeonardoSouzaAlves@superrito.com,3262,0.43,8,5,1,2,3,2,5,7489,38,Ligacao,0
-9459,Sra.,Isabella,Pereira,51,Feminino,Rua Missões 185,Cachoeirinha,RS,Rio Grande do Sul,94955-600,BR,Brazil,IsabellaCorreiaPereira@teleworm.us,8737,0.22,8,2,0,2,1,2,5,5692,70,SMS,0
-9460,Sr.,Vitór,Alves,37,Masculino,Rua Artur Mazaferro 1707,Toledo,PR,Paraná,85907-170,BR,Brazil,VitorFerreiraAlves@dayrep.com,6971,0.01,2,6,0,0,3,0,4,6987,64,Push,0
-9461,Sr.,Pedro,Pinto,63,Masculino,Rua José Félix 1338,Sete Lagoas,MG,Minas Gerais,35700-096,BR,Brazil,PedroAlvesPinto@jourrapide.com,3478,0.37,7,15,0,2,1,7,4,790,75,SMS,0
+9458,Sr.,Leonardo,Alves,64,Masculino,Rua José Maria 1842,Nova Iguaçu,RJ,Rio de Janeiro,26065-026,BR,Brazil,LeonardoSouzaAlves@superrito.com,3262,0.43,8,5,1,2,3,2,5,7489,38,Ligacao,1
+9459,Sra.,Isabella,Pereira,51,Feminino,Rua Missões 185,Cachoeirinha,RS,Rio Grande do Sul,94955-600,BR,Brazil,IsabellaCorreiaPereira@teleworm.us,8737,0.22,8,2,0,2,1,2,5,5692,70,SMS,1
+9460,Sr.,Vitór,Alves,37,Masculino,Rua Artur Mazaferro 1707,Toledo,PR,Paraná,85907-170,BR,Brazil,VitorFerreiraAlves@dayrep.com,6971,0.01,2,6,0,0,3,0,4,6987,64,Push,1
+9461,Sr.,Pedro,Pinto,63,Masculino,Rua José Félix 1338,Sete Lagoas,MG,Minas Gerais,35700-096,BR,Brazil,PedroAlvesPinto@jourrapide.com,3478,0.37,7,15,0,2,1,7,4,790,75,SMS,1
 9462,Sra.,Aline,Ribeiro,29,Feminino,1ª Travessa Leopoldo Tantú 1210,Salvador,BA,Bahia,41180-505,BR,Brazil,AlinePintoRibeiro@einrot.com,9137,1,13,12,0,5,18,68,1,5964,90,Ligacao,1
 9463,Sra.,Júlia,Costa,38,Feminino,Rua Panair 1768,Manaus,AM,Amazonas,69073-260,BR,Brazil,JuliaFernandesCosta@armyspy.com,3804,1,3,13,0,2,25,94,0,1674,67,Email,1
 9464,Sra.,Marisa,Almeida,42,Feminino,Rua Doze 1083,São José dos Campos,SP,São Paulo,12226-765,BR,Brazil,MarisaSouzaAlmeida@teleworm.us,6592,0.85,9,19,0,3,19,134,0,6083,85,Push,1
-9465,Sr.,Alex,Ferreira,49,Masculino,Quadra Quadra 14 1619,Planaltina,DF,Distrito Federal,73355-400,BR,Brazil,AlexMeloFerreira@gustr.com,8207,0.4,13,13,0,1,3,5,5,6777,61,SMS,0
+9465,Sr.,Alex,Ferreira,49,Masculino,Quadra Quadra 14 1619,Planaltina,DF,Distrito Federal,73355-400,BR,Brazil,AlexMeloFerreira@gustr.com,8207,0.4,13,13,0,1,3,5,5,6777,61,SMS,1
 9466,Sr.,Miguel,Dias,44,Masculino,Rua Nery 893,Itapecerica da Serra,SP,São Paulo,06864-032,BR,Brazil,MiguelRochaDias@teleworm.us,9045,1,1,16,0,1,26,73,3,6839,39,Email,1
 9467,Sr.,Carlos,Sousa,62,Masculino,Rua 4 100,Goiânia,GO,Goiás,74553-060,BR,Brazil,CarlosPintoSousa@cuvox.de,8415,0.95,11,4,1,4,30,106,3,7741,78,Ligacao,1
-9468,Sra.,Rebeca,Almeida,62,Feminino,Vila Carlos Silva 628,Fortaleza,CE,Ceará,60710-030,BR,Brazil,RebecaCorreiaAlmeida@einrot.com,7502,0.21,12,16,0,1,2,1,5,3389,58,Email,0
-9469,Sra.,Bianca,Carvalho,39,Feminino,Rua Domingos Giacomassi 1554,Curitiba,PR,Paraná,81220-250,BR,Brazil,BiancaPintoCarvalho@cuvox.de,4723,0.22,4,10,0,3,1,1,4,4681,70,Push,0
-9470,Sra.,Thaís,Cavalcanti,65,Feminino,Rua João dos Santos Filho 568,Cachoeiro de Itapemirim,ES,Espírito Santo,29304-750,BR,Brazil,ThaisPintoCavalcanti@teleworm.us,8323,0,13,11,0,5,2,6,5,8591,38,Email,0
-9471,Sr.,João,Almeida,42,Masculino,Travessa Cruz e Souza 844,Alvorada,RS,Rio Grande do Sul,94853-570,BR,Brazil,JoaoGoncalvesAlmeida@jourrapide.com,8341,0.02,2,15,0,0,3,4,4,9830,80,SMS,0
-9472,Sra.,Thaís,Barbosa,42,Feminino,Rua Emílio Cristiano Buhler 198,São Leopoldo,RS,Rio Grande do Sul,93120-450,BR,Brazil,ThaisOliveiraBarbosa@dayrep.com,4376,0.03,14,19,0,4,3,2,5,3883,71,SMS,0
-9473,Sra.,Beatriz,Araujo,52,Feminino,Rua Botafogo 556,João Pessoa,PB,Paraíba,58027-210,BR,Brazil,BeatrizCardosoAraujo@superrito.com,7339,0.47,10,0,0,0,3,3,4,6047,39,Ligacao,0
+9468,Sra.,Rebeca,Almeida,62,Feminino,Vila Carlos Silva 628,Fortaleza,CE,Ceará,60710-030,BR,Brazil,RebecaCorreiaAlmeida@einrot.com,7502,0.21,12,16,0,1,2,1,5,3389,58,Email,1
+9469,Sra.,Bianca,Carvalho,39,Feminino,Rua Domingos Giacomassi 1554,Curitiba,PR,Paraná,81220-250,BR,Brazil,BiancaPintoCarvalho@cuvox.de,4723,0.22,4,10,0,3,1,1,4,4681,70,Push,1
+9470,Sra.,Thaís,Cavalcanti,65,Feminino,Rua João dos Santos Filho 568,Cachoeiro de Itapemirim,ES,Espírito Santo,29304-750,BR,Brazil,ThaisPintoCavalcanti@teleworm.us,8323,0,13,11,0,5,2,6,5,8591,38,Email,1
+9471,Sr.,João,Almeida,42,Masculino,Travessa Cruz e Souza 844,Alvorada,RS,Rio Grande do Sul,94853-570,BR,Brazil,JoaoGoncalvesAlmeida@jourrapide.com,8341,0.02,2,15,0,0,3,4,4,9830,80,SMS,1
+9472,Sra.,Thaís,Barbosa,42,Feminino,Rua Emílio Cristiano Buhler 198,São Leopoldo,RS,Rio Grande do Sul,93120-450,BR,Brazil,ThaisOliveiraBarbosa@dayrep.com,4376,0.03,14,19,0,4,3,2,5,3883,71,SMS,1
+9473,Sra.,Beatriz,Araujo,52,Feminino,Rua Botafogo 556,João Pessoa,PB,Paraíba,58027-210,BR,Brazil,BeatrizCardosoAraujo@superrito.com,7339,0.47,10,0,0,0,3,3,4,6047,39,Ligacao,1
 9474,Sr.,Diogo,Pereira,34,Masculino,Rua Luiz Zamariola 794,Mogi-Guaçu,SP,São Paulo,13848-062,BR,Brazil,DiogoCardosoPereira@gustr.com,9995,0.97,12,9,0,1,39,136,2,4021,59,Email,1
-9475,Sr.,Diego,Castro,45,Masculino,Rua Trinta e Cinco 1031,São Luís,MA,Maranhão,65062-310,BR,Brazil,DiegoOliveiraCastro@gustr.com,3290,0.18,4,8,0,2,3,8,4,6787,75,Push,0
+9475,Sr.,Diego,Castro,45,Masculino,Rua Trinta e Cinco 1031,São Luís,MA,Maranhão,65062-310,BR,Brazil,DiegoOliveiraCastro@gustr.com,3290,0.18,4,8,0,2,3,8,4,6787,75,Push,1
 9476,Sra.,Rafaela,Pereira,53,Feminino,Rua Bueno Aires 1077,Patos de Minas,MG,Minas Gerais,38705-146,BR,Brazil,RafaelaGomesPereira@gustr.com,8511,0.88,8,6,0,2,30,140,1,209,68,Push,1
-9477,Sr.,Vinícius,Azevedo,57,Masculino,Rua Guilherme Moreira 1535,Rio de Janeiro,RJ,Rio de Janeiro,22765-220,BR,Brazil,ViniciusSousaAzevedo@fleckens.hu,7056,0.38,1,7,0,5,2,7,5,8696,35,SMS,0
+9477,Sr.,Vinícius,Azevedo,57,Masculino,Rua Guilherme Moreira 1535,Rio de Janeiro,RJ,Rio de Janeiro,22765-220,BR,Brazil,ViniciusSousaAzevedo@fleckens.hu,7056,0.38,1,7,0,5,2,7,5,8696,35,SMS,1
 9478,Sr.,Leonardo,Souza,58,Masculino,Rua Junqueiro 1443,Arapiraca,AL,Alagoas,57308-500,BR,Brazil,LeonardoGoncalvesSouza@armyspy.com,9252,0.88,4,12,0,0,19,137,3,8147,30,Push,1
-9479,Sra.,Maria,Sousa,48,Feminino,Avenida Portugal 1517,Santo André,SP,São Paulo,09040-011,BR,Brazil,MariaSouzaSousa@fleckens.hu,8203,0.17,10,3,1,4,2,3,4,3220,78,Push,0
-9480,Sr.,Guilherme,Oliveira,60,Masculino,Rua Comerciante João Venerando Lima 268,João Pessoa,PB,Paraíba,58056-480,BR,Brazil,GuilhermeAlmeidaOliveira@dayrep.com,8658,0.01,5,7,0,4,2,5,5,2066,62,Email,0
-9481,Sr.,Kauan,Santos,30,Masculino,Rua Júlio Gameiro 171,Teresópolis,RJ,Rio de Janeiro,25964-230,BR,Brazil,KauanGomesSantos@fleckens.hu,6362,0.4,6,4,0,0,3,7,5,9162,67,Email,0
-9482,Sra.,Bruna,Pereira,38,Feminino,Rua Ismael Cardona 1236,São Paulo,SP,São Paulo,08485-446,BR,Brazil,BrunaCorreiaPereira@armyspy.com,3495,0.32,3,19,0,0,2,2,4,3713,35,Ligacao,0
+9479,Sra.,Maria,Sousa,48,Feminino,Avenida Portugal 1517,Santo André,SP,São Paulo,09040-011,BR,Brazil,MariaSouzaSousa@fleckens.hu,8203,0.17,10,3,1,4,2,3,4,3220,78,Push,1
+9480,Sr.,Guilherme,Oliveira,60,Masculino,Rua Comerciante João Venerando Lima 268,João Pessoa,PB,Paraíba,58056-480,BR,Brazil,GuilhermeAlmeidaOliveira@dayrep.com,8658,0.01,5,7,0,4,2,5,5,2066,62,Email,1
+9481,Sr.,Kauan,Santos,30,Masculino,Rua Júlio Gameiro 171,Teresópolis,RJ,Rio de Janeiro,25964-230,BR,Brazil,KauanGomesSantos@fleckens.hu,6362,0.4,6,4,0,0,3,7,5,9162,67,Email,1
+9482,Sra.,Bruna,Pereira,38,Feminino,Rua Ismael Cardona 1236,São Paulo,SP,São Paulo,08485-446,BR,Brazil,BrunaCorreiaPereira@armyspy.com,3495,0.32,3,19,0,0,2,2,4,3713,35,Ligacao,1
 9483,Sr.,Martim,Silva,30,Masculino,Rua José Ferreira dos Santos 1002,Vitória,ES,Espírito Santo,29043-665,BR,Brazil,MartimCostaSilva@einrot.com,5262,0.81,11,11,0,0,11,102,1,3677,51,Push,1
 9484,Sr.,Paulo,Cunha,55,Masculino,Avenida O Trabuco Rádio Jornal 1828,Osasco,SP,São Paulo,06273-060,BR,Brazil,PauloAlvesCunha@fleckens.hu,5539,0.8,12,6,0,2,28,62,0,7397,49,SMS,1
 9485,Sra.,Sophia,Ribeiro,19,Feminino,Travessa Blumenau 1582,Salvador,BA,Bahia,41210-350,BR,Brazil,SophiaCarvalhoRibeiro@einrot.com,7104,0.8,10,10,0,2,11,35,2,9365,87,Ligacao,1
 9486,Sr.,Luan,Sousa,58,Masculino,Rua Nove 643,Jaboatão dos Guararapes,PE,Pernambuco,54290-052,BR,Brazil,LuanSouzaSousa@superrito.com,5273,1,4,0,0,3,36,148,2,8777,82,Email,1
-9487,Sr.,Eduardo,Pinto,24,Masculino,Rua São Carlos 11,Itapira,SP,São Paulo,13973-182,BR,Brazil,EduardoSilvaPinto@fleckens.hu,4937,0.31,3,8,0,3,1,3,4,2247,45,SMS,0
-9488,Sr.,Renan,Ribeiro,60,Masculino,Rua São Silvestre 102,Ribeirão das Neves,MG,Minas Gerais,33930-100,BR,Brazil,RenanOliveiraRibeiro@fleckens.hu,8208,0.48,0,5,0,4,1,8,4,9523,74,Push,0
+9487,Sr.,Eduardo,Pinto,24,Masculino,Rua São Carlos 11,Itapira,SP,São Paulo,13973-182,BR,Brazil,EduardoSilvaPinto@fleckens.hu,4937,0.31,3,8,0,3,1,3,4,2247,45,SMS,1
+9488,Sr.,Renan,Ribeiro,60,Masculino,Rua São Silvestre 102,Ribeirão das Neves,MG,Minas Gerais,33930-100,BR,Brazil,RenanOliveiraRibeiro@fleckens.hu,8208,0.48,0,5,0,4,1,8,4,9523,74,Push,1
 9489,Sra.,Luana,Azevedo,52,Feminino,Rua 15 571,Maracanaú,CE,Ceará,61921-440,BR,Brazil,LuanaBarrosAzevedo@einrot.com,3919,0.82,6,5,0,5,46,143,2,6927,55,Ligacao,1
 9490,Sra.,Yasmin,Rocha,41,Feminino,Rua Imperatriz 1323,Manaus,AM,Amazonas,69080-390,BR,Brazil,YasminAlvesRocha@cuvox.de,6406,0.94,8,9,0,1,32,98,0,1492,63,Push,1
-9491,Sr.,Danilo,Gomes,46,Masculino,Rua Alceu Ferreira Viveiros 943,Rio de Janeiro,RJ,Rio de Janeiro,23560-360,BR,Brazil,DaniloCastroGomes@fleckens.hu,4030,0.12,13,11,0,4,2,3,4,9402,86,Push,0
-9492,Sr.,Mateus,Correia,34,Masculino,Beco Cinco 1010,Governador Valadares,MG,Minas Gerais,35060-750,BR,Brazil,MateusFerreiraCorreia@teleworm.us,5374,0.48,0,13,1,1,1,7,4,5989,68,Ligacao,0
+9491,Sr.,Danilo,Gomes,46,Masculino,Rua Alceu Ferreira Viveiros 943,Rio de Janeiro,RJ,Rio de Janeiro,23560-360,BR,Brazil,DaniloCastroGomes@fleckens.hu,4030,0.12,13,11,0,4,2,3,4,9402,86,Push,1
+9492,Sr.,Mateus,Correia,34,Masculino,Beco Cinco 1010,Governador Valadares,MG,Minas Gerais,35060-750,BR,Brazil,MateusFerreiraCorreia@teleworm.us,5374,0.48,0,13,1,1,1,7,4,5989,68,Ligacao,1
 9493,Sra.,Gabrielly,Rodrigues,65,Feminino,Rua das Margaridas 1638,Campinas,SP,São Paulo,13087-450,BR,Brazil,GabriellyAraujoRodrigues@gustr.com,4356,0.91,5,3,0,1,23,75,0,7573,43,SMS,1
 9494,Sr.,Marcos,Ferreira,52,Masculino,Rua Cândido Ribeiro de Britto 600,Marília,SP,São Paulo,17512-850,BR,Brazil,MarcosSouzaFerreira@einrot.com,6437,0.88,5,12,1,0,25,180,0,625,84,Ligacao,1
 9495,Sr.,Breno,Alves,19,Masculino,Quadra QBR 02 Bloco H 1147,Santa Maria,DF,Distrito Federal,72593-018,BR,Brazil,BrenoGoncalvesAlves@einrot.com,6194,0.93,7,4,0,1,47,70,2,8958,48,Push,1
-9496,Sr.,Pedro,Barros,62,Masculino,Rua Luís Antônio da Costa 301,São Paulo,SP,São Paulo,03924-090,BR,Brazil,PedroSilvaBarros@teleworm.us,8036,0.39,9,3,0,2,2,3,4,8639,57,SMS,0
-9497,Sr.,Kauã,Carvalho,38,Masculino,Rua Henry Ford 1338,Osasco,SP,São Paulo,06210-108,BR,Brazil,KauaLimaCarvalho@gustr.com,6028,0.19,4,0,0,0,1,6,4,2186,40,SMS,0
-9498,Sr.,Nicolas,Goncalves,37,Masculino,Avenida Melvyn Jones 1663,Teresópolis,RJ,Rio de Janeiro,25954-220,BR,Brazil,NicolasRodriguesGoncalves@einrot.com,3650,0.27,1,8,0,2,1,4,5,657,31,Ligacao,0
+9496,Sr.,Pedro,Barros,62,Masculino,Rua Luís Antônio da Costa 301,São Paulo,SP,São Paulo,03924-090,BR,Brazil,PedroSilvaBarros@teleworm.us,8036,0.39,9,3,0,2,2,3,4,8639,57,SMS,1
+9497,Sr.,Kauã,Carvalho,38,Masculino,Rua Henry Ford 1338,Osasco,SP,São Paulo,06210-108,BR,Brazil,KauaLimaCarvalho@gustr.com,6028,0.19,4,0,0,0,1,6,4,2186,40,SMS,1
+9498,Sr.,Nicolas,Goncalves,37,Masculino,Avenida Melvyn Jones 1663,Teresópolis,RJ,Rio de Janeiro,25954-220,BR,Brazil,NicolasRodriguesGoncalves@einrot.com,3650,0.27,1,8,0,2,1,4,5,657,31,Ligacao,1
 9499,Sra.,Marina,Almeida,49,Feminino,Rua Eduardo Adenis 1158,São Paulo,SP,São Paulo,02560-190,BR,Brazil,MarinaFernandesAlmeida@gustr.com,7968,1,2,15,1,4,45,59,3,8754,58,SMS,1
 9500,Sr.,Nicolas,Alves,43,Masculino,Rua Quarenta e Dois 1709,Manaus,AM,Amazonas,69088-088,BR,Brazil,NicolasGoncalvesAlves@cuvox.de,5313,1,15,20,0,3,12,125,1,8032,38,SMS,1
 9501,Sr.,Otávio,Santos,24,Masculino,Rua Creciúma 12,Belo Horizonte,MG,Minas Gerais,30626-650,BR,Brazil,OtavioPintoSantos@gustr.com,5511,0.91,12,4,1,5,48,66,0,2514,72,Ligacao,1
 9502,Sr.,Murilo,Cavalcanti,60,Masculino,Rua Tomás Machado 1868,Duque de Caxias,RJ,Rio de Janeiro,25264-080,BR,Brazil,MuriloFerreiraCavalcanti@cuvox.de,8782,1,7,5,0,2,18,173,0,9580,83,Ligacao,1
-9503,Sra.,Matilde,Barros,40,Feminino,Rua Raphael Picasso 1793,Sertãozinho,SP,São Paulo,14164-152,BR,Brazil,MatildePintoBarros@jourrapide.com,5247,0.5,7,14,0,3,2,3,5,1055,37,Ligacao,0
+9503,Sra.,Matilde,Barros,40,Feminino,Rua Raphael Picasso 1793,Sertãozinho,SP,São Paulo,14164-152,BR,Brazil,MatildePintoBarros@jourrapide.com,5247,0.5,7,14,0,3,2,3,5,1055,37,Ligacao,1
 9504,Sr.,Victor,Rocha,65,Masculino,Avenida Hideo Takada 128,Sertãozinho,SP,São Paulo,14177-170,BR,Brazil,VictorOliveiraRocha@dayrep.com,5838,1,8,11,1,3,17,115,2,3228,40,SMS,1
 9505,Sra.,Evelyn,Pereira,47,Feminino,Rua Coronel Jorge Ferreira de Araújo 50,Paulista,PE,Pernambuco,53427-620,BR,Brazil,EvelynSantosPereira@gustr.com,9838,1,0,2,1,5,21,98,0,2228,50,Email,1
-9506,Sra.,Aline,Rocha,21,Feminino,Rua Ouro Preto 1876,Ipatinga,MG,Minas Gerais,35160-020,BR,Brazil,AlineDiasRocha@rhyta.com,3295,0.5,1,12,0,0,2,5,4,2706,61,Email,0
-9507,Sr.,Vinicius,Sousa,55,Masculino,Rua do Cartório 559,Salvador,BA,Bahia,41270-430,BR,Brazil,ViniciusPintoSousa@teleworm.us,5760,0.33,8,8,0,5,3,8,5,6389,39,SMS,0
+9506,Sra.,Aline,Rocha,21,Feminino,Rua Ouro Preto 1876,Ipatinga,MG,Minas Gerais,35160-020,BR,Brazil,AlineDiasRocha@rhyta.com,3295,0.5,1,12,0,0,2,5,4,2706,61,Email,1
+9507,Sr.,Vinicius,Sousa,55,Masculino,Rua do Cartório 559,Salvador,BA,Bahia,41270-430,BR,Brazil,ViniciusPintoSousa@teleworm.us,5760,0.33,8,8,0,5,3,8,5,6389,39,SMS,1
 9508,Sr.,Kai,Almeida,32,Masculino,3ª Travessa da Linha Velha 1783,Jaboatão dos Guararapes,PE,Pernambuco,54325-023,BR,Brazil,KaiCavalcantiAlmeida@rhyta.com,6078,1,5,8,0,2,45,52,0,1384,34,Email,1
-9509,Sr.,Thiago,Costa,26,Masculino,Rua Luiz da Silva Camargo 1545,Jundiaí,SP,São Paulo,13218-455,BR,Brazil,ThiagoGoncalvesCosta@einrot.com,9059,0.07,1,20,0,4,2,6,5,4319,71,Email,0
+9509,Sr.,Thiago,Costa,26,Masculino,Rua Luiz da Silva Camargo 1545,Jundiaí,SP,São Paulo,13218-455,BR,Brazil,ThiagoGoncalvesCosta@einrot.com,9059,0.07,1,20,0,4,2,6,5,4319,71,Email,1
 9510,Sra.,Thaís,Araujo,37,Feminino,Passagem Minima 907,Guarulhos,SP,São Paulo,07121-001,BR,Brazil,ThaisPintoAraujo@einrot.com,4269,1,12,4,0,5,16,75,1,640,41,Email,1
 9511,Sr.,Luís,Oliveira,38,Masculino,Avenida Comendador Mancor Daud 716,São José do Rio Preto,SP,São Paulo,15080-080,BR,Brazil,LuisAraujoOliveira@superrito.com,4074,0.97,3,2,0,5,13,85,2,9302,49,Ligacao,1
-9512,Sr.,Daniel,Barros,55,Masculino,Rua Quintino Bocaiúva 1232,Jaú,SP,São Paulo,17202-120,BR,Brazil,DanielAlvesBarros@teleworm.us,8460,0.39,2,18,0,3,1,1,5,1079,87,Ligacao,0
-9513,Sra.,Marina,Oliveira,61,Feminino,Rua Padre Fabiano 1698,Montes Claros,MG,Minas Gerais,39401-168,BR,Brazil,MarinaAraujoOliveira@cuvox.de,8476,0.09,2,6,0,2,3,6,5,1116,56,Push,0
-9514,Sr.,Guilherme,Cunha,24,Masculino,Rua Jorge Schuch 2000,São Leopoldo,RS,Rio Grande do Sul,93052-130,BR,Brazil,GuilhermeCardosoCunha@einrot.com,5994,0.03,13,4,1,0,3,5,4,7075,33,Email,0
+9512,Sr.,Daniel,Barros,55,Masculino,Rua Quintino Bocaiúva 1232,Jaú,SP,São Paulo,17202-120,BR,Brazil,DanielAlvesBarros@teleworm.us,8460,0.39,2,18,0,3,1,1,5,1079,87,Ligacao,1
+9513,Sra.,Marina,Oliveira,61,Feminino,Rua Padre Fabiano 1698,Montes Claros,MG,Minas Gerais,39401-168,BR,Brazil,MarinaAraujoOliveira@cuvox.de,8476,0.09,2,6,0,2,3,6,5,1116,56,Push,1
+9514,Sr.,Guilherme,Cunha,24,Masculino,Rua Jorge Schuch 2000,São Leopoldo,RS,Rio Grande do Sul,93052-130,BR,Brazil,GuilhermeCardosoCunha@einrot.com,5994,0.03,13,4,1,0,3,5,4,7075,33,Email,1
 9515,Sr.,Mateus,Dias,32,Masculino,Rua Sessenta e Cinco 1630,Sete Lagoas,MG,Minas Gerais,35703-295,BR,Brazil,MateusAlvesDias@cuvox.de,4017,1,3,6,0,5,37,148,1,4727,30,Email,1
 9516,Sra.,Julieta,Martins,19,Feminino,Rua Ettore Baggio 11,Pirassununga,SP,São Paulo,13630-618,BR,Brazil,JulietaCarvalhoMartins@rhyta.com,9539,0.83,15,15,0,3,48,72,1,8825,47,Email,1
-9517,Sra.,Mariana,Ribeiro,22,Feminino,Travessa Rufino Gomes 563,Fortaleza,CE,Ceará,60762-121,BR,Brazil,MarianaOliveiraRibeiro@jourrapide.com,3844,0.13,5,7,0,1,3,6,5,9697,59,SMS,0
-9518,Dr.,Arthur,Barbosa,43,Masculino,Rua R 43,Barbacena,MG,Minas Gerais,36202-418,BR,Brazil,ArthurAlmeidaBarbosa@dayrep.com,3290,0.42,12,3,0,3,1,2,5,3383,45,Push,0
+9517,Sra.,Mariana,Ribeiro,22,Feminino,Travessa Rufino Gomes 563,Fortaleza,CE,Ceará,60762-121,BR,Brazil,MarianaOliveiraRibeiro@jourrapide.com,3844,0.13,5,7,0,1,3,6,5,9697,59,SMS,1
+9518,Dr.,Arthur,Barbosa,43,Masculino,Rua R 43,Barbacena,MG,Minas Gerais,36202-418,BR,Brazil,ArthurAlmeidaBarbosa@dayrep.com,3290,0.42,12,3,0,3,1,2,5,3383,45,Push,1
 9519,Dr.,Nicolas,Goncalves,57,Masculino,Rua Roberto Veiga 573,Barra do Piraí,RJ,Rio de Janeiro,27120-300,BR,Brazil,NicolasRibeiroGoncalves@einrot.com,3082,0.85,4,6,0,1,43,33,3,4032,38,Push,1
-9520,Sr.,Nicolash,Ribeiro,60,Masculino,Rua Bolsa da Moda 115,Recife,PE,Pernambuco,51340-107,BR,Brazil,NicolashPereiraRibeiro@cuvox.de,9435,0.42,3,8,0,5,1,7,5,462,41,Push,0
-9521,Sr.,Daniel,Barros,56,Masculino,Avenida da Saúde 839,Rio Claro,SP,São Paulo,13506-775,BR,Brazil,DanielMeloBarros@dayrep.com,6731,0.44,12,2,1,0,3,3,4,2501,36,Ligacao,0
-9522,Sra.,Livia,Ribeiro,23,Feminino,Rua Rio Candeias 1498,Porto Velho,RO,Rondônia,78912-530,BR,Brazil,LiviaSilvaRibeiro@teleworm.us,9128,0.28,14,7,0,2,3,5,5,1683,86,Push,0
-9523,Sr.,Eduardo,Barbosa,51,Masculino,Rua Elvira Dendena 1100,Porto Alegre,RS,Rio Grande do Sul,91787-193,BR,Brazil,EduardoSouzaBarbosa@jourrapide.com,3931,0.22,13,4,0,1,2,6,5,7262,47,Push,0
+9520,Sr.,Nicolash,Ribeiro,60,Masculino,Rua Bolsa da Moda 115,Recife,PE,Pernambuco,51340-107,BR,Brazil,NicolashPereiraRibeiro@cuvox.de,9435,0.42,3,8,0,5,1,7,5,462,41,Push,1
+9521,Sr.,Daniel,Barros,56,Masculino,Avenida da Saúde 839,Rio Claro,SP,São Paulo,13506-775,BR,Brazil,DanielMeloBarros@dayrep.com,6731,0.44,12,2,1,0,3,3,4,2501,36,Ligacao,1
+9522,Sra.,Livia,Ribeiro,23,Feminino,Rua Rio Candeias 1498,Porto Velho,RO,Rondônia,78912-530,BR,Brazil,LiviaSilvaRibeiro@teleworm.us,9128,0.28,14,7,0,2,3,5,5,1683,86,Push,1
+9523,Sr.,Eduardo,Barbosa,51,Masculino,Rua Elvira Dendena 1100,Porto Alegre,RS,Rio Grande do Sul,91787-193,BR,Brazil,EduardoSouzaBarbosa@jourrapide.com,3931,0.22,13,4,0,1,2,6,5,7262,47,Push,1
 9524,Sr.,Vitór,Carvalho,58,Masculino,Rua 6 1691,Goiânia,GO,Goiás,74115-070,BR,Brazil,VitorRochaCarvalho@cuvox.de,5739,0.88,7,10,0,3,42,130,3,4562,78,Ligacao,1
 9525,Sr.,Vinícius,Cunha,42,Masculino,Rua Noventa e Oito 1933,Sete Lagoas,MG,Minas Gerais,35703-362,BR,Brazil,ViniciusAlmeidaCunha@gustr.com,3920,0.95,9,3,0,5,14,96,1,1039,86,Email,1
-9526,Sr.,Douglas,Carvalho,21,Masculino,Rua Anchieta 1934,Altamira,PA,Pará,68371-190,BR,Brazil,DouglasRibeiroCarvalho@teleworm.us,7112,0.3,11,11,0,4,2,6,5,4683,47,Email,0
-9527,Sr.,Rafael,Souza,37,Masculino,Rua Edmundo Vosgrau 1669,Campinas,SP,São Paulo,13042-330,BR,Brazil,RafaelAraujoSouza@fleckens.hu,8572,0.23,6,6,0,1,3,6,4,6862,82,Email,0
+9526,Sr.,Douglas,Carvalho,21,Masculino,Rua Anchieta 1934,Altamira,PA,Pará,68371-190,BR,Brazil,DouglasRibeiroCarvalho@teleworm.us,7112,0.3,11,11,0,4,2,6,5,4683,47,Email,1
+9527,Sr.,Rafael,Souza,37,Masculino,Rua Edmundo Vosgrau 1669,Campinas,SP,São Paulo,13042-330,BR,Brazil,RafaelAraujoSouza@fleckens.hu,8572,0.23,6,6,0,1,3,6,4,6862,82,Email,1
 9528,Sra.,Isabella,Rodrigues,50,Feminino,Praça Bratislava 291,Sorocaba,SP,São Paulo,18085-035,BR,Brazil,IsabellaCavalcantiRodrigues@rhyta.com,5426,1,11,1,1,5,16,64,2,225,78,Email,1
-9529,Sr.,Bruno,Oliveira,33,Masculino,Rua Carlos Giudice 1483,Santana do Livramento,RS,Rio Grande do Sul,97572-620,BR,Brazil,BrunoRochaOliveira@jourrapide.com,9492,0.11,14,2,0,3,1,6,4,3863,84,SMS,0
-9530,Sra.,Emily,Araujo,31,Feminino,Rua Toinzinho Amâncio 1333,Patos de Minas,MG,Minas Gerais,38700-010,BR,Brazil,EmilyMeloAraujo@superrito.com,9654,0.08,9,20,0,5,1,3,4,7501,64,Email,0
-9531,Sr.,Cauã,Carvalho,46,Masculino,Rua Quatorze 612,Patos de Minas,MG,Minas Gerais,38701-723,BR,Brazil,CauaMartinsCarvalho@rhyta.com,7855,0.07,8,16,0,5,3,6,4,5545,80,SMS,0
+9529,Sr.,Bruno,Oliveira,33,Masculino,Rua Carlos Giudice 1483,Santana do Livramento,RS,Rio Grande do Sul,97572-620,BR,Brazil,BrunoRochaOliveira@jourrapide.com,9492,0.11,14,2,0,3,1,6,4,3863,84,SMS,1
+9530,Sra.,Emily,Araujo,31,Feminino,Rua Toinzinho Amâncio 1333,Patos de Minas,MG,Minas Gerais,38700-010,BR,Brazil,EmilyMeloAraujo@superrito.com,9654,0.08,9,20,0,5,1,3,4,7501,64,Email,1
+9531,Sr.,Cauã,Carvalho,46,Masculino,Rua Quatorze 612,Patos de Minas,MG,Minas Gerais,38701-723,BR,Brazil,CauaMartinsCarvalho@rhyta.com,7855,0.07,8,16,0,5,3,6,4,5545,80,SMS,1
 9532,Sra.,Sophia,Rodrigues,49,Feminino,Rua Arion 879,Salvador,BA,Bahia,41740-310,BR,Brazil,SophiaMartinsRodrigues@dayrep.com,7396,1,1,0,0,4,41,188,1,4379,86,Push,1
 9533,Sra.,Emilly,Alves,49,Feminino,Rua Nogueira Braga 717,Belford Roxo,RJ,Rio de Janeiro,26120-270,BR,Brazil,EmillyDiasAlves@gustr.com,9809,0.97,2,18,0,0,22,96,3,7127,32,Push,1
 9534,Sr.,Victor,Azevedo,49,Masculino,Rua João Pinheiro 18,Anápolis,GO,Goiás,75064-060,BR,Brazil,VictorDiasAzevedo@jourrapide.com,5563,0.87,10,3,0,1,33,81,0,6582,84,Ligacao,1
-9535,Sra.,Rafaela,Santos,66,Feminino,Rua Frei Vicente 130,Joinville,SC,Santa Catarina,89230-230,BR,Brazil,RafaelaGoncalvesSantos@armyspy.com,4533,0.06,13,13,0,4,2,8,5,9730,71,Email,0
+9535,Sra.,Rafaela,Santos,66,Feminino,Rua Frei Vicente 130,Joinville,SC,Santa Catarina,89230-230,BR,Brazil,RafaelaGoncalvesSantos@armyspy.com,4533,0.06,13,13,0,4,2,8,5,9730,71,Email,1
 9536,Sr.,Lucas,Lima,39,Masculino,Vila Moraes 206,Belém,PA,Pará,66055-390,BR,Brazil,LucasFernandesLima@einrot.com,4753,0.91,8,5,0,4,15,126,2,3568,45,Email,1
 9537,Sra.,Gabriela,Gomes,47,Feminino,Rua Cantador-amarelo 1475,Arapongas,PR,Paraná,86707-660,BR,Brazil,GabrielaAlmeidaGomes@fleckens.hu,8489,0.83,6,3,0,0,48,178,3,8586,89,Push,1
 9538,Dr.,Gabrielle,Barros,23,Feminino,Rua Jair Venâncio de Paula 1003,São José dos Campos,SP,São Paulo,12247-360,BR,Brazil,GabrielleSantosBarros@jourrapide.com,4333,0.85,3,1,0,0,28,53,1,4485,46,Ligacao,1
-9539,Sra.,Leila,Martins,60,Feminino,Rua Leonardo Lima 1972,Gravataí,RS,Rio Grande do Sul,94090-650,BR,Brazil,LeilaSantosMartins@gustr.com,3377,0.28,0,2,0,5,2,0,5,5631,47,Ligacao,0
-9540,Sr.,Leonardo,Ferreira,18,Masculino,Rua Catarina da Conceição Cardoso 106,Bauru,SP,São Paulo,17031-603,BR,Brazil,LeonardoSouzaFerreira@fleckens.hu,7473,0.17,3,11,0,1,2,2,4,9178,63,Ligacao,0
+9539,Sra.,Leila,Martins,60,Feminino,Rua Leonardo Lima 1972,Gravataí,RS,Rio Grande do Sul,94090-650,BR,Brazil,LeilaSantosMartins@gustr.com,3377,0.28,0,2,0,5,2,0,5,5631,47,Ligacao,1
+9540,Sr.,Leonardo,Ferreira,18,Masculino,Rua Catarina da Conceição Cardoso 106,Bauru,SP,São Paulo,17031-603,BR,Brazil,LeonardoSouzaFerreira@fleckens.hu,7473,0.17,3,11,0,1,2,2,4,9178,63,Ligacao,1
 9541,Sra.,Yasmin,Pereira,20,Feminino,Beco Dom Bosco 578,Manaus,AM,Amazonas,69080-380,BR,Brazil,YasminRochaPereira@dayrep.com,9760,1,8,9,0,1,18,165,0,3585,55,Email,1
 9542,Sra.,Beatriz,Alves,27,Feminino,Rua Maria Izabel de Souza Mello 496,Mogi das Cruzes,SP,São Paulo,08715-420,BR,Brazil,BeatrizAzevedoAlves@rhyta.com,3105,1,6,4,0,5,35,150,2,6624,30,SMS,1
 9543,Sra.,Matilde,Barros,22,Feminino,Quadra Quadra 202 Conjunto 05 706,Recanto das Emas,DF,Distrito Federal,72610-205,BR,Brazil,MatildeGomesBarros@armyspy.com,9686,0.98,4,5,0,4,21,75,1,6772,89,SMS,1
@@ -9547,310 +9547,310 @@
 9546,Sra.,Aline,Carvalho,32,Feminino,Rua Waldemar Tomé 1316,Marília,SP,São Paulo,17505-610,BR,Brazil,AlineMartinsCarvalho@cuvox.de,5276,0.84,4,12,0,0,26,181,0,9546,31,Push,1
 9547,Sr.,Antônio,Carvalho,46,Masculino,Rua Estácio Rodrigues 722,São Paulo,SP,São Paulo,08141-365,BR,Brazil,AntonioDiasCarvalho@teleworm.us,6603,1,3,10,1,5,31,124,0,6039,90,Push,1
 9548,Sr.,Renan,Fernandes,66,Masculino,Rua Pedro Marcelo 618,Sorocaba,SP,São Paulo,18071-165,BR,Brazil,RenanAlmeidaFernandes@armyspy.com,9092,0.8,1,0,0,5,18,158,2,980,60,Ligacao,1
-9549,Sr.,Tiago,Santos,64,Masculino,Rua Alfredo José Pinto 413,Curitiba,PR,Paraná,81320-180,BR,Brazil,TiagoFernandesSantos@gustr.com,6620,0.32,5,3,1,5,3,3,5,2713,53,Email,0
-9550,Sra.,Júlia,Ferreira,59,Feminino,Rua dos Estudantes 475,Cataguases,MG,Minas Gerais,36770-018,BR,Brazil,JuliaCostaFerreira@superrito.com,7217,0.07,0,16,0,1,2,3,5,9573,55,Push,0
-9551,Sr.,Fábio,Goncalves,52,Masculino,Rua Luís Aranha de Vasconcelos 269,São Paulo,SP,São Paulo,05818-330,BR,Brazil,FabioSilvaGoncalves@dayrep.com,6935,0.49,12,11,1,1,1,6,4,3248,39,Email,0
-9552,Sr.,Breno,Martins,57,Masculino,Rua João Roberto Marcelino 1938,Suzano,SP,São Paulo,08696-125,BR,Brazil,BrenoRibeiroMartins@dayrep.com,3654,0.37,3,1,0,4,3,7,4,2143,76,SMS,0
-9553,Sra.,Nicole,Goncalves,24,Feminino,Rua João Tedesco 1746,Piracicaba,SP,São Paulo,13425-120,BR,Brazil,NicoleCastroGoncalves@teleworm.us,7379,0.17,2,18,0,3,1,2,4,7495,85,SMS,0
+9549,Sr.,Tiago,Santos,64,Masculino,Rua Alfredo José Pinto 413,Curitiba,PR,Paraná,81320-180,BR,Brazil,TiagoFernandesSantos@gustr.com,6620,0.32,5,3,1,5,3,3,5,2713,53,Email,1
+9550,Sra.,Júlia,Ferreira,59,Feminino,Rua dos Estudantes 475,Cataguases,MG,Minas Gerais,36770-018,BR,Brazil,JuliaCostaFerreira@superrito.com,7217,0.07,0,16,0,1,2,3,5,9573,55,Push,1
+9551,Sr.,Fábio,Goncalves,52,Masculino,Rua Luís Aranha de Vasconcelos 269,São Paulo,SP,São Paulo,05818-330,BR,Brazil,FabioSilvaGoncalves@dayrep.com,6935,0.49,12,11,1,1,1,6,4,3248,39,Email,1
+9552,Sr.,Breno,Martins,57,Masculino,Rua João Roberto Marcelino 1938,Suzano,SP,São Paulo,08696-125,BR,Brazil,BrenoRibeiroMartins@dayrep.com,3654,0.37,3,1,0,4,3,7,4,2143,76,SMS,1
+9553,Sra.,Nicole,Goncalves,24,Feminino,Rua João Tedesco 1746,Piracicaba,SP,São Paulo,13425-120,BR,Brazil,NicoleCastroGoncalves@teleworm.us,7379,0.17,2,18,0,3,1,2,4,7495,85,SMS,1
 9554,Sra.,Brenda,Cunha,49,Feminino,Rua Castro Alves 302,São João de Meriti,RJ,Rio de Janeiro,25586-155,BR,Brazil,BrendaRochaCunha@armyspy.com,7620,0.91,7,8,0,4,45,50,2,2948,43,Email,1
 9555,Sra.,Julieta,Araujo,52,Feminino,Travessa Soares 1816,Nova Iguaçu,RJ,Rio de Janeiro,26255-110,BR,Brazil,JulietaAlmeidaAraujo@fleckens.hu,7636,1,12,1,0,0,46,192,0,1900,78,Push,1
 9556,Sr.,Luís,Melo,32,Masculino,Avenida Saga 67,São José dos Campos,SP,São Paulo,12236-170,BR,Brazil,LuisCardosoMelo@einrot.com,7371,1,11,10,0,1,14,51,1,7746,67,Push,1
-9557,Sra.,Isabella,Dias,62,Feminino,Rua Gregório Rodrigues 1860,Fortaleza,CE,Ceará,60511-790,BR,Brazil,IsabellaLimaDias@rhyta.com,4240,0.31,2,19,0,3,1,0,5,7198,59,SMS,0
+9557,Sra.,Isabella,Dias,62,Feminino,Rua Gregório Rodrigues 1860,Fortaleza,CE,Ceará,60511-790,BR,Brazil,IsabellaLimaDias@rhyta.com,4240,0.31,2,19,0,3,1,0,5,7198,59,SMS,1
 9558,Sra.,Vitoria,Santos,57,Feminino,Rua Anhumas 1423,Arapongas,PR,Paraná,86707-340,BR,Brazil,VitoriaCavalcantiSantos@teleworm.us,3143,1,10,12,0,3,15,136,1,2043,81,Ligacao,1
 9559,Sra.,Beatriz,Cavalcanti,31,Feminino,Rua Mathias Moritz 38,Brusque,SC,Santa Catarina,88352-450,BR,Brazil,BeatrizPintoCavalcanti@einrot.com,8918,0.9,8,3,1,5,12,137,1,5229,65,Push,1
 9560,Sra.,Aline,Barros,55,Feminino,Vila Georgina Virino 1890,Fortaleza,CE,Ceará,60345-830,BR,Brazil,AlineBarbosaBarros@einrot.com,7889,1,8,4,1,4,44,110,0,9884,40,Email,1
 9561,Sr.,Vinícius,Oliveira,54,Masculino,Rua Professora Beatriz Cortez 858,Natal,RN,Rio Grande do Norte,59115-250,BR,Brazil,ViniciusCorreiaOliveira@cuvox.de,9888,0.89,15,6,1,5,24,174,3,1438,66,Ligacao,1
 9562,Sr.,Miguel,Rocha,61,Masculino,Avenida Júlio Caruso 1042,Volta Redonda,RJ,Rio de Janeiro,27273-041,BR,Brazil,MiguelAlvesRocha@cuvox.de,7341,0.92,6,14,0,1,15,54,0,4886,70,Ligacao,1
-9563,Sra.,Eduarda,Araujo,45,Feminino,Loteamento Aquarela do Calhau 877,São Luís,MA,Maranhão,65071-765,BR,Brazil,EduardaCunhaAraujo@armyspy.com,4260,0.09,8,2,0,1,1,8,4,2755,79,Push,0
+9563,Sra.,Eduarda,Araujo,45,Feminino,Loteamento Aquarela do Calhau 877,São Luís,MA,Maranhão,65071-765,BR,Brazil,EduardaCunhaAraujo@armyspy.com,4260,0.09,8,2,0,1,1,8,4,2755,79,Push,1
 9564,Sr.,Júlio,Ribeiro,39,Masculino,Rua Marcílio Dias 494,Sorocaba,SP,São Paulo,18025-070,BR,Brazil,JulioPereiraRibeiro@cuvox.de,8561,1,14,19,0,5,12,41,0,3520,54,Ligacao,1
 9565,Sra.,Beatrice,Azevedo,34,Feminino,Rua Professora Yolanda Steffen 514,Indaiatuba,SP,São Paulo,13335-210,BR,Brazil,BeatriceSantosAzevedo@fleckens.hu,7306,0.89,1,9,0,1,12,161,3,6840,36,SMS,1
 9566,Sr.,Luís,Carvalho,20,Masculino,Rua Carpina 1648,Recife,PE,Pernambuco,50781-660,BR,Brazil,LuisDiasCarvalho@cuvox.de,5798,1,8,5,0,5,23,198,1,1148,56,Email,1
-9567,Sr.,João,Almeida,23,Masculino,Rua Elias Amery 1351,São José dos Campos,SP,São Paulo,12237-790,BR,Brazil,JoaoSilvaAlmeida@dayrep.com,5674,0.39,3,18,0,3,3,4,4,9348,31,Email,0
-9568,Sr.,Antônio,Santos,47,Masculino,Rua Roberto Menghini 1480,Curitiba,PR,Paraná,81170-720,BR,Brazil,AntonioFerreiraSantos@armyspy.com,8533,0,8,17,0,4,2,3,4,1560,62,Push,0
-9569,Sra.,Sophia,Lima,23,Feminino,Rua Félix Casorati 324,São Paulo,SP,São Paulo,05529-040,BR,Brazil,SophiaGomesLima@teleworm.us,6296,0,10,12,0,0,1,7,4,469,30,Ligacao,0
-9570,Sra.,Leila,Correia,53,Feminino,Rua N 635,Montes Claros,MG,Minas Gerais,39402-350,BR,Brazil,LeilaOliveiraCorreia@jourrapide.com,6520,0.13,4,13,0,3,1,0,4,5326,79,Ligacao,0
-9571,Sr.,Arthur,Araujo,25,Masculino,Rua Neca Luiz 999,Aparecida de Goiânia,GO,Goiás,74958-370,BR,Brazil,ArthurAzevedoAraujo@gustr.com,8447,0.05,6,2,1,5,3,4,4,1730,77,Ligacao,0
-9572,Sr.,Luis,Souza,46,Masculino,Rua Marcelo Guedes 1007,Teófilo Otoni,MG,Minas Gerais,39800-109,BR,Brazil,LuisSousaSouza@fleckens.hu,6377,0.25,6,3,0,5,3,8,4,1621,50,SMS,0
-9573,Sr.,Júlio,Ribeiro,40,Masculino,Travessa da Elca 605,São Luís,MA,Maranhão,65030-530,BR,Brazil,JulioAraujoRibeiro@dayrep.com,7152,0.33,13,8,0,0,1,3,5,1957,89,Ligacao,0
+9567,Sr.,João,Almeida,23,Masculino,Rua Elias Amery 1351,São José dos Campos,SP,São Paulo,12237-790,BR,Brazil,JoaoSilvaAlmeida@dayrep.com,5674,0.39,3,18,0,3,3,4,4,9348,31,Email,1
+9568,Sr.,Antônio,Santos,47,Masculino,Rua Roberto Menghini 1480,Curitiba,PR,Paraná,81170-720,BR,Brazil,AntonioFerreiraSantos@armyspy.com,8533,0,8,17,0,4,2,3,4,1560,62,Push,1
+9569,Sra.,Sophia,Lima,23,Feminino,Rua Félix Casorati 324,São Paulo,SP,São Paulo,05529-040,BR,Brazil,SophiaGomesLima@teleworm.us,6296,0,10,12,0,0,1,7,4,469,30,Ligacao,1
+9570,Sra.,Leila,Correia,53,Feminino,Rua N 635,Montes Claros,MG,Minas Gerais,39402-350,BR,Brazil,LeilaOliveiraCorreia@jourrapide.com,6520,0.13,4,13,0,3,1,0,4,5326,79,Ligacao,1
+9571,Sr.,Arthur,Araujo,25,Masculino,Rua Neca Luiz 999,Aparecida de Goiânia,GO,Goiás,74958-370,BR,Brazil,ArthurAzevedoAraujo@gustr.com,8447,0.05,6,2,1,5,3,4,4,1730,77,Ligacao,1
+9572,Sr.,Luis,Souza,46,Masculino,Rua Marcelo Guedes 1007,Teófilo Otoni,MG,Minas Gerais,39800-109,BR,Brazil,LuisSousaSouza@fleckens.hu,6377,0.25,6,3,0,5,3,8,4,1621,50,SMS,1
+9573,Sr.,Júlio,Ribeiro,40,Masculino,Travessa da Elca 605,São Luís,MA,Maranhão,65030-530,BR,Brazil,JulioAraujoRibeiro@dayrep.com,7152,0.33,13,8,0,0,1,3,5,1957,89,Ligacao,1
 9574,Sra.,Julia,Pinto,64,Feminino,Rua Domingos Barbieri 1087,São Paulo,SP,São Paulo,05531-060,BR,Brazil,JuliaCavalcantiPinto@superrito.com,7643,0.81,5,0,0,1,48,90,3,4450,40,Email,1
-9575,Sra.,Eduarda,Dias,21,Feminino,Rua Santa Fé 682,Foz do Iguaçu,PR,Paraná,85867-540,BR,Brazil,EduardaBarrosDias@einrot.com,8078,0.27,11,20,0,3,2,0,4,9172,60,SMS,0
+9575,Sra.,Eduarda,Dias,21,Feminino,Rua Santa Fé 682,Foz do Iguaçu,PR,Paraná,85867-540,BR,Brazil,EduardaBarrosDias@einrot.com,8078,0.27,11,20,0,3,2,0,4,9172,60,SMS,1
 9576,Sr.,André,Correia,55,Masculino,Rua André Teles de Menezes 815,Aracaju,SE,Sergipe,49088-320,BR,Brazil,AndreCunhaCorreia@gustr.com,8638,0.91,14,12,0,3,31,189,3,9654,42,SMS,1
 9577,Sr.,Daniel,Gomes,64,Masculino,Rua Palmeira 1879,Ananindeua,PA,Pará,67125-680,BR,Brazil,DanielBarbosaGomes@dayrep.com,3346,0.89,7,6,0,1,30,167,3,3920,32,Email,1
-9578,Sr.,Miguel,Souza,57,Masculino,Rua Neuza Dias de Souza 1133,Taboão da Serra,SP,São Paulo,06784-293,BR,Brazil,MiguelFerreiraSouza@superrito.com,4058,0.34,0,14,0,3,3,6,5,9687,57,Push,0
-9579,Sr.,Nicolas,Ferreira,21,Masculino,Travessa Francisco das Chagas 1609,Mossoró,RN,Rio Grande do Norte,59619-206,BR,Brazil,NicolasSouzaFerreira@cuvox.de,3770,0.29,5,12,0,3,2,8,5,8283,61,Ligacao,0
-9580,Sra.,Carolina,Martins,62,Feminino,Praça Caieiras 1897,São Paulo,SP,São Paulo,04810-040,BR,Brazil,CarolinaRodriguesMartins@einrot.com,4564,0.01,0,18,1,0,1,0,5,7132,66,Email,0
+9578,Sr.,Miguel,Souza,57,Masculino,Rua Neuza Dias de Souza 1133,Taboão da Serra,SP,São Paulo,06784-293,BR,Brazil,MiguelFerreiraSouza@superrito.com,4058,0.34,0,14,0,3,3,6,5,9687,57,Push,1
+9579,Sr.,Nicolas,Ferreira,21,Masculino,Travessa Francisco das Chagas 1609,Mossoró,RN,Rio Grande do Norte,59619-206,BR,Brazil,NicolasSouzaFerreira@cuvox.de,3770,0.29,5,12,0,3,2,8,5,8283,61,Ligacao,1
+9580,Sra.,Carolina,Martins,62,Feminino,Praça Caieiras 1897,São Paulo,SP,São Paulo,04810-040,BR,Brazil,CarolinaRodriguesMartins@einrot.com,4564,0.01,0,18,1,0,1,0,5,7132,66,Email,1
 9581,Sra.,Mariana,Carvalho,37,Feminino,Travessa Analândia 1876,Catanduva,SP,São Paulo,15804-006,BR,Brazil,MarianaAzevedoCarvalho@fleckens.hu,7543,1,1,7,0,2,24,103,3,5888,65,SMS,1
-9582,Sr.,Tomás,Cunha,34,Masculino,Rua Tatuí 1815,Teresina,PI,Piauí,64066-270,BR,Brazil,TomasBarbosaCunha@rhyta.com,3393,0.06,14,8,0,4,1,7,5,6211,87,Push,0
+9582,Sr.,Tomás,Cunha,34,Masculino,Rua Tatuí 1815,Teresina,PI,Piauí,64066-270,BR,Brazil,TomasBarbosaCunha@rhyta.com,3393,0.06,14,8,0,4,1,7,5,6211,87,Push,1
 9583,Sr.,Douglas,Ribeiro,35,Masculino,Praça Josefina Pereira Vilagelim 1734,Campinas,SP,São Paulo,13045-525,BR,Brazil,DouglasMeloRibeiro@fleckens.hu,9925,0.88,2,15,0,5,40,97,3,5260,60,Email,1
-9584,Sra.,Júlia,Castro,64,Feminino,Rua Marechal Emílio Luiz Mallet 1141,Itu,SP,São Paulo,13300-153,BR,Brazil,JuliaFernandesCastro@rhyta.com,9986,0.46,13,16,0,3,3,8,5,3272,81,Push,0
-9585,Sr.,Martim,Cardoso,47,Masculino,Rua Vasco da Gama 73,Lages,SC,Santa Catarina,88516-330,BR,Brazil,MartimRibeiroCardoso@jourrapide.com,9585,0.29,13,12,1,5,3,4,4,7938,60,SMS,0
-9586,Sr.,Kauã,Barbosa,64,Masculino,Via de Pedestre Silêncio 1432,São Paulo,SP,São Paulo,02228-110,BR,Brazil,KauaLimaBarbosa@dayrep.com,6528,0.17,11,13,1,0,1,7,4,9840,59,Push,0
+9584,Sra.,Júlia,Castro,64,Feminino,Rua Marechal Emílio Luiz Mallet 1141,Itu,SP,São Paulo,13300-153,BR,Brazil,JuliaFernandesCastro@rhyta.com,9986,0.46,13,16,0,3,3,8,5,3272,81,Push,1
+9585,Sr.,Martim,Cardoso,47,Masculino,Rua Vasco da Gama 73,Lages,SC,Santa Catarina,88516-330,BR,Brazil,MartimRibeiroCardoso@jourrapide.com,9585,0.29,13,12,1,5,3,4,4,7938,60,SMS,1
+9586,Sr.,Kauã,Barbosa,64,Masculino,Via de Pedestre Silêncio 1432,São Paulo,SP,São Paulo,02228-110,BR,Brazil,KauaLimaBarbosa@dayrep.com,6528,0.17,11,13,1,0,1,7,4,9840,59,Push,1
 9587,Sr.,Nicolas,Rodrigues,19,Masculino,Rua Tocantins 1569,Recife,PE,Pernambuco,52280-690,BR,Brazil,NicolasCastroRodrigues@superrito.com,5079,1,14,11,0,3,48,98,2,7566,85,SMS,1
 9588,Sr.,Tiago,Ferreira,22,Masculino,Rua José Bizarra 1816,Bauru,SP,São Paulo,17035-263,BR,Brazil,TiagoCunhaFerreira@dayrep.com,7846,1,15,18,0,4,49,76,3,4987,88,Ligacao,1
 9589,Dr.,Alex,Fernandes,59,Masculino,Rua Messias Wilmar de Souza 1769,Londrina,PR,Paraná,86025-190,BR,Brazil,AlexCavalcantiFernandes@teleworm.us,3620,0.84,9,17,1,3,16,74,0,5908,79,Email,1
 9590,Sr.,Paulo,Sousa,23,Masculino,Rua Vinícius de Moraes 1696,Pinhais,PR,Paraná,83321-390,BR,Brazil,PauloPintoSousa@gustr.com,4374,0.86,0,5,0,5,32,120,0,8365,70,Email,1
-9591,Sr.,Gabriel,Martins,66,Masculino,Rua Cinco 501,Valinhos,SP,São Paulo,13273-605,BR,Brazil,GabrielMeloMartins@superrito.com,4068,0.01,3,6,1,2,2,8,4,6786,35,Ligacao,0
-9592,Sr.,Júlio,Ferreira,40,Masculino,Rua Princesa Isabel 425,Rio Verde,GO,Goiás,75902-710,BR,Brazil,JulioMeloFerreira@teleworm.us,8100,0.09,2,10,1,0,1,1,4,5720,81,SMS,0
+9591,Sr.,Gabriel,Martins,66,Masculino,Rua Cinco 501,Valinhos,SP,São Paulo,13273-605,BR,Brazil,GabrielMeloMartins@superrito.com,4068,0.01,3,6,1,2,2,8,4,6786,35,Ligacao,1
+9592,Sr.,Júlio,Ferreira,40,Masculino,Rua Princesa Isabel 425,Rio Verde,GO,Goiás,75902-710,BR,Brazil,JulioMeloFerreira@teleworm.us,8100,0.09,2,10,1,0,1,1,4,5720,81,SMS,1
 9593,Sra.,Giovana,Dias,31,Feminino,Rua Santa Inês 876,Goiânia,GO,Goiás,74740-480,BR,Brazil,GiovanaRibeiroDias@armyspy.com,6230,1,14,11,0,5,32,55,2,5914,69,Push,1
-9594,Sr.,Vinícius,Carvalho,31,Masculino,Jardim Francisco Cartaxo Correia de Sá 846,Sousa,PB,Paraíba,58803-290,BR,Brazil,ViniciusAlmeidaCarvalho@cuvox.de,9259,0.42,11,17,1,2,3,3,4,3609,82,SMS,0
+9594,Sr.,Vinícius,Carvalho,31,Masculino,Jardim Francisco Cartaxo Correia de Sá 846,Sousa,PB,Paraíba,58803-290,BR,Brazil,ViniciusAlmeidaCarvalho@cuvox.de,9259,0.42,11,17,1,2,3,3,4,3609,82,SMS,1
 9595,Sra.,Sarah,Silva,25,Feminino,Rua Ambrósio Lonati 1418,São Paulo,SP,São Paulo,05186-020,BR,Brazil,SarahCavalcantiSilva@dayrep.com,6723,1,4,1,0,2,29,198,1,5504,50,Ligacao,1
 9596,Sr.,Daniel,Alves,25,Masculino,Rua das Gaivotas 267,Salvador,BA,Bahia,41720-070,BR,Brazil,DanielSousaAlves@superrito.com,5871,1,9,2,0,0,11,120,0,7794,33,Ligacao,1
 9597,Sra.,Lavinia,Alves,21,Feminino,Alameda Seul 1300,Santana de Parnaíba,SP,São Paulo,06543-075,BR,Brazil,LaviniaSilvaAlves@cuvox.de,5709,1,11,0,1,1,46,55,0,4383,62,Email,1
 9598,Sr.,Fábio,Santos,29,Masculino,Rua do Moinho 812,Uberlândia,MG,Minas Gerais,38407-366,BR,Brazil,FabioCunhaSantos@teleworm.us,9832,0.93,6,16,0,0,33,50,2,8646,72,Ligacao,1
 9599,Sr.,Felipe,Rocha,57,Masculino,Rua Olavo Bilac 1892,Passos,MG,Minas Gerais,37903-046,BR,Brazil,FelipeCorreiaRocha@superrito.com,5241,0.85,3,8,0,1,21,143,1,9547,90,SMS,1
-9600,Sr.,Carlos,Fernandes,51,Masculino,Travessa Florença 961,São João Del Rei,MG,Minas Gerais,36302-638,BR,Brazil,CarlosRodriguesFernandes@dayrep.com,6394,0.38,7,20,1,0,1,8,4,3566,78,Email,0
-9601,Sr.,Lucas,Cardoso,27,Masculino,Rua Conselheiro Justino 1098,Santo André,SP,São Paulo,09070-580,BR,Brazil,LucasSousaCardoso@gustr.com,3885,0.39,6,19,1,4,1,0,5,3266,80,SMS,0
+9600,Sr.,Carlos,Fernandes,51,Masculino,Travessa Florença 961,São João Del Rei,MG,Minas Gerais,36302-638,BR,Brazil,CarlosRodriguesFernandes@dayrep.com,6394,0.38,7,20,1,0,1,8,4,3566,78,Email,1
+9601,Sr.,Lucas,Cardoso,27,Masculino,Rua Conselheiro Justino 1098,Santo André,SP,São Paulo,09070-580,BR,Brazil,LucasSousaCardoso@gustr.com,3885,0.39,6,19,1,4,1,0,5,3266,80,SMS,1
 9602,Sra.,Manuela,Rodrigues,31,Feminino,Quadra SHCGN 707 Bloco M 271,Brasília,DF,Distrito Federal,70740-743,BR,Brazil,ManuelaAlmeidaRodrigues@fleckens.hu,4578,0.99,4,15,0,0,12,35,1,4554,82,Email,1
-9603,Sra.,Julia,Azevedo,41,Feminino,Rua Nossa Senhora Aparecida 331,Guarujá,SP,São Paulo,11436-280,BR,Brazil,JuliaGoncalvesAzevedo@teleworm.us,6039,0.09,13,6,0,4,3,8,5,7110,85,Push,0
-9604,Sr.,Tomás,Barbosa,26,Masculino,Rua Emancipação 1233,Novo Hamburgo,RS,Rio Grande do Sul,93340-060,BR,Brazil,TomasAraujoBarbosa@armyspy.com,3392,0.18,5,20,0,1,1,3,5,9078,79,Email,0
+9603,Sra.,Julia,Azevedo,41,Feminino,Rua Nossa Senhora Aparecida 331,Guarujá,SP,São Paulo,11436-280,BR,Brazil,JuliaGoncalvesAzevedo@teleworm.us,6039,0.09,13,6,0,4,3,8,5,7110,85,Push,1
+9604,Sr.,Tomás,Barbosa,26,Masculino,Rua Emancipação 1233,Novo Hamburgo,RS,Rio Grande do Sul,93340-060,BR,Brazil,TomasAraujoBarbosa@armyspy.com,3392,0.18,5,20,0,1,1,3,5,9078,79,Email,1
 9605,Sr.,Estevan,Araujo,29,Masculino,Rua Cajuru 509,Franca,SP,São Paulo,14405-027,BR,Brazil,EstevanRodriguesAraujo@dayrep.com,5380,1,9,1,1,1,41,57,3,6217,52,SMS,1
-9606,Sr.,Nicolash,Araujo,18,Masculino,Rua Ana Fraga 1942,Itaguaí,RJ,Rio de Janeiro,23835-010,BR,Brazil,NicolashSantosAraujo@fleckens.hu,8860,0.1,8,6,0,5,1,3,4,120,80,Push,0
+9606,Sr.,Nicolash,Araujo,18,Masculino,Rua Ana Fraga 1942,Itaguaí,RJ,Rio de Janeiro,23835-010,BR,Brazil,NicolashSantosAraujo@fleckens.hu,8860,0.1,8,6,0,5,1,3,4,120,80,Push,1
 9607,Sra.,Emilly,Santos,45,Feminino,Rua Professor Joaquim Monteiro de Carvalho 392,São Paulo,SP,São Paulo,01133-080,BR,Brazil,EmillyPereiraSantos@jourrapide.com,3149,0.84,0,13,0,2,15,32,1,8489,65,Ligacao,1
-9608,Sra.,Bruna,Alves,61,Feminino,Rua da Padroeira 957,Campinas,SP,São Paulo,13060-794,BR,Brazil,BrunaSilvaAlves@teleworm.us,3650,0.24,3,1,0,5,2,4,5,7189,89,Email,0
+9608,Sra.,Bruna,Alves,61,Feminino,Rua da Padroeira 957,Campinas,SP,São Paulo,13060-794,BR,Brazil,BrunaSilvaAlves@teleworm.us,3650,0.24,3,1,0,5,2,4,5,7189,89,Email,1
 9609,Sr.,Vitór,Lima,61,Masculino,Rua Julieta 320,São Paulo,SP,São Paulo,08290-720,BR,Brazil,VitorRodriguesLima@dayrep.com,5568,0.8,4,0,0,5,49,188,1,5605,85,Push,1
-9610,Sr.,Júlio,Souza,33,Masculino,Rua Coronel João Leme 544,Bragança Paulista,SP,São Paulo,12900-160,BR,Brazil,JulioPintoSouza@einrot.com,9744,0.06,5,7,1,3,1,2,5,9613,74,Ligacao,0
-9611,Sr.,Diogo,Oliveira,20,Masculino,Praça General Braga Pinheiro 975,Porto Alegre,RS,Rio Grande do Sul,90010-400,BR,Brazil,DiogoAzevedoOliveira@dayrep.com,9548,0.47,13,15,0,0,3,0,5,6922,39,Email,0
+9610,Sr.,Júlio,Souza,33,Masculino,Rua Coronel João Leme 544,Bragança Paulista,SP,São Paulo,12900-160,BR,Brazil,JulioPintoSouza@einrot.com,9744,0.06,5,7,1,3,1,2,5,9613,74,Ligacao,1
+9611,Sr.,Diogo,Oliveira,20,Masculino,Praça General Braga Pinheiro 975,Porto Alegre,RS,Rio Grande do Sul,90010-400,BR,Brazil,DiogoAzevedoOliveira@dayrep.com,9548,0.47,13,15,0,0,3,0,5,6922,39,Email,1
 9612,Sra.,Mariana,Martins,34,Feminino,Rua Francisco de Barros Cobra 855,Jandira,SP,São Paulo,06624-020,BR,Brazil,MarianaGomesMartins@cuvox.de,9002,0.96,13,14,1,0,26,115,3,8099,67,Email,1
 9613,Sr.,Vitór,Cavalcanti,53,Masculino,Rua Presidente Lima 281,Vila Velha,ES,Espírito Santo,29100-330,BR,Brazil,VitorCastroCavalcanti@gustr.com,5514,0.83,13,1,0,1,47,129,3,4930,81,SMS,1
 9614,Sra.,Lavinia,Azevedo,54,Feminino,Rua Antônio Carlos Gilli 319,Itatiba,SP,São Paulo,13251-332,BR,Brazil,LaviniaCunhaAzevedo@armyspy.com,8827,0.95,0,10,0,4,20,186,0,8391,77,Email,1
 9615,Sr.,José,Goncalves,65,Masculino,Rua Desembargador Tinoco 1651,Belo Horizonte,MG,Minas Gerais,30720-480,BR,Brazil,JoseSouzaGoncalves@fleckens.hu,8911,0.9,15,9,0,3,14,186,2,6169,43,Push,1
 9616,Sr.,Carlos,Alves,40,Masculino,Rua Rafael Lauzio 725,São Gonçalo,RJ,Rio de Janeiro,24465-480,BR,Brazil,CarlosFernandesAlves@teleworm.us,6093,1,15,9,1,4,26,33,2,1363,84,Push,1
-9617,Sr.,Pedro,Pinto,65,Masculino,1ª Travessa Capitão Luís Sabino 1906,Jaboatão dos Guararapes,PE,Pernambuco,54100-248,BR,Brazil,PedroCunhaPinto@einrot.com,9592,0.1,3,10,0,5,3,2,5,3938,44,SMS,0
+9617,Sr.,Pedro,Pinto,65,Masculino,1ª Travessa Capitão Luís Sabino 1906,Jaboatão dos Guararapes,PE,Pernambuco,54100-248,BR,Brazil,PedroCunhaPinto@einrot.com,9592,0.1,3,10,0,5,3,2,5,3938,44,SMS,1
 9618,Sr.,André,Sousa,49,Masculino,Avenida Alexandre Milani 1939,Jundiaí,SP,São Paulo,13218-650,BR,Brazil,AndreBarbosaSousa@gustr.com,7654,1,14,17,0,5,49,69,1,1188,66,Email,1
-9619,Sr.,Murilo,Fernandes,38,Masculino,Avenida Três Barras 520,Campo Grande,MS,Mato Grosso do Sul,79051-290,BR,Brazil,MuriloSantosFernandes@cuvox.de,6979,0.08,9,12,0,4,3,0,4,8110,30,Ligacao,0
-9620,Sra.,Beatrice,Barros,40,Feminino,Rua Nicolau 863,Queimados,RJ,Rio de Janeiro,26321-450,BR,Brazil,BeatriceCunhaBarros@armyspy.com,6952,0.29,10,8,0,4,1,2,5,9974,54,SMS,0
+9619,Sr.,Murilo,Fernandes,38,Masculino,Avenida Três Barras 520,Campo Grande,MS,Mato Grosso do Sul,79051-290,BR,Brazil,MuriloSantosFernandes@cuvox.de,6979,0.08,9,12,0,4,3,0,4,8110,30,Ligacao,1
+9620,Sra.,Beatrice,Barros,40,Feminino,Rua Nicolau 863,Queimados,RJ,Rio de Janeiro,26321-450,BR,Brazil,BeatriceCunhaBarros@armyspy.com,6952,0.29,10,8,0,4,1,2,5,9974,54,SMS,1
 9621,Sr.,Renan,Azevedo,23,Masculino,Rua Lituânia 397,Fortaleza,CE,Ceará,60762-440,BR,Brazil,RenanSouzaAzevedo@jourrapide.com,8305,0.85,13,18,0,5,34,33,1,7494,41,Ligacao,1
 9622,Sr.,Erick,Alves,64,Masculino,Rua São Paulo 1397,Gravatá,PE,Pernambuco,55641-175,BR,Brazil,ErickFernandesAlves@einrot.com,8141,0.95,10,14,1,5,45,155,1,383,55,Push,1
-9623,Sr.,Samuel,Martins,21,Masculino,Rua Genis Rossignoli Rocha 1627,Varginha,MG,Minas Gerais,37060-110,BR,Brazil,SamuelBarbosaMartins@fleckens.hu,7205,0.31,2,3,0,5,2,2,5,1723,44,Email,0
+9623,Sr.,Samuel,Martins,21,Masculino,Rua Genis Rossignoli Rocha 1627,Varginha,MG,Minas Gerais,37060-110,BR,Brazil,SamuelBarbosaMartins@fleckens.hu,7205,0.31,2,3,0,5,2,2,5,1723,44,Email,1
 9624,Sr.,Alex,Gomes,24,Masculino,Rua Santo Antônio 905,Salvador,BA,Bahia,40710-730,BR,Brazil,AlexCardosoGomes@rhyta.com,3648,1,5,7,0,1,16,62,0,1684,80,Ligacao,1
 9625,Sra.,Rebeca,Gomes,48,Feminino,Praça 7 313,Goiânia,GO,Goiás,74455-525,BR,Brazil,RebecaDiasGomes@rhyta.com,5876,1,9,18,0,2,33,56,2,6490,64,SMS,1
 9626,Sr.,Nicolash,Lima,53,Masculino,Travessa de 8 de Dezembro 1401,Salvador,BA,Bahia,41207-145,BR,Brazil,NicolashGoncalvesLima@armyspy.com,7208,0.99,15,1,1,2,33,101,0,6766,62,SMS,1
 9627,Sra.,Clara,Sousa,28,Feminino,Quadra Quadra 12 Conjunto 06 702,Planaltina,DF,Distrito Federal,73355-206,BR,Brazil,ClaraPereiraSousa@dayrep.com,9795,0.96,2,19,0,4,42,148,1,6067,45,Email,1
 9628,Sr.,João,Gomes,63,Masculino,Rua Tamoios 30,Serra,ES,Espírito Santo,29164-834,BR,Brazil,JoaoBarbosaGomes@armyspy.com,7067,1,12,13,1,5,37,187,0,5226,75,SMS,1
-9629,Sr.,Gabriel,Silva,47,Masculino,Rua da Mangueira 1777,São Luís,MA,Maranhão,65045-770,BR,Brazil,GabrielAlvesSilva@dayrep.com,7814,0.23,11,16,0,2,3,4,4,1181,34,Ligacao,0
-9630,Sr.,Kauã,Barbosa,39,Masculino,Rua Peri Peri 1886,Ribeirão Pires,SP,São Paulo,09404-390,BR,Brazil,KauaCunhaBarbosa@dayrep.com,5621,0.45,5,19,0,2,1,1,5,3199,65,Ligacao,0
+9629,Sr.,Gabriel,Silva,47,Masculino,Rua da Mangueira 1777,São Luís,MA,Maranhão,65045-770,BR,Brazil,GabrielAlvesSilva@dayrep.com,7814,0.23,11,16,0,2,3,4,4,1181,34,Ligacao,1
+9630,Sr.,Kauã,Barbosa,39,Masculino,Rua Peri Peri 1886,Ribeirão Pires,SP,São Paulo,09404-390,BR,Brazil,KauaCunhaBarbosa@dayrep.com,5621,0.45,5,19,0,2,1,1,5,3199,65,Ligacao,1
 9631,Sr.,Luiz,Martins,19,Masculino,Avenida Salvador 1324,Paranavaí,PR,Paraná,87702-250,BR,Brazil,LuizDiasMartins@jourrapide.com,5348,0.81,8,12,0,3,50,192,2,5252,47,Email,1
 9632,Sr.,Marcos,Ferreira,54,Masculino,Rua Andradina 1858,Teresina,PI,Piauí,64027-340,BR,Brazil,MarcosRodriguesFerreira@teleworm.us,6069,0.86,8,13,1,5,31,142,3,782,64,Email,1
 9633,Sr.,João,Araujo,30,Masculino,Rua Garanhuns 1529,Paulista,PE,Pernambuco,53435-250,BR,Brazil,JoaoCorreiaAraujo@superrito.com,7446,1,14,18,0,3,24,56,2,3892,82,Push,1
-9634,Sra.,Emilly,Correia,62,Feminino,Vila Perpétuo Socorro 1084,Belém,PA,Pará,66050-410,BR,Brazil,EmillyRodriguesCorreia@teleworm.us,4985,0.17,8,7,0,3,2,6,5,6265,35,Ligacao,0
+9634,Sra.,Emilly,Correia,62,Feminino,Vila Perpétuo Socorro 1084,Belém,PA,Pará,66050-410,BR,Brazil,EmillyRodriguesCorreia@teleworm.us,4985,0.17,8,7,0,3,2,6,5,6265,35,Ligacao,1
 9635,Sr.,Breno,Barbosa,35,Masculino,Rua H-153 271,Aparecida de Goiânia,GO,Goiás,74937-520,BR,Brazil,BrenoSousaBarbosa@dayrep.com,9102,0.87,2,15,1,1,41,182,0,7296,35,Push,1
-9636,Sra.,Laura,Ferreira,53,Feminino,Rua Pedro Malhado 15,Salvador,BA,Bahia,40240-850,BR,Brazil,LauraOliveiraFerreira@fleckens.hu,6034,0.37,14,19,1,3,1,6,5,2845,73,Push,0
-9637,Sr.,Diego,Costa,50,Masculino,Rua Pirauba 1972,Rio de Janeiro,RJ,Rio de Janeiro,20940-250,BR,Brazil,DiegoAlmeidaCosta@jourrapide.com,5745,0.02,6,9,1,4,3,2,4,5171,32,Email,0
-9638,Sr.,Kauã,Melo,35,Masculino,Rua Irmã Tereza 340,São Leopoldo,RS,Rio Grande do Sul,93040-170,BR,Brazil,KauaGomesMelo@dayrep.com,7207,0.34,11,2,0,3,2,6,4,8826,78,Ligacao,0
+9636,Sra.,Laura,Ferreira,53,Feminino,Rua Pedro Malhado 15,Salvador,BA,Bahia,40240-850,BR,Brazil,LauraOliveiraFerreira@fleckens.hu,6034,0.37,14,19,1,3,1,6,5,2845,73,Push,1
+9637,Sr.,Diego,Costa,50,Masculino,Rua Pirauba 1972,Rio de Janeiro,RJ,Rio de Janeiro,20940-250,BR,Brazil,DiegoAlmeidaCosta@jourrapide.com,5745,0.02,6,9,1,4,3,2,4,5171,32,Email,1
+9638,Sr.,Kauã,Melo,35,Masculino,Rua Irmã Tereza 340,São Leopoldo,RS,Rio Grande do Sul,93040-170,BR,Brazil,KauaGomesMelo@dayrep.com,7207,0.34,11,2,0,3,2,6,4,8826,78,Ligacao,1
 9639,Sra.,Beatriz,Rocha,57,Feminino,Rua João Teodoro Leite 1450,Sorocaba,SP,São Paulo,18103-098,BR,Brazil,BeatrizAlvesRocha@rhyta.com,7194,1,4,10,0,0,35,92,2,7498,36,SMS,1
-9640,Sr.,Antônio,Almeida,35,Masculino,Rua Manuel Antônio Ferreira 269,Recife,PE,Pernambuco,50771-520,BR,Brazil,AntonioGoncalvesAlmeida@rhyta.com,4540,0.01,14,12,0,3,1,0,4,3343,32,SMS,0
-9641,Sra.,Isabela,Cavalcanti,46,Feminino,Avenida Paraná 1083,Amparo,SP,São Paulo,13902-230,BR,Brazil,IsabelaAlmeidaCavalcanti@cuvox.de,7150,0.34,5,4,0,2,2,5,4,192,85,Push,0
-9642,Sra.,Fernanda,Castro,45,Feminino,Largo Nossa Senhora da Conceição 1688,São Paulo,SP,São Paulo,01528-060,BR,Brazil,FernandaRibeiroCastro@rhyta.com,4465,0.38,13,3,0,5,2,2,4,4489,44,Ligacao,0
+9640,Sr.,Antônio,Almeida,35,Masculino,Rua Manuel Antônio Ferreira 269,Recife,PE,Pernambuco,50771-520,BR,Brazil,AntonioGoncalvesAlmeida@rhyta.com,4540,0.01,14,12,0,3,1,0,4,3343,32,SMS,1
+9641,Sra.,Isabela,Cavalcanti,46,Feminino,Avenida Paraná 1083,Amparo,SP,São Paulo,13902-230,BR,Brazil,IsabelaAlmeidaCavalcanti@cuvox.de,7150,0.34,5,4,0,2,2,5,4,192,85,Push,1
+9642,Sra.,Fernanda,Castro,45,Feminino,Largo Nossa Senhora da Conceição 1688,São Paulo,SP,São Paulo,01528-060,BR,Brazil,FernandaRibeiroCastro@rhyta.com,4465,0.38,13,3,0,5,2,2,4,4489,44,Ligacao,1
 9643,Sr.,Mateus,Almeida,48,Masculino,Rua Pedro Alberto Fonseca 1862,São João da Boa Vista,SP,São Paulo,13872-019,BR,Brazil,MateusSousaAlmeida@einrot.com,4010,0.89,2,15,0,1,28,166,3,7707,85,Push,1
-9644,Sr.,Kaua,Gomes,28,Masculino,Rua Castelo de Avis 1584,Belo Horizonte,MG,Minas Gerais,31330-110,BR,Brazil,KauaCastroGomes@dayrep.com,3851,0.25,15,10,1,3,3,0,4,9030,67,Ligacao,0
+9644,Sr.,Kaua,Gomes,28,Masculino,Rua Castelo de Avis 1584,Belo Horizonte,MG,Minas Gerais,31330-110,BR,Brazil,KauaCastroGomes@dayrep.com,3851,0.25,15,10,1,3,3,0,4,9030,67,Ligacao,1
 9645,Sra.,Isabella,Oliveira,26,Feminino,Estrada Gavazzi 903,Nova Iguaçu,RJ,Rio de Janeiro,26062-160,BR,Brazil,IsabellaCunhaOliveira@cuvox.de,9302,0.83,2,14,0,2,34,65,0,4743,39,Email,1
 9646,Sra.,Ana,Carvalho,54,Feminino,Rua Bahia 1788,Salvador,BA,Bahia,41502-530,BR,Brazil,AnaAraujoCarvalho@armyspy.com,9037,1,11,10,1,4,12,64,2,2151,62,Push,1
-9647,Sr.,Igor,Rocha,61,Masculino,Rua Alexandre Gomes da Fonseca 207,Olinda,PE,Pernambuco,53230-420,BR,Brazil,IgorPereiraRocha@armyspy.com,9874,0.23,6,12,0,0,1,4,4,332,74,Ligacao,0
-9648,Sr.,Thiago,Azevedo,55,Masculino,Rua Venezuela 57,Ribeirão das Neves,MG,Minas Gerais,33913-190,BR,Brazil,ThiagoCarvalhoAzevedo@fleckens.hu,8687,0.4,2,2,0,5,3,5,5,6382,45,Ligacao,0
+9647,Sr.,Igor,Rocha,61,Masculino,Rua Alexandre Gomes da Fonseca 207,Olinda,PE,Pernambuco,53230-420,BR,Brazil,IgorPereiraRocha@armyspy.com,9874,0.23,6,12,0,0,1,4,4,332,74,Ligacao,1
+9648,Sr.,Thiago,Azevedo,55,Masculino,Rua Venezuela 57,Ribeirão das Neves,MG,Minas Gerais,33913-190,BR,Brazil,ThiagoCarvalhoAzevedo@fleckens.hu,8687,0.4,2,2,0,5,3,5,5,6382,45,Ligacao,1
 9649,Sra.,Bianca,Cavalcanti,46,Feminino,Rua José de Lima Geo 545,Belo Horizonte,MG,Minas Gerais,31970-300,BR,Brazil,BiancaDiasCavalcanti@dayrep.com,6583,0.85,8,2,1,5,20,106,2,9061,58,Email,1
 9650,Sra.,Thaís,Sousa,57,Feminino,Rua Miguel Gustavo 629,Vila Velha,ES,Espírito Santo,29119-430,BR,Brazil,ThaisRodriguesSousa@fleckens.hu,7320,0.81,13,6,0,3,26,107,3,8651,57,Email,1
 9651,Sr.,Diogo,Araujo,54,Masculino,Rua B 760,Barreiras,BA,Bahia,47807-530,BR,Brazil,DiogoFerreiraAraujo@dayrep.com,6518,0.96,9,6,1,5,34,82,2,2187,59,Push,1
 9652,Sr.,Miguel,Almeida,32,Masculino,Rua Sul América 1226,Rio de Janeiro,RJ,Rio de Janeiro,21875-011,BR,Brazil,MiguelOliveiraAlmeida@dayrep.com,4737,0.84,8,13,0,3,20,180,2,799,41,Email,1
 9653,Sra.,Gabriela,Sousa,61,Feminino,Rua 02 1909,Luziânia,GO,Goiás,72834-560,BR,Brazil,GabrielaBarbosaSousa@dayrep.com,3214,1,2,12,0,0,41,49,3,8411,38,Email,1
-9654,Sra.,Julia,Barros,23,Feminino,Rua Euráchio Maurício 1557,Guarulhos,SP,São Paulo,07260-070,BR,Brazil,JuliaMartinsBarros@jourrapide.com,5282,0.31,6,3,0,1,3,5,4,4445,48,Push,0
+9654,Sra.,Julia,Barros,23,Feminino,Rua Euráchio Maurício 1557,Guarulhos,SP,São Paulo,07260-070,BR,Brazil,JuliaMartinsBarros@jourrapide.com,5282,0.31,6,3,0,1,3,5,4,4445,48,Push,1
 9655,Dr.,Luiz,Rocha,28,Masculino,Rua Dirce Macuco Sandoval 1787,Presidente Prudente,SP,São Paulo,19053-670,BR,Brazil,LuizAzevedoRocha@jourrapide.com,5044,0.87,7,17,1,5,27,140,1,635,73,Push,1
-9656,Sra.,Eduarda,Rocha,50,Feminino,Rua Doutor Olívio Montenegro 116,São Paulo,SP,São Paulo,08220-740,BR,Brazil,EduardaCorreiaRocha@gustr.com,7609,0.22,3,15,0,5,1,3,5,5004,47,SMS,0
+9656,Sra.,Eduarda,Rocha,50,Feminino,Rua Doutor Olívio Montenegro 116,São Paulo,SP,São Paulo,08220-740,BR,Brazil,EduardaCorreiaRocha@gustr.com,7609,0.22,3,15,0,5,1,3,5,5004,47,SMS,1
 9657,Sra.,Rebeca,Ribeiro,41,Feminino,Rua Chácara do Carvalho 1212,São Paulo,SP,São Paulo,01202-010,BR,Brazil,RebecaSilvaRibeiro@einrot.com,9883,0.98,2,3,0,5,24,189,2,1721,53,Email,1
-9658,Sra.,Laura,Azevedo,55,Feminino,Rua Andréia Teixeira de Almeida 1805,Taboão da Serra,SP,São Paulo,06765-180,BR,Brazil,LauraRodriguesAzevedo@fleckens.hu,3584,0.36,5,11,0,1,3,1,5,9842,55,Push,0
+9658,Sra.,Laura,Azevedo,55,Feminino,Rua Andréia Teixeira de Almeida 1805,Taboão da Serra,SP,São Paulo,06765-180,BR,Brazil,LauraRodriguesAzevedo@fleckens.hu,3584,0.36,5,11,0,1,3,1,5,9842,55,Push,1
 9659,Sr.,Diego,Costa,19,Masculino,Rua Vittório Gui 1255,São Paulo,SP,São Paulo,04429-050,BR,Brazil,DiegoCavalcantiCosta@cuvox.de,9735,0.83,12,1,1,4,44,165,0,4058,57,Ligacao,1
 9660,Sr.,Samuel,Oliveira,21,Masculino,Rua Francisco Alves Barbosa 321,Juiz de Fora,MG,Minas Gerais,36070-380,BR,Brazil,SamuelAraujoOliveira@superrito.com,8211,0.84,14,4,0,5,33,141,0,9404,41,Push,1
-9661,Sr.,Diego,Castro,58,Masculino,Rua Durval Medeiros 1643,Uberlândia,MG,Minas Gerais,38408-728,BR,Brazil,DiegoAlvesCastro@dayrep.com,8735,0.41,2,14,0,4,2,0,5,9356,41,Push,0
+9661,Sr.,Diego,Castro,58,Masculino,Rua Durval Medeiros 1643,Uberlândia,MG,Minas Gerais,38408-728,BR,Brazil,DiegoAlvesCastro@dayrep.com,8735,0.41,2,14,0,4,2,0,5,9356,41,Push,1
 9662,Sra.,Clara,Rodrigues,51,Feminino,Beco Atleticanos 992,Betim,MG,Minas Gerais,32663-500,BR,Brazil,ClaraCunhaRodrigues@armyspy.com,6328,0.88,15,9,0,0,37,52,2,8178,78,SMS,1
 9663,Sr.,Luís,Santos,57,Masculino,Rua Catolândia 643,Recife,PE,Pernambuco,50620-320,BR,Brazil,LuisCorreiaSantos@jourrapide.com,8789,1,1,3,1,1,30,92,3,5788,82,Email,1
-9664,Sr.,Vinicius,Silva,33,Masculino,Rua Moacir Bonatti 1295,São Paulo,SP,São Paulo,04455-030,BR,Brazil,ViniciusCostaSilva@teleworm.us,4091,0.16,13,2,1,3,1,7,5,5934,78,Email,0
-9665,Sr.,Marcos,Cardoso,37,Masculino,Rua Sabino Correia Neto 1757,João Pessoa,PB,Paraíba,58056-385,BR,Brazil,MarcosLimaCardoso@teleworm.us,5378,0.2,15,20,0,3,2,4,5,634,57,SMS,0
+9664,Sr.,Vinicius,Silva,33,Masculino,Rua Moacir Bonatti 1295,São Paulo,SP,São Paulo,04455-030,BR,Brazil,ViniciusCostaSilva@teleworm.us,4091,0.16,13,2,1,3,1,7,5,5934,78,Email,1
+9665,Sr.,Marcos,Cardoso,37,Masculino,Rua Sabino Correia Neto 1757,João Pessoa,PB,Paraíba,58056-385,BR,Brazil,MarcosLimaCardoso@teleworm.us,5378,0.2,15,20,0,3,2,4,5,634,57,SMS,1
 9666,Sra.,Isabela,Carvalho,28,Feminino,Avenida Capitão Manoel Rudge 963,Mogi das Cruzes,SP,São Paulo,08780-290,BR,Brazil,IsabelaLimaCarvalho@cuvox.de,7581,0.88,12,14,0,5,41,158,1,118,57,Email,1
-9667,Sr.,Renan,Costa,42,Masculino,Rua Virgílio Braga Melo 416,Uberaba,MG,Minas Gerais,38081-525,BR,Brazil,RenanFerreiraCosta@dayrep.com,8826,0.35,1,6,0,3,2,6,4,7185,89,SMS,0
+9667,Sr.,Renan,Costa,42,Masculino,Rua Virgílio Braga Melo 416,Uberaba,MG,Minas Gerais,38081-525,BR,Brazil,RenanFerreiraCosta@dayrep.com,8826,0.35,1,6,0,3,2,6,4,7185,89,SMS,1
 9668,Sr.,Nicolas,Lima,46,Masculino,Rua Cleomar Cardoso de Castro 1987,Rio de Janeiro,RJ,Rio de Janeiro,23050-440,BR,Brazil,NicolasBarrosLima@superrito.com,6269,1,3,14,0,2,48,97,3,4508,68,SMS,1
 9669,Sr.,Caio,Pinto,40,Masculino,Alameda Eduardo Guimarães 1697,Porto Alegre,RS,Rio Grande do Sul,91340-350,BR,Brazil,CaioAraujoPinto@teleworm.us,9247,0.96,7,3,1,2,49,115,0,8006,39,Email,1
-9670,Sr.,Breno,Araujo,31,Masculino,Rua José Maria Gonçalves 102,São Vicente,SP,São Paulo,11347-170,BR,Brazil,BrenoOliveiraAraujo@einrot.com,9701,0.03,10,8,1,3,1,8,4,614,76,SMS,0
+9670,Sr.,Breno,Araujo,31,Masculino,Rua José Maria Gonçalves 102,São Vicente,SP,São Paulo,11347-170,BR,Brazil,BrenoOliveiraAraujo@einrot.com,9701,0.03,10,8,1,3,1,8,4,614,76,SMS,1
 9671,Sr.,Thiago,Rodrigues,60,Masculino,Rua Álvaro Henrique Correia 1763,João Pessoa,PB,Paraíba,58064-390,BR,Brazil,ThiagoCunhaRodrigues@gustr.com,5793,1,7,11,0,5,50,41,2,2218,46,SMS,1
 9672,Dr.,Alice,Carvalho,56,Feminino,Rua Sebastião Alves Mimoso 895,Cruzeiro,SP,São Paulo,12705-020,BR,Brazil,AliceBarrosCarvalho@fleckens.hu,8582,1,3,18,0,5,33,35,1,4301,89,SMS,1
-9673,Sr.,André,Ribeiro,32,Masculino,Rua Dois 617,Rondonópolis,MT,Mato Grosso,78735-812,BR,Brazil,AndreBarrosRibeiro@rhyta.com,7558,0.13,6,3,0,1,3,2,4,9633,47,SMS,0
+9673,Sr.,André,Ribeiro,32,Masculino,Rua Dois 617,Rondonópolis,MT,Mato Grosso,78735-812,BR,Brazil,AndreBarrosRibeiro@rhyta.com,7558,0.13,6,3,0,1,3,2,4,9633,47,SMS,1
 9674,Sr.,Thiago,Alves,52,Masculino,Travessa Tamandaré 1922,Salvador,BA,Bahia,41770-190,BR,Brazil,ThiagoFerreiraAlves@rhyta.com,9771,1,8,15,0,3,33,37,3,3649,39,Email,1
 9675,Sr.,Felipe,Barros,63,Masculino,Rua Alcides Correa 1143,São Gonçalo,RJ,Rio de Janeiro,24416-220,BR,Brazil,FelipeCastroBarros@fleckens.hu,8539,0.81,4,10,1,2,22,53,0,4342,73,Email,1
 9676,Sr.,Nicolash,Goncalves,56,Masculino,Rua Tenente Lauro Leão 1269,Recife,PE,Pernambuco,50970-170,BR,Brazil,NicolashCunhaGoncalves@superrito.com,6876,1,1,0,0,5,34,121,2,2606,53,Push,1
-9677,Sra.,Sofia,Cardoso,42,Feminino,Rua Santa Eliza 1967,Embu,SP,São Paulo,06807-570,BR,Brazil,SofiaPereiraCardoso@rhyta.com,9047,0.32,5,10,0,3,1,0,4,4419,61,Email,0
-9678,Sr.,Vinícius,Sousa,22,Masculino,Rua Antônio Mizael 147,Arapiraca,AL,Alagoas,57303-310,BR,Brazil,ViniciusSilvaSousa@cuvox.de,6719,0.38,10,12,0,3,2,4,4,2351,61,SMS,0
-9679,Sra.,Isabella,Goncalves,36,Feminino,Rua Clodoaldo Alves de Castro 893,Maceió,AL,Alagoas,57071-050,BR,Brazil,IsabellaGomesGoncalves@teleworm.us,8764,0.29,6,12,1,3,1,0,4,1941,80,Push,0
+9677,Sra.,Sofia,Cardoso,42,Feminino,Rua Santa Eliza 1967,Embu,SP,São Paulo,06807-570,BR,Brazil,SofiaPereiraCardoso@rhyta.com,9047,0.32,5,10,0,3,1,0,4,4419,61,Email,1
+9678,Sr.,Vinícius,Sousa,22,Masculino,Rua Antônio Mizael 147,Arapiraca,AL,Alagoas,57303-310,BR,Brazil,ViniciusSilvaSousa@cuvox.de,6719,0.38,10,12,0,3,2,4,4,2351,61,SMS,1
+9679,Sra.,Isabella,Goncalves,36,Feminino,Rua Clodoaldo Alves de Castro 893,Maceió,AL,Alagoas,57071-050,BR,Brazil,IsabellaGomesGoncalves@teleworm.us,8764,0.29,6,12,1,3,1,0,4,1941,80,Push,1
 9680,Sr.,Julian,Azevedo,35,Masculino,Rua Nossa Senhora da Ajuda 30,Teixeira de Freitas,BA,Bahia,45996-693,BR,Brazil,JulianCastroAzevedo@jourrapide.com,9368,0.81,8,0,0,2,14,154,3,8262,34,Email,1
 9681,Sr.,Rafael,Rocha,42,Masculino,Rua Luiz Dal Toé 1792,Criciúma,SC,Santa Catarina,88809-390,BR,Brazil,RafaelSilvaRocha@jourrapide.com,9547,0.91,11,9,0,1,16,130,1,2639,39,SMS,1
-9682,Sr.,Cauã,Cardoso,52,Masculino,Rua Boa Vista 1487,Francisco Morato,SP,São Paulo,07911-250,BR,Brazil,CauaLimaCardoso@teleworm.us,3036,0.49,1,16,0,5,2,1,4,3039,61,SMS,0
-9683,Sr.,Eduardo,Carvalho,48,Masculino,Rua Elaine 215,Queimados,RJ,Rio de Janeiro,26341-050,BR,Brazil,EduardoPereiraCarvalho@gustr.com,7808,0.43,10,11,1,4,2,6,4,7916,31,SMS,0
-9684,Sra.,Evelyn,Rocha,56,Feminino,Quadra SCLRN 714 Bloco A 246,Brasília,DF,Distrito Federal,70760-551,BR,Brazil,EvelynPereiraRocha@rhyta.com,4853,0.12,0,18,0,4,3,6,4,4513,52,Push,0
-9685,Sra.,Anna,Martins,55,Feminino,Rua Pedro Sovierzoski 205,Campo Largo,PR,Paraná,83601-360,BR,Brazil,AnnaSantosMartins@superrito.com,6578,0.23,15,20,1,2,1,4,4,7684,80,Push,0
-9686,Sr.,Tomás,Melo,54,Masculino,Avenida Orpheu Manenti 990,Araras,SP,São Paulo,13606-640,BR,Brazil,TomasCastroMelo@teleworm.us,3675,0.25,13,17,1,5,2,7,5,2615,72,Ligacao,0
-9687,Sr.,Julian,Rocha,29,Masculino,Rua Poker 1917,Cotia,SP,São Paulo,06709-625,BR,Brazil,JulianCavalcantiRocha@armyspy.com,6481,0.21,8,8,1,5,1,0,4,627,55,Push,0
-9688,Sr.,Pedro,Melo,27,Masculino,Rua Abel Teixeira Gouveia 1129,Osasco,SP,São Paulo,06122-060,BR,Brazil,PedroFernandesMelo@teleworm.us,5902,0.1,6,11,0,3,2,2,5,5055,49,SMS,0
+9682,Sr.,Cauã,Cardoso,52,Masculino,Rua Boa Vista 1487,Francisco Morato,SP,São Paulo,07911-250,BR,Brazil,CauaLimaCardoso@teleworm.us,3036,0.49,1,16,0,5,2,1,4,3039,61,SMS,1
+9683,Sr.,Eduardo,Carvalho,48,Masculino,Rua Elaine 215,Queimados,RJ,Rio de Janeiro,26341-050,BR,Brazil,EduardoPereiraCarvalho@gustr.com,7808,0.43,10,11,1,4,2,6,4,7916,31,SMS,1
+9684,Sra.,Evelyn,Rocha,56,Feminino,Quadra SCLRN 714 Bloco A 246,Brasília,DF,Distrito Federal,70760-551,BR,Brazil,EvelynPereiraRocha@rhyta.com,4853,0.12,0,18,0,4,3,6,4,4513,52,Push,1
+9685,Sra.,Anna,Martins,55,Feminino,Rua Pedro Sovierzoski 205,Campo Largo,PR,Paraná,83601-360,BR,Brazil,AnnaSantosMartins@superrito.com,6578,0.23,15,20,1,2,1,4,4,7684,80,Push,1
+9686,Sr.,Tomás,Melo,54,Masculino,Avenida Orpheu Manenti 990,Araras,SP,São Paulo,13606-640,BR,Brazil,TomasCastroMelo@teleworm.us,3675,0.25,13,17,1,5,2,7,5,2615,72,Ligacao,1
+9687,Sr.,Julian,Rocha,29,Masculino,Rua Poker 1917,Cotia,SP,São Paulo,06709-625,BR,Brazil,JulianCavalcantiRocha@armyspy.com,6481,0.21,8,8,1,5,1,0,4,627,55,Push,1
+9688,Sr.,Pedro,Melo,27,Masculino,Rua Abel Teixeira Gouveia 1129,Osasco,SP,São Paulo,06122-060,BR,Brazil,PedroFernandesMelo@teleworm.us,5902,0.1,6,11,0,3,2,2,5,5055,49,SMS,1
 9689,Sra.,Clara,Melo,48,Feminino,Rua Vinte e Quatro 1478,Governador Valadares,MG,Minas Gerais,35042-710,BR,Brazil,ClaraAlmeidaMelo@superrito.com,4300,0.81,12,2,0,2,11,172,3,3271,76,SMS,1
-9690,Sra.,Luiza,Oliveira,35,Feminino,Rua Álvares Machado 1215,São Paulo,SP,São Paulo,01501-030,BR,Brazil,LuizaCarvalhoOliveira@jourrapide.com,5920,0.22,0,9,0,4,2,8,4,3029,46,Ligacao,0
-9691,Sra.,Carla,Castro,48,Feminino,Rua Miguel Porcele 1418,Mogi das Cruzes,SP,São Paulo,08730-592,BR,Brazil,CarlaBarrosCastro@jourrapide.com,5160,0.49,6,11,1,3,2,7,4,6403,79,Ligacao,0
+9690,Sra.,Luiza,Oliveira,35,Feminino,Rua Álvares Machado 1215,São Paulo,SP,São Paulo,01501-030,BR,Brazil,LuizaCarvalhoOliveira@jourrapide.com,5920,0.22,0,9,0,4,2,8,4,3029,46,Ligacao,1
+9691,Sra.,Carla,Castro,48,Feminino,Rua Miguel Porcele 1418,Mogi das Cruzes,SP,São Paulo,08730-592,BR,Brazil,CarlaBarrosCastro@jourrapide.com,5160,0.49,6,11,1,3,2,7,4,6403,79,Ligacao,1
 9692,Sra.,Ana,Castro,56,Feminino,Rua dos Brilhantes 1062,Foz do Iguaçu,PR,Paraná,85855-490,BR,Brazil,AnaCavalcantiCastro@superrito.com,6368,0.85,0,17,0,4,13,182,3,9628,48,SMS,1
 9693,Sr.,Kauê,Fernandes,48,Masculino,Rua 15 881,Luziânia,GO,Goiás,72803-530,BR,Brazil,KaueAlvesFernandes@armyspy.com,4469,1,0,17,0,4,11,50,1,9726,54,Ligacao,1
 9694,Sr.,Rafael,Martins,56,Masculino,Rua Teresópolis 689,Ipatinga,MG,Minas Gerais,35164-259,BR,Brazil,RafaelDiasMartins@dayrep.com,8139,1,6,2,0,2,20,80,2,734,37,Email,1
 9695,Sra.,Carla,Martins,34,Feminino,Rua Sete de Setembro 970,Macaé,RJ,Rio de Janeiro,27910-320,BR,Brazil,CarlaOliveiraMartins@gustr.com,9781,0.93,2,0,1,4,35,39,0,1591,52,Email,1
 9696,Sra.,Giovanna,Carvalho,31,Feminino,Rua Alcides Sotero de Assunção 1450,Timon,MA,Maranhão,65630-280,BR,Brazil,GiovannaAlmeidaCarvalho@gustr.com,8896,0.98,5,1,0,2,32,89,1,7525,47,Push,1
-9697,Sr.,Gabriel,Silva,19,Masculino,Rua Martins Ramos 730,Jaboatão dos Guararapes,PE,Pernambuco,54230-171,BR,Brazil,GabrielBarbosaSilva@teleworm.us,5377,0.21,12,19,1,3,2,4,4,4221,79,Ligacao,0
-9698,Sr.,Vitór,Almeida,25,Masculino,Quadra 711 Sul Alameda 22 251,Palmas,TO,Tocantins,77017-172,BR,Brazil,VitorRodriguesAlmeida@armyspy.com,7292,0.36,14,3,1,5,1,3,5,3319,58,Email,0
-9699,Sra.,Isabella,Cunha,52,Feminino,Rua Santa Lúcia 1697,Caucaia,CE,Ceará,61602-350,BR,Brazil,IsabellaAzevedoCunha@armyspy.com,3982,0.36,15,6,0,2,2,6,5,1076,59,Email,0
+9697,Sr.,Gabriel,Silva,19,Masculino,Rua Martins Ramos 730,Jaboatão dos Guararapes,PE,Pernambuco,54230-171,BR,Brazil,GabrielBarbosaSilva@teleworm.us,5377,0.21,12,19,1,3,2,4,4,4221,79,Ligacao,1
+9698,Sr.,Vitór,Almeida,25,Masculino,Quadra 711 Sul Alameda 22 251,Palmas,TO,Tocantins,77017-172,BR,Brazil,VitorRodriguesAlmeida@armyspy.com,7292,0.36,14,3,1,5,1,3,5,3319,58,Email,1
+9699,Sra.,Isabella,Cunha,52,Feminino,Rua Santa Lúcia 1697,Caucaia,CE,Ceará,61602-350,BR,Brazil,IsabellaAzevedoCunha@armyspy.com,3982,0.36,15,6,0,2,2,6,5,1076,59,Email,1
 9700,Sr.,Gabriel,Souza,34,Masculino,Rua Pedro Escobar 144,São Paulo,SP,São Paulo,04851-210,BR,Brazil,GabrielAlmeidaSouza@superrito.com,9213,0.94,0,18,0,1,24,127,3,1097,38,Ligacao,1
 9701,Sra.,Vitoria,Azevedo,21,Feminino,Rua Euzebio Tostes 1346,São João de Meriti,RJ,Rio de Janeiro,25585-220,BR,Brazil,VitoriaBarbosaAzevedo@jourrapide.com,6451,0.99,11,1,0,3,15,96,1,1279,73,SMS,1
 9702,Sr.,Kauê,Carvalho,43,Masculino,Avenida Itavuvu 702,Sorocaba,SP,São Paulo,18075-042,BR,Brazil,KaueCastroCarvalho@superrito.com,5999,0.81,5,3,0,5,15,95,0,7656,55,Ligacao,1
-9703,Sr.,Erick,Rodrigues,52,Masculino,Rua 1 1708,Fortaleza,CE,Ceará,60440-500,BR,Brazil,ErickSilvaRodrigues@einrot.com,5961,0.12,15,1,0,2,3,4,5,9007,59,SMS,0
+9703,Sr.,Erick,Rodrigues,52,Masculino,Rua 1 1708,Fortaleza,CE,Ceará,60440-500,BR,Brazil,ErickSilvaRodrigues@einrot.com,5961,0.12,15,1,0,2,3,4,5,9007,59,SMS,1
 9704,Sra.,Luana,Correia,27,Feminino,Rua Um 158,Jundiaí,SP,São Paulo,13216-761,BR,Brazil,LuanaAlvesCorreia@armyspy.com,9730,0.94,15,1,1,0,47,105,0,6158,74,Ligacao,1
-9705,Sr.,Antônio,Cunha,54,Masculino,Beco Neutel Maia 1463,Rio Branco,AC,Acre,69908-200,BR,Brazil,AntonioGomesCunha@rhyta.com,8294,0.22,2,18,1,5,2,3,5,6747,70,Email,0
+9705,Sr.,Antônio,Cunha,54,Masculino,Beco Neutel Maia 1463,Rio Branco,AC,Acre,69908-200,BR,Brazil,AntonioGomesCunha@rhyta.com,8294,0.22,2,18,1,5,2,3,5,6747,70,Email,1
 9706,Dr.,Estevan,Alves,66,Masculino,Travessa Marechal Floriano Peixoto 1624,Candeias,BA,Bahia,43820-210,BR,Brazil,EstevanAraujoAlves@jourrapide.com,6827,1,10,17,0,3,30,143,0,3317,73,Push,1
-9707,Sra.,Vitoria,Ferreira,39,Feminino,Rua Genaro de Carvalho 1474,São Paulo,SP,São Paulo,04377-220,BR,Brazil,VitoriaOliveiraFerreira@jourrapide.com,5242,0.48,15,7,0,5,2,6,5,5107,42,Ligacao,0
-9708,Sr.,Luiz,Ribeiro,54,Masculino,Travessa Trannin 650,Niterói,RJ,Rio de Janeiro,24140-510,BR,Brazil,LuizAraujoRibeiro@gustr.com,5970,0.09,10,17,0,4,2,7,5,6655,31,SMS,0
-9709,Sr.,Matheus,Alves,66,Masculino,Rua Engenheiro Álvaro Nunes Pereira 948,Porto Alegre,RS,Rio Grande do Sul,90570-110,BR,Brazil,MatheusGomesAlves@fleckens.hu,4146,0.28,14,12,0,5,2,3,4,4686,56,Email,0
-9710,Sr.,Paulo,Oliveira,49,Masculino,Rua LM - 001 35,Brusque,SC,Santa Catarina,88356-485,BR,Brazil,PauloAlmeidaOliveira@einrot.com,4182,0.06,1,13,0,2,3,1,5,5607,30,Email,0
+9707,Sra.,Vitoria,Ferreira,39,Feminino,Rua Genaro de Carvalho 1474,São Paulo,SP,São Paulo,04377-220,BR,Brazil,VitoriaOliveiraFerreira@jourrapide.com,5242,0.48,15,7,0,5,2,6,5,5107,42,Ligacao,1
+9708,Sr.,Luiz,Ribeiro,54,Masculino,Travessa Trannin 650,Niterói,RJ,Rio de Janeiro,24140-510,BR,Brazil,LuizAraujoRibeiro@gustr.com,5970,0.09,10,17,0,4,2,7,5,6655,31,SMS,1
+9709,Sr.,Matheus,Alves,66,Masculino,Rua Engenheiro Álvaro Nunes Pereira 948,Porto Alegre,RS,Rio Grande do Sul,90570-110,BR,Brazil,MatheusGomesAlves@fleckens.hu,4146,0.28,14,12,0,5,2,3,4,4686,56,Email,1
+9710,Sr.,Paulo,Oliveira,49,Masculino,Rua LM - 001 35,Brusque,SC,Santa Catarina,88356-485,BR,Brazil,PauloAlmeidaOliveira@einrot.com,4182,0.06,1,13,0,2,3,1,5,5607,30,Email,1
 9711,Sra.,Thaís,Barbosa,47,Feminino,Rua Stewe Biko 202,Serra,ES,Espírito Santo,29163-491,BR,Brazil,ThaisSantosBarbosa@einrot.com,8503,1,13,5,0,2,20,179,3,1880,58,Push,1
 9712,Sra.,Melissa,Costa,36,Feminino,Rua Sebastião Araújo 1152,Rio de Janeiro,RJ,Rio de Janeiro,23058-200,BR,Brazil,MelissaCastroCosta@einrot.com,4475,1,14,2,0,4,43,148,1,5792,39,Ligacao,1
-9713,Sr.,Bruno,Silva,39,Masculino,Rua Ricardo Marinho 1810,Pará de Minas,MG,Minas Gerais,35660-398,BR,Brazil,BrunoRodriguesSilva@teleworm.us,3421,0.09,7,10,1,4,2,8,5,6819,87,Ligacao,0
-9714,Sr.,Joao,Lima,44,Masculino,Beco da Saudade 1008,Rio de Janeiro,RJ,Rio de Janeiro,23030-520,BR,Brazil,JoaoDiasLima@superrito.com,6968,0.47,13,12,0,2,3,8,5,8894,90,Push,0
+9713,Sr.,Bruno,Silva,39,Masculino,Rua Ricardo Marinho 1810,Pará de Minas,MG,Minas Gerais,35660-398,BR,Brazil,BrunoRodriguesSilva@teleworm.us,3421,0.09,7,10,1,4,2,8,5,6819,87,Ligacao,1
+9714,Sr.,Joao,Lima,44,Masculino,Beco da Saudade 1008,Rio de Janeiro,RJ,Rio de Janeiro,23030-520,BR,Brazil,JoaoDiasLima@superrito.com,6968,0.47,13,12,0,2,3,8,5,8894,90,Push,1
 9715,Sr.,Leonardo,Oliveira,55,Masculino,3ª Travessa Rio Azul 451,Camaragibe,PE,Pernambuco,54756-435,BR,Brazil,LeonardoLimaOliveira@fleckens.hu,8901,1,13,6,0,2,17,197,3,6291,67,Ligacao,1
 9716,Sra.,Giovanna,Castro,49,Feminino,Rua Guilherme Garmes 608,Bauru,SP,São Paulo,17060-580,BR,Brazil,GiovannaSousaCastro@teleworm.us,6729,0.92,1,6,1,1,38,195,1,8873,43,Push,1
 9717,Sr.,Vinícius,Castro,45,Masculino,Rua Professor David Mendes Pereira 1638,Salvador,BA,Bahia,41612-010,BR,Brazil,ViniciusCarvalhoCastro@teleworm.us,6574,1,0,9,0,4,24,46,2,9665,30,Push,1
-9718,Sr.,Gabriel,Cardoso,56,Masculino,Rua Doutor José Marrey Júnior 1575,Montes Claros,MG,Minas Gerais,39400-421,BR,Brazil,GabrielCarvalhoCardoso@rhyta.com,5434,0.03,12,18,0,2,2,6,5,8991,34,Push,0
-9719,Sr.,Vitór,Castro,28,Masculino,Rua Edwy da Costa Ávila 361,Lages,SC,Santa Catarina,88511-520,BR,Brazil,VitorDiasCastro@cuvox.de,9242,0.4,13,15,1,3,2,6,4,8267,57,Ligacao,0
-9720,Sra.,Livia,Rocha,33,Feminino,Avenida Professor Alcebíades Delamare 1250,São Paulo,SP,São Paulo,05671-020,BR,Brazil,LiviaRibeiroRocha@cuvox.de,7692,0.22,5,13,0,1,3,3,4,5998,81,SMS,0
+9718,Sr.,Gabriel,Cardoso,56,Masculino,Rua Doutor José Marrey Júnior 1575,Montes Claros,MG,Minas Gerais,39400-421,BR,Brazil,GabrielCarvalhoCardoso@rhyta.com,5434,0.03,12,18,0,2,2,6,5,8991,34,Push,1
+9719,Sr.,Vitór,Castro,28,Masculino,Rua Edwy da Costa Ávila 361,Lages,SC,Santa Catarina,88511-520,BR,Brazil,VitorDiasCastro@cuvox.de,9242,0.4,13,15,1,3,2,6,4,8267,57,Ligacao,1
+9720,Sra.,Livia,Rocha,33,Feminino,Avenida Professor Alcebíades Delamare 1250,São Paulo,SP,São Paulo,05671-020,BR,Brazil,LiviaRibeiroRocha@cuvox.de,7692,0.22,5,13,0,1,3,3,4,5998,81,SMS,1
 9721,Sra.,Isabelle,Carvalho,43,Feminino,Rua Bragança 1227,Novo Hamburgo,RS,Rio Grande do Sul,93330-140,BR,Brazil,IsabelleSilvaCarvalho@cuvox.de,4490,0.8,2,11,0,1,35,176,3,8390,44,Ligacao,1
 9722,Sra.,Júlia,Goncalves,53,Feminino,Rua José Fabre 1530,Criciúma,SC,Santa Catarina,88811-250,BR,Brazil,JuliaRibeiroGoncalves@fleckens.hu,6531,1,9,19,0,2,45,183,3,6048,49,Email,1
 9723,Sra.,Marina,Castro,44,Feminino,Travessa João Maciel 1846,Campos dos Goytacazes,RJ,Rio de Janeiro,28022-087,BR,Brazil,MarinaBarbosaCastro@gustr.com,6663,1,4,0,0,4,10,109,1,9723,87,Push,1
 9724,Sr.,Estevan,Rocha,60,Masculino,Rua Monor 916,Igarassu,PE,Pernambuco,53620-766,BR,Brazil,EstevanCunhaRocha@gustr.com,5859,0.93,8,2,0,1,25,126,0,6164,36,Ligacao,1
 9725,Sr.,Rodrigo,Dias,44,Masculino,Praça Sargento Max Wolf 511,Cascavel,PR,Paraná,85812-350,BR,Brazil,RodrigoCavalcantiDias@armyspy.com,9919,1,3,16,0,1,18,163,0,7049,31,Ligacao,1
 9726,Sra.,Julia,Souza,45,Feminino,Rua José dos Santos 573,Contagem,MG,Minas Gerais,32215-370,BR,Brazil,JuliaMartinsSouza@cuvox.de,3448,1,3,10,0,0,42,164,2,9273,30,Push,1
-9727,Sr.,Kai,Fernandes,56,Masculino,Rua 7 1119,Valparaíso de Goiás,GO,Goiás,72874-242,BR,Brazil,KaiOliveiraFernandes@jourrapide.com,7141,0.02,12,14,0,4,3,1,4,5973,57,Ligacao,0
-9728,Sr.,Arthur,Fernandes,60,Masculino,Rua Luísa de Carvalho 1201,Rio de Janeiro,RJ,Rio de Janeiro,21371-250,BR,Brazil,ArthurDiasFernandes@dayrep.com,3492,0.09,11,5,0,4,3,7,5,9773,47,Ligacao,0
+9727,Sr.,Kai,Fernandes,56,Masculino,Rua 7 1119,Valparaíso de Goiás,GO,Goiás,72874-242,BR,Brazil,KaiOliveiraFernandes@jourrapide.com,7141,0.02,12,14,0,4,3,1,4,5973,57,Ligacao,1
+9728,Sr.,Arthur,Fernandes,60,Masculino,Rua Luísa de Carvalho 1201,Rio de Janeiro,RJ,Rio de Janeiro,21371-250,BR,Brazil,ArthurDiasFernandes@dayrep.com,3492,0.09,11,5,0,4,3,7,5,9773,47,Ligacao,1
 9729,Sr.,Marcos,Almeida,64,Masculino,Rua Santa Luzia 113,São Luís,MA,Maranhão,65063-450,BR,Brazil,MarcosSouzaAlmeida@gustr.com,5586,0.88,0,11,0,1,32,170,1,8694,35,Ligacao,1
-9730,Sra.,Giovanna,Almeida,29,Feminino,Rua Umberto Peruzzo 414,Araçatuba,SP,São Paulo,16027-210,BR,Brazil,GiovannaBarbosaAlmeida@cuvox.de,3214,0.48,9,15,0,0,2,3,4,4156,70,Push,0
+9730,Sra.,Giovanna,Almeida,29,Feminino,Rua Umberto Peruzzo 414,Araçatuba,SP,São Paulo,16027-210,BR,Brazil,GiovannaBarbosaAlmeida@cuvox.de,3214,0.48,9,15,0,0,2,3,4,4156,70,Push,1
 9731,Sra.,Vitória,Azevedo,53,Feminino,Rua do Araçá 552,Vila Velha,ES,Espírito Santo,29129-015,BR,Brazil,VitoriaGoncalvesAzevedo@armyspy.com,5321,0.82,4,4,1,0,29,193,3,8968,40,Ligacao,1
 9732,Sr.,Mateus,Cunha,49,Masculino,Rua Grêmio 1875,Cotia,SP,São Paulo,06722-125,BR,Brazil,MateusOliveiraCunha@superrito.com,5633,1,15,10,0,4,19,69,2,1589,79,Email,1
 9733,Sra.,Anna,Oliveira,24,Feminino,Travessa Las Palmas I 798,Belém,PA,Pará,66840-840,BR,Brazil,AnnaGomesOliveira@jourrapide.com,4837,0.88,15,14,0,3,43,89,0,1881,31,Ligacao,1
 9734,Sr.,Felipe,Melo,42,Masculino,Rua General Ceroa da Mota 982,Aracaju,SE,Sergipe,49072-270,BR,Brazil,FelipeLimaMelo@cuvox.de,5198,0.93,10,8,0,3,25,31,1,4591,39,Ligacao,1
-9735,Sra.,Anna,Ribeiro,53,Feminino,Rua Sete 373,Hortolândia,SP,São Paulo,13183-411,BR,Brazil,AnnaCunhaRibeiro@superrito.com,3262,0.42,10,18,0,5,3,4,5,8642,32,SMS,0
+9735,Sra.,Anna,Ribeiro,53,Feminino,Rua Sete 373,Hortolândia,SP,São Paulo,13183-411,BR,Brazil,AnnaCunhaRibeiro@superrito.com,3262,0.42,10,18,0,5,3,4,5,8642,32,SMS,1
 9736,Sr.,Luiz,Azevedo,63,Masculino,4ª Travessa João Paulo II 1805,Paulista,PE,Pernambuco,53405-192,BR,Brazil,LuizLimaAzevedo@einrot.com,8212,0.81,10,12,0,5,46,176,3,1952,49,SMS,1
 9737,Sr.,Miguel,Alves,35,Masculino,Rua Castelo de Setúbal 793,Belo Horizonte,MG,Minas Gerais,31330-090,BR,Brazil,MiguelCarvalhoAlves@fleckens.hu,8724,1,0,19,0,0,31,34,1,5132,31,Email,1
 9738,Sra.,Vitória,Lima,38,Feminino,Praça Rocha Pombo 1513,Maringá,PR,Paraná,87013-030,BR,Brazil,VitoriaMartinsLima@cuvox.de,3283,0.89,2,6,1,5,44,58,3,3073,47,SMS,1
-9739,Sra.,Fernanda,Castro,62,Feminino,Rua Napoleão Michel 1307,São Paulo,SP,São Paulo,04533-060,BR,Brazil,FernandaRodriguesCastro@jourrapide.com,9059,0.22,1,0,0,5,3,4,5,9826,82,Email,0
-9740,Sr.,Murilo,Rodrigues,20,Masculino,Rua Queimadas 493,Recife,PE,Pernambuco,51290-540,BR,Brazil,MuriloOliveiraRodrigues@fleckens.hu,8105,0.38,6,16,0,1,2,5,5,4997,59,Push,0
-9741,Sr.,Martim,Cavalcanti,49,Masculino,Rua dos Arvoredos 730,Franca,SP,São Paulo,14403-152,BR,Brazil,MartimPintoCavalcanti@dayrep.com,6230,0.38,3,20,0,5,1,6,5,8691,62,Ligacao,0
+9739,Sra.,Fernanda,Castro,62,Feminino,Rua Napoleão Michel 1307,São Paulo,SP,São Paulo,04533-060,BR,Brazil,FernandaRodriguesCastro@jourrapide.com,9059,0.22,1,0,0,5,3,4,5,9826,82,Email,1
+9740,Sr.,Murilo,Rodrigues,20,Masculino,Rua Queimadas 493,Recife,PE,Pernambuco,51290-540,BR,Brazil,MuriloOliveiraRodrigues@fleckens.hu,8105,0.38,6,16,0,1,2,5,5,4997,59,Push,1
+9741,Sr.,Martim,Cavalcanti,49,Masculino,Rua dos Arvoredos 730,Franca,SP,São Paulo,14403-152,BR,Brazil,MartimPintoCavalcanti@dayrep.com,6230,0.38,3,20,0,5,1,6,5,8691,62,Ligacao,1
 9742,Sr.,Martim,Gomes,27,Masculino,Rua do Meio 1020,Sobral,CE,Ceará,62030-310,BR,Brazil,MartimMeloGomes@dayrep.com,4543,1,8,0,1,2,33,59,3,1395,40,SMS,1
 9743,Sr.,José,Barros,60,Masculino,Vila Patriarca 619,João Pessoa,PB,Paraíba,58040-183,BR,Brazil,JoseCavalcantiBarros@einrot.com,8536,0.96,1,2,0,4,41,157,1,915,42,Ligacao,1
-9744,Sr.,Tomás,Alves,60,Masculino,Rua Nivardo Sposito 1347,Londrina,PR,Paraná,86073-366,BR,Brazil,TomasOliveiraAlves@cuvox.de,6521,0.1,10,11,1,1,2,7,5,5735,38,Email,0
+9744,Sr.,Tomás,Alves,60,Masculino,Rua Nivardo Sposito 1347,Londrina,PR,Paraná,86073-366,BR,Brazil,TomasOliveiraAlves@cuvox.de,6521,0.1,10,11,1,1,2,7,5,5735,38,Email,1
 9745,Sr.,Gabriel,Lima,24,Masculino,Rua Rio Madeira 1875,Betim,MG,Minas Gerais,32560-360,BR,Brazil,GabrielMeloLima@dayrep.com,8980,1,15,8,0,0,25,106,3,7562,42,Ligacao,1
 9746,Sra.,Ana,Araujo,50,Feminino,Rua Adelaide Roza da Luz 1582,Joinville,SC,Santa Catarina,89231-542,BR,Brazil,AnaBarrosAraujo@rhyta.com,4293,0.82,2,20,0,1,25,39,0,4622,59,Email,1
-9747,Sr.,Bruno,Goncalves,19,Masculino,Rua Odete Duarte Pinto 1516,São Gonçalo,RJ,Rio de Janeiro,24737-343,BR,Brazil,BrunoCastroGoncalves@rhyta.com,9973,0.06,7,19,0,1,2,6,4,2333,76,Email,0
-9748,Sr.,Tomás,Silva,27,Masculino,Rua Candeias 1124,Olinda,PE,Pernambuco,53130-610,BR,Brazil,TomasAzevedoSilva@fleckens.hu,6167,0.03,7,20,0,0,3,5,5,7436,69,Ligacao,0
+9747,Sr.,Bruno,Goncalves,19,Masculino,Rua Odete Duarte Pinto 1516,São Gonçalo,RJ,Rio de Janeiro,24737-343,BR,Brazil,BrunoCastroGoncalves@rhyta.com,9973,0.06,7,19,0,1,2,6,4,2333,76,Email,1
+9748,Sr.,Tomás,Silva,27,Masculino,Rua Candeias 1124,Olinda,PE,Pernambuco,53130-610,BR,Brazil,TomasAzevedoSilva@fleckens.hu,6167,0.03,7,20,0,0,3,5,5,7436,69,Ligacao,1
 9749,Sr.,Martim,Melo,42,Masculino,Rua Rosthand de Farias 251,Rio de Janeiro,RJ,Rio de Janeiro,21735-590,BR,Brazil,MartimBarrosMelo@cuvox.de,9740,1,4,6,1,2,26,132,1,2795,85,Push,1
-9750,Sra.,Marisa,Rocha,53,Feminino,Rua Joana Mattioda Manfro 1009,Caxias do Sul,RS,Rio Grande do Sul,95052-370,BR,Brazil,MarisaMeloRocha@teleworm.us,6152,0.1,15,5,0,3,3,4,5,5810,63,Ligacao,0
+9750,Sra.,Marisa,Rocha,53,Feminino,Rua Joana Mattioda Manfro 1009,Caxias do Sul,RS,Rio Grande do Sul,95052-370,BR,Brazil,MarisaMeloRocha@teleworm.us,6152,0.1,15,5,0,3,3,4,5,5810,63,Ligacao,1
 9751,Sr.,Miguel,Pereira,46,Masculino,Rua Benedita Xavier Barreto 414,Itatiba,SP,São Paulo,13252-841,BR,Brazil,MiguelPintoPereira@einrot.com,4116,0.86,15,17,0,4,49,123,2,1246,57,SMS,1
 9752,Sra.,Bianca,Castro,64,Feminino,Rua Beco do Luar 422,Olinda,PE,Pernambuco,53230-255,BR,Brazil,BiancaCunhaCastro@armyspy.com,7550,0.86,4,8,1,3,21,134,3,4278,42,SMS,1
-9753,Sra.,Melissa,Cavalcanti,48,Feminino,Avenida da Urca 1328,Divinópolis,MG,Minas Gerais,35501-463,BR,Brazil,MelissaSilvaCavalcanti@dayrep.com,9303,0.39,13,1,0,2,2,3,5,8181,54,Email,0
+9753,Sra.,Melissa,Cavalcanti,48,Feminino,Avenida da Urca 1328,Divinópolis,MG,Minas Gerais,35501-463,BR,Brazil,MelissaSilvaCavalcanti@dayrep.com,9303,0.39,13,1,0,2,2,3,5,8181,54,Email,1
 9754,Sr.,Murilo,Gomes,60,Masculino,Rua Jatobá 898,Sumaré,SP,São Paulo,13173-290,BR,Brazil,MuriloRibeiroGomes@einrot.com,3789,0.89,3,4,1,3,31,121,3,3792,66,Email,1
-9755,Sr.,Samuel,Rodrigues,52,Masculino,Rua Colatina 251,Várzea Grande,MT,Mato Grosso,78150-662,BR,Brazil,SamuelAlvesRodrigues@superrito.com,5147,0.26,14,17,0,2,3,8,5,7962,59,Ligacao,0
+9755,Sr.,Samuel,Rodrigues,52,Masculino,Rua Colatina 251,Várzea Grande,MT,Mato Grosso,78150-662,BR,Brazil,SamuelAlvesRodrigues@superrito.com,5147,0.26,14,17,0,2,3,8,5,7962,59,Ligacao,1
 9756,Sra.,Raissa,Goncalves,58,Feminino,Rua Tabaúna 388,Campo Grande,MS,Mato Grosso do Sul,79034-341,BR,Brazil,RaissaOliveiraGoncalves@einrot.com,4220,0.84,14,9,1,1,34,122,2,8115,67,SMS,1
-9757,Sr.,Nicolas,Barros,20,Masculino,Rua Miguel Ascoli 158,Ferraz de Vasconcelos,SP,São Paulo,08532-530,BR,Brazil,NicolasSilvaBarros@fleckens.hu,7962,0.4,15,18,0,3,3,4,4,7458,78,Email,0
-9758,Sr.,Daniel,Almeida,63,Masculino,Passagem Vitória Régia 1962,Belém,PA,Pará,66625-095,BR,Brazil,DanielMeloAlmeida@teleworm.us,7026,0.42,11,16,1,1,1,5,5,1808,47,Push,0
+9757,Sr.,Nicolas,Barros,20,Masculino,Rua Miguel Ascoli 158,Ferraz de Vasconcelos,SP,São Paulo,08532-530,BR,Brazil,NicolasSilvaBarros@fleckens.hu,7962,0.4,15,18,0,3,3,4,4,7458,78,Email,1
+9758,Sr.,Daniel,Almeida,63,Masculino,Passagem Vitória Régia 1962,Belém,PA,Pará,66625-095,BR,Brazil,DanielMeloAlmeida@teleworm.us,7026,0.42,11,16,1,1,1,5,5,1808,47,Push,1
 9759,Dr.,Joao,Cunha,46,Masculino,Rua Marcos Soares Pereira 768,São Paulo,SP,São Paulo,08142-005,BR,Brazil,JoaoPintoCunha@superrito.com,4171,0.91,8,15,1,4,39,134,3,2957,65,Ligacao,1
 9760,Sr.,Otávio,Santos,52,Masculino,Rua Bragança 1702,Franco da Rocha,SP,São Paulo,07807-370,BR,Brazil,OtavioRibeiroSantos@teleworm.us,5450,1,7,4,0,2,47,107,1,8550,70,Ligacao,1
 9761,Sra.,Carla,Ribeiro,31,Feminino,Rua Monte Azul 315,Piracicaba,SP,São Paulo,13423-500,BR,Brazil,CarlaRochaRibeiro@gustr.com,7967,1,15,7,0,0,37,187,3,6517,63,Push,1
-9762,Sra.,Clara,Ferreira,53,Feminino,Rua Consul Manoel Falcão 1420,Niterói,RJ,Rio de Janeiro,24240-420,BR,Brazil,ClaraBarbosaFerreira@dayrep.com,4980,0.49,8,11,1,3,1,1,4,6987,54,Push,0
+9762,Sra.,Clara,Ferreira,53,Feminino,Rua Consul Manoel Falcão 1420,Niterói,RJ,Rio de Janeiro,24240-420,BR,Brazil,ClaraBarbosaFerreira@dayrep.com,4980,0.49,8,11,1,3,1,1,4,6987,54,Push,1
 9763,Sra.,Amanda,Silva,47,Feminino,Rua José Joaquim 1702,Ribeirão Preto,SP,São Paulo,14077-370,BR,Brazil,AmandaAlvesSilva@superrito.com,9142,1,12,10,0,0,32,164,2,8088,81,SMS,1
 9764,Sr.,Kauê,Araujo,48,Masculino,Rua do Rosario 1090,Rio de Janeiro,RJ,Rio de Janeiro,20041-001,BR,Brazil,KaueCavalcantiAraujo@jourrapide.com,9536,1,6,18,0,5,36,165,2,1314,47,Push,1
 9765,Sr.,Fábio,Dias,35,Masculino,Servidão Maurício Ribeiro de Córdoba 1106,Lages,SC,Santa Catarina,88509-365,BR,Brazil,FabioSilvaDias@superrito.com,3546,1,9,7,0,0,29,166,0,8277,77,SMS,1
-9766,Sr.,Vinicius,Ferreira,63,Masculino,Rua Henrique Krohberger 1430,Blumenau,SC,Santa Catarina,89012-340,BR,Brazil,ViniciusAzevedoFerreira@gustr.com,7636,0.37,2,14,0,5,1,0,4,3467,34,Ligacao,0
-9767,Sra.,Beatrice,Rocha,24,Feminino,Passagem Maria Conceição da Silva 1876,Osasco,SP,São Paulo,06216-070,BR,Brazil,BeatriceCarvalhoRocha@armyspy.com,8747,0.05,1,1,0,0,1,6,4,5771,73,Ligacao,0
+9766,Sr.,Vinicius,Ferreira,63,Masculino,Rua Henrique Krohberger 1430,Blumenau,SC,Santa Catarina,89012-340,BR,Brazil,ViniciusAzevedoFerreira@gustr.com,7636,0.37,2,14,0,5,1,0,4,3467,34,Ligacao,1
+9767,Sra.,Beatrice,Rocha,24,Feminino,Passagem Maria Conceição da Silva 1876,Osasco,SP,São Paulo,06216-070,BR,Brazil,BeatriceCarvalhoRocha@armyspy.com,8747,0.05,1,1,0,0,1,6,4,5771,73,Ligacao,1
 9768,Sr.,Diogo,Santos,60,Masculino,Quadra QNG 18 522,Taguatinga,DF,Distrito Federal,72130-180,BR,Brazil,DiogoBarrosSantos@jourrapide.com,7843,1,5,13,1,1,39,36,0,507,81,Email,1
 9769,Sr.,João,Goncalves,30,Masculino,Rua Fagundes Varela 1492,Itaquaquecetuba,SP,São Paulo,08594-380,BR,Brazil,JoaoRochaGoncalves@armyspy.com,3777,0.89,12,15,0,4,14,33,3,7350,58,SMS,1
 9770,Sra.,Gabriela,Gomes,61,Feminino,Rua Rio Jiquiá 1586,Recife,PE,Pernambuco,50721-310,BR,Brazil,GabrielaSantosGomes@teleworm.us,3755,1,7,8,0,0,38,178,0,3918,41,SMS,1
 9771,Sra.,Laura,Costa,49,Feminino,Rua Maria José Cordeiro 1848,Carpina,PE,Pernambuco,55813-405,BR,Brazil,LauraSousaCosta@einrot.com,9070,0.97,5,15,0,1,30,96,1,7796,52,Ligacao,1
-9772,Sr.,Joao,Pereira,20,Masculino,Quadra Quadra 300 Conjunto 20 1325,Recanto das Emas,DF,Distrito Federal,72620-121,BR,Brazil,JoaoSouzaPereira@fleckens.hu,7951,0.13,2,1,1,2,3,1,4,8472,40,SMS,0
-9773,Sra.,Gabriela,Goncalves,35,Feminino,Rua Elis Regina 630,Guarapuava,PR,Paraná,85020-020,BR,Brazil,GabrielaCardosoGoncalves@teleworm.us,8141,0.1,15,8,1,2,2,3,5,9909,64,Push,0
+9772,Sr.,Joao,Pereira,20,Masculino,Quadra Quadra 300 Conjunto 20 1325,Recanto das Emas,DF,Distrito Federal,72620-121,BR,Brazil,JoaoSouzaPereira@fleckens.hu,7951,0.13,2,1,1,2,3,1,4,8472,40,SMS,1
+9773,Sra.,Gabriela,Goncalves,35,Feminino,Rua Elis Regina 630,Guarapuava,PR,Paraná,85020-020,BR,Brazil,GabrielaCardosoGoncalves@teleworm.us,8141,0.1,15,8,1,2,2,3,5,9909,64,Push,1
 9774,Sra.,Amanda,Fernandes,49,Feminino,Rua Padre Feijó 147,Anápolis,GO,Goiás,75115-300,BR,Brazil,AmandaMeloFernandes@rhyta.com,7384,0.91,3,1,0,1,48,170,3,4495,33,Push,1
 9775,Sr.,José,Rocha,65,Masculino,Travessa Gilberto Drewniak Surek 339,Araucária,PR,Paraná,83708-595,BR,Brazil,JoseGoncalvesRocha@einrot.com,3672,1,7,15,0,0,42,93,3,3137,77,Email,1
 9776,Sr.,Vinícius,Carvalho,42,Masculino,Rua Cândido de Oliveira 1743,Tatuí,SP,São Paulo,18273-780,BR,Brazil,ViniciusSousaCarvalho@gustr.com,8369,1,3,3,0,3,31,109,1,1786,31,Push,1
 9777,Sr.,Gabriel,Ribeiro,55,Masculino,Rua Alfredo Salgado 1437,Fortaleza,CE,Ceará,60030-120,BR,Brazil,GabrielRochaRibeiro@teleworm.us,9225,1,3,12,1,1,50,155,2,1635,54,Ligacao,1
-9778,Sr.,Kauã,Barbosa,50,Masculino,Rua Pereira Lima 729,Itaúna,MG,Minas Gerais,35680-260,BR,Brazil,KauaLimaBarbosa@fleckens.hu,6308,0.28,8,9,0,3,2,3,5,6693,74,SMS,0
+9778,Sr.,Kauã,Barbosa,50,Masculino,Rua Pereira Lima 729,Itaúna,MG,Minas Gerais,35680-260,BR,Brazil,KauaLimaBarbosa@fleckens.hu,6308,0.28,8,9,0,3,2,3,5,6693,74,SMS,1
 9779,Sr.,Vitór,Dias,55,Masculino,Rua Albert Bruce Sabin 1180,Sertãozinho,SP,São Paulo,14177-097,BR,Brazil,VitorRibeiroDias@armyspy.com,8646,0.82,3,19,1,1,20,92,1,2786,40,Email,1
-9780,Sr.,Arthur,Ribeiro,47,Masculino,Avenida Dois 1492,São José dos Campos,SP,São Paulo,12239-061,BR,Brazil,ArthurRodriguesRibeiro@cuvox.de,8059,0.05,2,14,0,2,1,6,4,1013,43,Ligacao,0
-9781,Sr.,Luís,Ribeiro,52,Masculino,Rua Londres 1771,Coronel Fabriciano,MG,Minas Gerais,35171-132,BR,Brazil,LuisSousaRibeiro@rhyta.com,7491,0.43,5,19,0,2,3,6,4,9337,58,Push,0
+9780,Sr.,Arthur,Ribeiro,47,Masculino,Avenida Dois 1492,São José dos Campos,SP,São Paulo,12239-061,BR,Brazil,ArthurRodriguesRibeiro@cuvox.de,8059,0.05,2,14,0,2,1,6,4,1013,43,Ligacao,1
+9781,Sr.,Luís,Ribeiro,52,Masculino,Rua Londres 1771,Coronel Fabriciano,MG,Minas Gerais,35171-132,BR,Brazil,LuisSousaRibeiro@rhyta.com,7491,0.43,5,19,0,2,3,6,4,9337,58,Push,1
 9782,Sr.,Danilo,Fernandes,55,Masculino,Rua da Capela 1236,Rio de Janeiro,RJ,Rio de Janeiro,20250-100,BR,Brazil,DaniloPintoFernandes@rhyta.com,3150,1,10,15,1,5,39,148,1,8843,59,SMS,1
 9783,Sra.,Isabelle,Lima,50,Feminino,Rua Visconde de Santa Isabel 1292,São Paulo,SP,São Paulo,04385-090,BR,Brazil,IsabelleRodriguesLima@jourrapide.com,6555,0.97,7,8,0,1,29,167,0,5973,31,Email,1
-9784,Sr.,Julian,Barbosa,50,Masculino,Rua Missionário Isaías Herculano 138,Natal,RN,Rio Grande do Norte,59123-312,BR,Brazil,JulianPintoBarbosa@superrito.com,8433,0.01,8,8,0,2,2,5,4,7727,40,Ligacao,0
+9784,Sr.,Julian,Barbosa,50,Masculino,Rua Missionário Isaías Herculano 138,Natal,RN,Rio Grande do Norte,59123-312,BR,Brazil,JulianPintoBarbosa@superrito.com,8433,0.01,8,8,0,2,2,5,4,7727,40,Ligacao,1
 9785,Sr.,Diogo,Fernandes,21,Masculino,Rua 1 448,Formosa,GO,Goiás,73803-080,BR,Brazil,DiogoCostaFernandes@superrito.com,6672,1,12,0,0,4,36,61,2,1401,77,Push,1
 9786,Sr.,Luis,Pereira,46,Masculino,Rua Marechal Cândido Rondon 1927,Cascavel,PR,Paraná,85811-080,BR,Brazil,LuisRibeiroPereira@dayrep.com,4672,0.8,0,20,0,1,25,138,2,7883,37,Push,1
-9787,Sra.,Marina,Dias,21,Feminino,Rua Jequitinhonha 116,Rio de Janeiro,RJ,Rio de Janeiro,21755-360,BR,Brazil,MarinaSousaDias@dayrep.com,7961,0.07,4,19,0,0,3,3,5,9283,68,Push,0
+9787,Sra.,Marina,Dias,21,Feminino,Rua Jequitinhonha 116,Rio de Janeiro,RJ,Rio de Janeiro,21755-360,BR,Brazil,MarinaSousaDias@dayrep.com,7961,0.07,4,19,0,0,3,3,5,9283,68,Push,1
 9788,Sr.,Murilo,Oliveira,32,Masculino,Rua São Bento do Sul 301,Rio de Janeiro,RJ,Rio de Janeiro,23092-490,BR,Brazil,MuriloCorreiaOliveira@teleworm.us,3373,0.96,7,7,0,2,20,199,1,9983,69,Email,1
 9789,Sr.,Breno,Costa,27,Masculino,Rua José Huberto Bronca 1375,Porto Alegre,RS,Rio Grande do Sul,91120-010,BR,Brazil,BrenoCunhaCosta@jourrapide.com,6661,1,15,13,0,1,35,104,2,1489,61,Push,1
-9790,Sra.,Vitória,Ribeiro,52,Feminino,Rua Codornas 1873,Aparecida de Goiânia,GO,Goiás,74987-180,BR,Brazil,VitoriaAlmeidaRibeiro@cuvox.de,5562,0.24,11,8,0,2,3,2,5,5035,73,SMS,0
+9790,Sra.,Vitória,Ribeiro,52,Feminino,Rua Codornas 1873,Aparecida de Goiânia,GO,Goiás,74987-180,BR,Brazil,VitoriaAlmeidaRibeiro@cuvox.de,5562,0.24,11,8,0,2,3,2,5,5035,73,SMS,1
 9791,Sra.,Leonor,Cardoso,27,Feminino,Avenida Augusta Garavelo 1036,Goiânia,GO,Goiás,74672-100,BR,Brazil,LeonorCarvalhoCardoso@dayrep.com,8895,0.88,5,10,1,3,16,61,3,1472,68,Push,1
-9792,Sra.,Rebeca,Pereira,34,Feminino,Rua Taperaçu 1201,São Paulo,SP,São Paulo,08220-110,BR,Brazil,RebecaCunhaPereira@fleckens.hu,3544,0.43,7,17,1,0,2,4,4,4453,74,Push,0
-9793,Sra.,Eduarda,Oliveira,52,Feminino,Rua Moisés Carvalho 1939,Porto Velho,RO,Rondônia,78919-320,BR,Brazil,EduardaMartinsOliveira@superrito.com,7385,0.46,0,15,0,5,3,8,5,8163,31,Email,0
+9792,Sra.,Rebeca,Pereira,34,Feminino,Rua Taperaçu 1201,São Paulo,SP,São Paulo,08220-110,BR,Brazil,RebecaCunhaPereira@fleckens.hu,3544,0.43,7,17,1,0,2,4,4,4453,74,Push,1
+9793,Sra.,Eduarda,Oliveira,52,Feminino,Rua Moisés Carvalho 1939,Porto Velho,RO,Rondônia,78919-320,BR,Brazil,EduardaMartinsOliveira@superrito.com,7385,0.46,0,15,0,5,3,8,5,8163,31,Email,1
 9794,Sr.,Diego,Silva,19,Masculino,Praça Antônio Kowalczuk 257,Piraquara,PR,Paraná,83301-695,BR,Brazil,DiegoFernandesSilva@dayrep.com,5121,0.95,5,6,0,1,21,160,1,5205,34,Push,1
 9795,Sr.,Enzo,Pereira,45,Masculino,Rua Antônio Dombrowski 952,São José dos Pinhais,PR,Paraná,83090-420,BR,Brazil,EnzoMartinsPereira@cuvox.de,6310,1,12,2,0,5,29,47,1,3277,83,Push,1
-9796,Sr.,Vinicius,Fernandes,37,Masculino,Rua Desembargador Bandeira de Mello 1304,São Paulo,SP,São Paulo,04743-000,BR,Brazil,ViniciusGomesFernandes@gustr.com,8492,0.38,8,7,0,4,1,8,4,6970,37,SMS,0
-9797,Sra.,Manuela,Melo,22,Feminino,Rua das Flores 1587,Goiânia,GO,Goiás,74484-721,BR,Brazil,ManuelaPintoMelo@teleworm.us,7068,0.36,13,6,0,1,2,6,4,2485,53,Email,0
+9796,Sr.,Vinicius,Fernandes,37,Masculino,Rua Desembargador Bandeira de Mello 1304,São Paulo,SP,São Paulo,04743-000,BR,Brazil,ViniciusGomesFernandes@gustr.com,8492,0.38,8,7,0,4,1,8,4,6970,37,SMS,1
+9797,Sra.,Manuela,Melo,22,Feminino,Rua das Flores 1587,Goiânia,GO,Goiás,74484-721,BR,Brazil,ManuelaPintoMelo@teleworm.us,7068,0.36,13,6,0,1,2,6,4,2485,53,Email,1
 9798,Sr.,Igor,Souza,47,Masculino,Viela Tobias Barreto 1248,Guarulhos,SP,São Paulo,07270-371,BR,Brazil,IgorAlmeidaSouza@fleckens.hu,4609,1,14,10,1,4,41,157,0,5271,65,Email,1
 9799,Sra.,Nicole,Barbosa,38,Feminino,5ª Travessa Rego Melo 1305,Recife,PE,Pernambuco,50060-506,BR,Brazil,NicoleCastroBarbosa@teleworm.us,5209,0.94,4,18,1,3,42,175,3,6025,52,Ligacao,1
 9800,Sra.,Vitoria,Carvalho,58,Feminino,Rua dos Bancários 1901,Bagé,RS,Rio Grande do Sul,96420-500,BR,Brazil,VitoriaAlvesCarvalho@cuvox.de,3950,1,2,9,0,0,50,124,3,6089,38,Email,1
-9801,Sra.,Maria,Santos,58,Feminino,Viela dos Bombeiros 173,Guarulhos,SP,São Paulo,07272-231,BR,Brazil,MariaCostaSantos@einrot.com,4106,0.02,13,14,1,2,2,2,5,8456,52,Push,0
+9801,Sra.,Maria,Santos,58,Feminino,Viela dos Bombeiros 173,Guarulhos,SP,São Paulo,07272-231,BR,Brazil,MariaCostaSantos@einrot.com,4106,0.02,13,14,1,2,2,2,5,8456,52,Push,1
 9802,Sr.,Victor,Goncalves,47,Masculino,Alameda Souza Franco 1820,Belém,PA,Pará,66635-505,BR,Brazil,VictorBarbosaGoncalves@fleckens.hu,6788,0.89,3,6,0,3,45,155,1,4171,48,Email,1
-9803,Sra.,Rafaela,Castro,23,Feminino,Rua Sílvio Fumagali 1472,Viamão,RS,Rio Grande do Sul,94440-270,BR,Brazil,RafaelaPereiraCastro@cuvox.de,6446,0.38,6,17,0,4,1,3,5,6364,43,Ligacao,0
-9804,Sr.,Matheus,Goncalves,42,Masculino,Rua Dezessete-D 777,Volta Redonda,RJ,Rio de Janeiro,27262-180,BR,Brazil,MatheusSilvaGoncalves@einrot.com,6932,0.46,4,0,0,2,3,6,5,5196,71,Email,0
+9803,Sra.,Rafaela,Castro,23,Feminino,Rua Sílvio Fumagali 1472,Viamão,RS,Rio Grande do Sul,94440-270,BR,Brazil,RafaelaPereiraCastro@cuvox.de,6446,0.38,6,17,0,4,1,3,5,6364,43,Ligacao,1
+9804,Sr.,Matheus,Goncalves,42,Masculino,Rua Dezessete-D 777,Volta Redonda,RJ,Rio de Janeiro,27262-180,BR,Brazil,MatheusSilvaGoncalves@einrot.com,6932,0.46,4,0,0,2,3,6,5,5196,71,Email,1
 9805,Sr.,Rodrigo,Cardoso,37,Masculino,Rua Guadalajara 1256,São Gonçalo,RJ,Rio de Janeiro,24457-416,BR,Brazil,RodrigoFernandesCardoso@jourrapide.com,5551,0.89,11,18,0,4,19,41,2,7107,82,Ligacao,1
-9806,Sr.,Lucas,Azevedo,27,Masculino,Rua Francisco Alves de Oliveira 1164,Leme,SP,São Paulo,13614-129,BR,Brazil,LucasRodriguesAzevedo@fleckens.hu,6733,0.16,4,17,0,2,1,3,5,4613,58,SMS,0
+9806,Sr.,Lucas,Azevedo,27,Masculino,Rua Francisco Alves de Oliveira 1164,Leme,SP,São Paulo,13614-129,BR,Brazil,LucasRodriguesAzevedo@fleckens.hu,6733,0.16,4,17,0,2,1,3,5,4613,58,SMS,1
 9807,Sra.,Alice,Souza,48,Feminino,Estrada Municipal José da Silva Mineiro 1544,Caçapava,SP,São Paulo,12284-851,BR,Brazil,AliceDiasSouza@superrito.com,4915,1,0,20,0,2,50,99,3,4084,86,Push,1
-9808,Sr.,Miguel,Pereira,45,Masculino,Avenida Doutor Eurico Chaves 4,Recife,PE,Pernambuco,52071-250,BR,Brazil,MiguelRodriguesPereira@gustr.com,3676,0.44,6,9,0,5,2,8,4,1807,48,SMS,0
+9808,Sr.,Miguel,Pereira,45,Masculino,Avenida Doutor Eurico Chaves 4,Recife,PE,Pernambuco,52071-250,BR,Brazil,MiguelRodriguesPereira@gustr.com,3676,0.44,6,9,0,5,2,8,4,1807,48,SMS,1
 9809,Sra.,Melissa,Rodrigues,40,Feminino,Travessa São Jorge 1640,Goiânia,GO,Goiás,74453-350,BR,Brazil,MelissaMeloRodrigues@einrot.com,4308,0.91,2,7,0,3,36,145,2,3310,54,Email,1
-9810,Sr.,Luan,Oliveira,35,Masculino,Rua das Árvores 1269,Jaú,SP,São Paulo,17206-602,BR,Brazil,LuanPintoOliveira@teleworm.us,4087,0.05,12,15,0,2,3,3,5,4953,34,Ligacao,0
+9810,Sr.,Luan,Oliveira,35,Masculino,Rua das Árvores 1269,Jaú,SP,São Paulo,17206-602,BR,Brazil,LuanPintoOliveira@teleworm.us,4087,0.05,12,15,0,2,3,3,5,4953,34,Ligacao,1
 9811,Sr.,Miguel,Dias,28,Masculino,Rua Pioneiro Motokishi Sonoda 52,Maringá,PR,Paraná,87010-050,BR,Brazil,MiguelAzevedoDias@superrito.com,7095,0.8,13,13,0,4,35,60,1,1831,50,Email,1
-9812,Sra.,Amanda,Martins,29,Feminino,Rua JP-019 1339,Anápolis,GO,Goiás,75090-340,BR,Brazil,AmandaGoncalvesMartins@rhyta.com,9309,0.4,10,11,0,0,1,8,5,6368,46,Push,0
+9812,Sra.,Amanda,Martins,29,Feminino,Rua JP-019 1339,Anápolis,GO,Goiás,75090-340,BR,Brazil,AmandaGoncalvesMartins@rhyta.com,9309,0.4,10,11,0,0,1,8,5,6368,46,Push,1
 9813,Sr.,Julian,Ferreira,63,Masculino,Rua Quarenta e Seis 1240,São José dos Campos,SP,São Paulo,12223-510,BR,Brazil,JulianBarrosFerreira@gustr.com,5801,0.96,3,13,0,0,37,155,1,4906,84,SMS,1
 9814,Sra.,Sofia,Oliveira,59,Feminino,Rua Laura Franco 1182,Campo Grande,MS,Mato Grosso do Sul,79075-075,BR,Brazil,SofiaCorreiaOliveira@dayrep.com,6803,0.94,3,18,0,2,23,102,3,7644,38,Push,1
-9815,Sr.,Gustavo,Melo,66,Masculino,Rua Raposo da Fonseca 50,São Paulo,SP,São Paulo,08460-520,BR,Brazil,GustavoAraujoMelo@armyspy.com,9930,0.34,6,13,0,2,1,1,5,2820,34,Email,0
-9816,Sra.,Isabella,Martins,21,Feminino,Rua Andradina 1164,Ribeirão Preto,SP,São Paulo,14078-270,BR,Brazil,IsabellaGomesMartins@dayrep.com,7496,0.47,3,15,0,1,3,5,5,2641,90,Ligacao,0
+9815,Sr.,Gustavo,Melo,66,Masculino,Rua Raposo da Fonseca 50,São Paulo,SP,São Paulo,08460-520,BR,Brazil,GustavoAraujoMelo@armyspy.com,9930,0.34,6,13,0,2,1,1,5,2820,34,Email,1
+9816,Sra.,Isabella,Martins,21,Feminino,Rua Andradina 1164,Ribeirão Preto,SP,São Paulo,14078-270,BR,Brazil,IsabellaGomesMartins@dayrep.com,7496,0.47,3,15,0,1,3,5,5,2641,90,Ligacao,1
 9817,Sr.,Bruno,Cardoso,39,Masculino,Rua Colombia 1119,Petrópolis,RJ,Rio de Janeiro,25650-040,BR,Brazil,BrunoPereiraCardoso@teleworm.us,4221,0.82,14,3,0,5,49,145,1,3643,86,Push,1
-9818,Sr.,Kai,Alves,36,Masculino,Avenida de 1 de Dezembro 1409,Salvador,BA,Bahia,40313-405,BR,Brazil,KaiAraujoAlves@cuvox.de,9555,0.2,12,8,1,2,1,8,4,5443,39,SMS,0
+9818,Sr.,Kai,Alves,36,Masculino,Avenida de 1 de Dezembro 1409,Salvador,BA,Bahia,40313-405,BR,Brazil,KaiAraujoAlves@cuvox.de,9555,0.2,12,8,1,2,1,8,4,5443,39,SMS,1
 9819,Sr.,Júlio,Almeida,31,Masculino,Rua Manoel de Oliveira 1270,Marília,SP,São Paulo,17506-002,BR,Brazil,JulioCorreiaAlmeida@superrito.com,8184,0.96,12,11,0,4,16,125,1,8064,38,Push,1
-9820,Sr.,Thiago,Araujo,57,Masculino,Rua Nestor Victor 346,Curitiba,PR,Paraná,80620-400,BR,Brazil,ThiagoCavalcantiAraujo@superrito.com,7759,0.3,15,2,0,3,1,6,4,5056,47,Push,0
-9821,Sra.,Rebeca,Souza,52,Feminino,Viela Quarenta e Três 25,Franco da Rocha,SP,São Paulo,07855-070,BR,Brazil,RebecaOliveiraSouza@superrito.com,6192,0.27,5,8,0,3,3,3,5,1119,34,Ligacao,0
+9820,Sr.,Thiago,Araujo,57,Masculino,Rua Nestor Victor 346,Curitiba,PR,Paraná,80620-400,BR,Brazil,ThiagoCavalcantiAraujo@superrito.com,7759,0.3,15,2,0,3,1,6,4,5056,47,Push,1
+9821,Sra.,Rebeca,Souza,52,Feminino,Viela Quarenta e Três 25,Franco da Rocha,SP,São Paulo,07855-070,BR,Brazil,RebecaOliveiraSouza@superrito.com,6192,0.27,5,8,0,3,3,3,5,1119,34,Ligacao,1
 9822,Sr.,André,Azevedo,40,Masculino,Avenida Presidente Vargas 1795,Betim,MG,Minas Gerais,32650-010,BR,Brazil,AndreBarrosAzevedo@gustr.com,4053,1,9,19,0,1,32,69,2,5708,68,SMS,1
 9823,Sr.,Gabriel,Sousa,55,Masculino,Rua Carmem Miranda 1831,São José dos Pinhais,PR,Paraná,83050-370,BR,Brazil,GabrielCardosoSousa@fleckens.hu,4935,0.84,14,12,0,1,42,126,1,8945,57,Push,1
-9824,Sra.,Lara,Rodrigues,46,Feminino,Alameda Canabrava 130,Caucaia,CE,Ceará,61652-550,BR,Brazil,LaraSousaRodrigues@superrito.com,3774,0.39,13,12,0,2,3,7,5,9896,88,SMS,0
-9825,Sr.,Felipe,Gomes,57,Masculino,Rua Maria Carmela Rocco Pantalena 127,São Paulo,SP,São Paulo,08111-350,BR,Brazil,FelipeAlvesGomes@cuvox.de,4787,0.35,9,10,0,5,3,1,5,5945,74,Push,0
-9826,Sr.,Breno,Silva,56,Masculino,Rua M 1652,Dourados,MS,Mato Grosso do Sul,79833-350,BR,Brazil,BrenoAraujoSilva@superrito.com,5752,0.3,7,19,1,5,3,8,4,4618,71,Push,0
+9824,Sra.,Lara,Rodrigues,46,Feminino,Alameda Canabrava 130,Caucaia,CE,Ceará,61652-550,BR,Brazil,LaraSousaRodrigues@superrito.com,3774,0.39,13,12,0,2,3,7,5,9896,88,SMS,1
+9825,Sr.,Felipe,Gomes,57,Masculino,Rua Maria Carmela Rocco Pantalena 127,São Paulo,SP,São Paulo,08111-350,BR,Brazil,FelipeAlvesGomes@cuvox.de,4787,0.35,9,10,0,5,3,1,5,5945,74,Push,1
+9826,Sr.,Breno,Silva,56,Masculino,Rua M 1652,Dourados,MS,Mato Grosso do Sul,79833-350,BR,Brazil,BrenoAraujoSilva@superrito.com,5752,0.3,7,19,1,5,3,8,4,4618,71,Push,1
 9827,Sr.,Eduardo,Melo,36,Masculino,Rua Amélio Antônio Serafini 544,Passo Fundo,RS,Rio Grande do Sul,99034-033,BR,Brazil,EduardoRibeiroMelo@teleworm.us,8467,1,12,14,0,5,41,173,1,4399,49,Ligacao,1
 9828,Sr.,Otávio,Melo,37,Masculino,Rua Cinco 1772,Campo Largo,PR,Paraná,83609-440,BR,Brazil,OtavioBarbosaMelo@rhyta.com,6122,1,4,9,0,4,15,59,1,7464,40,SMS,1
-9829,Sra.,Yasmin,Goncalves,42,Feminino,Quadra QI 04 Conjunto J 485,Guará,DF,Distrito Federal,71010-102,BR,Brazil,YasminFernandesGoncalves@armyspy.com,6855,0.28,7,18,0,4,2,5,4,5278,53,Push,0
-9830,Sr.,Gabriel,Martins,37,Masculino,Rua Expedicionário Edmundo Barradas 855,São Gonçalo,RJ,Rio de Janeiro,24750-430,BR,Brazil,GabrielRodriguesMartins@fleckens.hu,3833,0.04,13,14,0,3,2,3,4,709,38,Email,0
+9829,Sra.,Yasmin,Goncalves,42,Feminino,Quadra QI 04 Conjunto J 485,Guará,DF,Distrito Federal,71010-102,BR,Brazil,YasminFernandesGoncalves@armyspy.com,6855,0.28,7,18,0,4,2,5,4,5278,53,Push,1
+9830,Sr.,Gabriel,Martins,37,Masculino,Rua Expedicionário Edmundo Barradas 855,São Gonçalo,RJ,Rio de Janeiro,24750-430,BR,Brazil,GabrielRodriguesMartins@fleckens.hu,3833,0.04,13,14,0,3,2,3,4,709,38,Email,1
 9831,Sr.,Kauan,Cardoso,42,Masculino,Rua Órion 1993,Curitiba,PR,Paraná,81910-400,BR,Brazil,KauanCunhaCardoso@armyspy.com,5947,0.9,1,19,0,4,34,114,2,3041,66,Email,1
 9832,Sr.,Eduardo,Almeida,42,Masculino,Rua Torres Homem 1085,São João de Meriti,RJ,Rio de Janeiro,25535-116,BR,Brazil,EduardoSilvaAlmeida@superrito.com,9643,0.85,8,11,1,0,30,195,0,3941,81,Push,1
-9833,Sra.,Gabrielle,Dias,60,Feminino,Rua Jasmim 1347,Betim,MG,Minas Gerais,32615-330,BR,Brazil,GabrielleFernandesDias@superrito.com,4703,0.44,14,0,0,3,3,4,5,4545,42,SMS,0
+9833,Sra.,Gabrielle,Dias,60,Feminino,Rua Jasmim 1347,Betim,MG,Minas Gerais,32615-330,BR,Brazil,GabrielleFernandesDias@superrito.com,4703,0.44,14,0,0,3,3,4,5,4545,42,SMS,1
 9834,Sr.,Murilo,Cunha,61,Masculino,Rua Mairiporã 1965,Itaquaquecetuba,SP,São Paulo,08592-070,BR,Brazil,MuriloRibeiroCunha@teleworm.us,3644,1,11,3,0,2,45,120,2,2021,71,SMS,1
 9835,Sr.,Luis,Cardoso,45,Masculino,Rua Valdemar Betanin 842,Caxias do Sul,RS,Rio Grande do Sul,95057-363,BR,Brazil,LuisAlmeidaCardoso@jourrapide.com,6837,0.88,3,4,0,3,48,96,0,1764,62,Email,1
-9836,Sr.,Bruno,Ribeiro,63,Masculino,Rua H-014 1712,Aparecida de Goiânia,GO,Goiás,74935-170,BR,Brazil,BrunoMartinsRibeiro@fleckens.hu,7200,0.07,12,7,0,4,1,0,4,5574,62,Email,0
-9837,Sra.,Camila,Rocha,19,Feminino,Beco Alípio Goulart 459,Belo Horizonte,MG,Minas Gerais,30220-332,BR,Brazil,CamilaCostaRocha@superrito.com,3233,0.25,7,6,0,2,3,7,4,2547,38,Email,0
-9838,Sr.,Marcos,Pereira,46,Masculino,Rua Água Doce 52,Chapecó,SC,Santa Catarina,89804-450,BR,Brazil,MarcosFernandesPereira@cuvox.de,5435,0.24,9,17,0,2,2,0,5,4879,31,Push,0
-9839,Sr.,Rafael,Ferreira,27,Masculino,Rua Guapuruvus 1318,Atibaia,SP,São Paulo,12952-812,BR,Brazil,RafaelOliveiraFerreira@einrot.com,8425,0.24,2,5,1,0,3,0,5,1301,50,Email,0
+9836,Sr.,Bruno,Ribeiro,63,Masculino,Rua H-014 1712,Aparecida de Goiânia,GO,Goiás,74935-170,BR,Brazil,BrunoMartinsRibeiro@fleckens.hu,7200,0.07,12,7,0,4,1,0,4,5574,62,Email,1
+9837,Sra.,Camila,Rocha,19,Feminino,Beco Alípio Goulart 459,Belo Horizonte,MG,Minas Gerais,30220-332,BR,Brazil,CamilaCostaRocha@superrito.com,3233,0.25,7,6,0,2,3,7,4,2547,38,Email,1
+9838,Sr.,Marcos,Pereira,46,Masculino,Rua Água Doce 52,Chapecó,SC,Santa Catarina,89804-450,BR,Brazil,MarcosFernandesPereira@cuvox.de,5435,0.24,9,17,0,2,2,0,5,4879,31,Push,1
+9839,Sr.,Rafael,Ferreira,27,Masculino,Rua Guapuruvus 1318,Atibaia,SP,São Paulo,12952-812,BR,Brazil,RafaelOliveiraFerreira@einrot.com,8425,0.24,2,5,1,0,3,0,5,1301,50,Email,1
 9840,Sr.,Luiz,Ferreira,21,Masculino,Rua Renato Portioli 1771,Mogi-Mirim,SP,São Paulo,13801-036,BR,Brazil,LuizCunhaFerreira@cuvox.de,6134,0.9,3,10,1,5,20,171,3,1152,59,Push,1
-9841,Sr.,Vitór,Rodrigues,26,Masculino,Rua Santa Luzia 1369,Mogi-Mirim,SP,São Paulo,13807-461,BR,Brazil,VitorBarbosaRodrigues@rhyta.com,4737,0.31,5,6,0,1,1,0,4,3364,52,Ligacao,0
-9842,Dr.,Laura,Alves,19,Feminino,Praça Salvatori D'Alessandro 773,Varginha,MG,Minas Gerais,37022-380,BR,Brazil,LauraSantosAlves@gustr.com,3642,0.15,10,9,1,2,3,6,5,5401,84,Push,0
-9843,Sr.,Diego,Fernandes,40,Masculino,Rua Wilson Nogueira 180,Patos de Minas,MG,Minas Gerais,38706-504,BR,Brazil,DiegoMeloFernandes@rhyta.com,3731,0.38,14,4,0,4,1,0,4,9989,39,Ligacao,0
-9844,Sr.,Caio,Costa,42,Masculino,Rua Ítalo Ado Fontanini 15,Apucarana,PR,Paraná,86800-630,BR,Brazil,CaioFernandesCosta@fleckens.hu,9175,0.14,12,0,1,4,1,5,4,5752,51,Push,0
-9845,Sr.,Nicolash,Cardoso,66,Masculino,Travessa Ibicuí 1670,Cachoeira do Sul,RS,Rio Grande do Sul,96506-140,BR,Brazil,NicolashAlmeidaCardoso@fleckens.hu,5815,0.39,6,6,0,5,3,7,4,4474,30,Email,0
-9846,Sra.,Beatrice,Cardoso,20,Feminino,Rua Antônio Canero 836,São Paulo,SP,São Paulo,03190-140,BR,Brazil,BeatriceCastroCardoso@teleworm.us,6181,0.06,6,16,0,4,1,4,5,9622,49,Push,0
+9841,Sr.,Vitór,Rodrigues,26,Masculino,Rua Santa Luzia 1369,Mogi-Mirim,SP,São Paulo,13807-461,BR,Brazil,VitorBarbosaRodrigues@rhyta.com,4737,0.31,5,6,0,1,1,0,4,3364,52,Ligacao,1
+9842,Dr.,Laura,Alves,19,Feminino,Praça Salvatori D'Alessandro 773,Varginha,MG,Minas Gerais,37022-380,BR,Brazil,LauraSantosAlves@gustr.com,3642,0.15,10,9,1,2,3,6,5,5401,84,Push,1
+9843,Sr.,Diego,Fernandes,40,Masculino,Rua Wilson Nogueira 180,Patos de Minas,MG,Minas Gerais,38706-504,BR,Brazil,DiegoMeloFernandes@rhyta.com,3731,0.38,14,4,0,4,1,0,4,9989,39,Ligacao,1
+9844,Sr.,Caio,Costa,42,Masculino,Rua Ítalo Ado Fontanini 15,Apucarana,PR,Paraná,86800-630,BR,Brazil,CaioFernandesCosta@fleckens.hu,9175,0.14,12,0,1,4,1,5,4,5752,51,Push,1
+9845,Sr.,Nicolash,Cardoso,66,Masculino,Travessa Ibicuí 1670,Cachoeira do Sul,RS,Rio Grande do Sul,96506-140,BR,Brazil,NicolashAlmeidaCardoso@fleckens.hu,5815,0.39,6,6,0,5,3,7,4,4474,30,Email,1
+9846,Sra.,Beatrice,Cardoso,20,Feminino,Rua Antônio Canero 836,São Paulo,SP,São Paulo,03190-140,BR,Brazil,BeatriceCastroCardoso@teleworm.us,6181,0.06,6,16,0,4,1,4,5,9622,49,Push,1
 9847,Sr.,Estevan,Araujo,61,Masculino,Quadra Sete 1169,Marabá,PA,Pará,68513-470,BR,Brazil,EstevanCavalcantiAraujo@armyspy.com,5718,1,14,17,0,5,40,180,0,6293,82,Ligacao,1
-9848,Sr.,Mateus,Pereira,59,Masculino,Rua Sessenta e Seis 497,Petrolina,PE,Pernambuco,56316-685,BR,Brazil,MateusGomesPereira@einrot.com,9034,0.24,8,15,0,5,3,4,5,6225,34,Push,0
-9849,Sra.,Leonor,Martins,26,Feminino,Travessa Delelmo Mazzo 44,Ribeirão Preto,SP,São Paulo,14055-664,BR,Brazil,LeonorFerreiraMartins@superrito.com,7369,0.48,4,7,0,4,1,1,4,1437,73,SMS,0
-9850,Sra.,Alice,Ribeiro,66,Feminino,Rua Maria José Leal 560,Juiz de Fora,MG,Minas Gerais,36036-247,BR,Brazil,AliceLimaRibeiro@superrito.com,9813,0.44,11,9,0,1,2,1,5,4996,60,Ligacao,0
-9851,Sra.,Ana,Goncalves,18,Feminino,Rua José Rubens Trivelato 712,Valinhos,SP,São Paulo,13275-641,BR,Brazil,AnaCarvalhoGoncalves@rhyta.com,8347,0.3,7,2,0,2,3,6,5,9943,53,SMS,0
-9852,Sra.,Ágatha,Castro,19,Feminino,Rua das Purpuratas 1026,Joinville,SC,Santa Catarina,89237-540,BR,Brazil,AgathaCavalcantiCastro@jourrapide.com,4161,0.32,9,13,0,3,3,3,4,6411,44,Ligacao,0
+9848,Sr.,Mateus,Pereira,59,Masculino,Rua Sessenta e Seis 497,Petrolina,PE,Pernambuco,56316-685,BR,Brazil,MateusGomesPereira@einrot.com,9034,0.24,8,15,0,5,3,4,5,6225,34,Push,1
+9849,Sra.,Leonor,Martins,26,Feminino,Travessa Delelmo Mazzo 44,Ribeirão Preto,SP,São Paulo,14055-664,BR,Brazil,LeonorFerreiraMartins@superrito.com,7369,0.48,4,7,0,4,1,1,4,1437,73,SMS,1
+9850,Sra.,Alice,Ribeiro,66,Feminino,Rua Maria José Leal 560,Juiz de Fora,MG,Minas Gerais,36036-247,BR,Brazil,AliceLimaRibeiro@superrito.com,9813,0.44,11,9,0,1,2,1,5,4996,60,Ligacao,1
+9851,Sra.,Ana,Goncalves,18,Feminino,Rua José Rubens Trivelato 712,Valinhos,SP,São Paulo,13275-641,BR,Brazil,AnaCarvalhoGoncalves@rhyta.com,8347,0.3,7,2,0,2,3,6,5,9943,53,SMS,1
+9852,Sra.,Ágatha,Castro,19,Feminino,Rua das Purpuratas 1026,Joinville,SC,Santa Catarina,89237-540,BR,Brazil,AgathaCavalcantiCastro@jourrapide.com,4161,0.32,9,13,0,3,3,3,4,6411,44,Ligacao,1
 9853,Sr.,Breno,Araujo,59,Masculino,Rua Trinta e Seis 1636,Uberlândia,MG,Minas Gerais,38406-088,BR,Brazil,BrenoFerreiraAraujo@teleworm.us,3313,0.99,11,1,0,2,46,43,1,8063,47,Push,1
 9854,Sr.,Martim,Souza,19,Masculino,Largo do Campo Grande 887,Salvador,BA,Bahia,40080-121,BR,Brazil,MartimAlvesSouza@dayrep.com,7717,0.11,1,5,1,3,2,5,4,8318,65,Push,0
 9855,Sra.,Gabrielly,Cardoso,30,Feminino,Rua Barcelona 212,Contagem,MG,Minas Gerais,32043-028,BR,Brazil,GabriellyGomesCardoso@gustr.com,9246,0.47,0,13,1,1,3,3,4,3451,61,SMS,0
