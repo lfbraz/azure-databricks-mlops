@@ -97,12 +97,10 @@ dev_webservice = Webservice.deploy_from_image(name=dev_web_service_name,
                                               deployment_target=None,
                                               overwrite=True)
 
+dev_webservice.wait_for_deployment(show_output = True)
+
 while dev_webservice.state != "Healthy":
   dev_webservice.update_deployment_state()
-
-# COMMAND ----------
-
-print(dev_webservice.update_deployment_state())
 
 # COMMAND ----------
 
@@ -112,7 +110,7 @@ print(dev_webservice.update_deployment_state())
 
 # COMMAND ----------
 
-sample = X_test.iloc[1:5,]
+sample = X_test.iloc[0:3,]
 query_input = sample.to_json(orient="split")
 query_input
 
@@ -174,7 +172,10 @@ prod_webservice = Webservice.deploy_from_image(workspace = workspace,
                                                name = prod_webservice_name,
                                                image = model_image,
                                                deployment_config = prod_webservice_deployment_config,
-                                               deployment_target = aks_target)
+                                               deployment_target = aks_target,
+                                               overwrite=True)
+
+prod_webservice.wait_for_deployment(show_output = True)
 
 # COMMAND ----------
 
