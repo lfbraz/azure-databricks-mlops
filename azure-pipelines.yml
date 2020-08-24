@@ -9,11 +9,24 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
-steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+stages:
+- stage: Build
+  jobs:
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+  - job: Train
+    displayName: 'Train model'
+    pool:
+      vmImage: 'ubuntu-latest'
+      steps:
+      - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
+        displayName: 'Configure Databricks Cluster'
+        inputs:
+          url: 'https://adb-5583552319182079.19.azuredatabricks.net/'
+          token: dapi2f7f262521dcbc63be1f28570e89a496
+      - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
+        displayName: Train
+        inputs:
+          notebookPath: /Shared/train
+          existingClusterId: '0618-190813-trues609'
+
+
