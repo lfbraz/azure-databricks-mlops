@@ -22,12 +22,12 @@ stages:
     - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
       displayName: 'Configure Databricks Cluster'
       inputs:
-        url: 'https://adb-5583552319182079.19.azuredatabricks.net/'
-        token: dapi2f7f262521dcbc63be1f28570e89a496
+        url: '<YOUR-CLUSTER-URL>'
+        token: <YOUR-TOKEN>
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
       displayName: Train
       inputs:
         notebookPath: /Shared/train
-        existingClusterId: '0618-190813-trues609'
+        existingClusterId: '<YOUR-CLUSTER-ID>'
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Notebook execution'
