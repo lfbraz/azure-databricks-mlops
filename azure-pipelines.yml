@@ -15,15 +15,19 @@ stages:
   - job: train
     displayName: Train model
     steps:
-      - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-        displayName: 'Configure Databricks Cluster'
-        inputs:
-          url: 'https://adb-5583552319182079.19.azuredatabricks.net/'
-          token: dapi2f7f262521dcbc63be1f28570e89a496
-      - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-        displayName: Train
-        inputs:
-          notebookPath: /Shared/train
-          existingClusterId: '0618-190813-trues609'
-      - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-        displayName: 'Wait for Notebook execution'
+    - task: UsePythonVersion@0
+      displayName: Use Python 3.7.*
+      inputs:
+        versionSpec: 3.7.*
+    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
+      displayName: 'Configure Databricks Cluster'
+      inputs:
+        url: 'https://adb-5583552319182079.19.azuredatabricks.net/'
+        token: dapi2f7f262521dcbc63be1f28570e89a496
+    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
+      displayName: Train
+      inputs:
+        notebookPath: /Shared/train
+        existingClusterId: '0618-190813-trues609'
+    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
+      displayName: 'Wait for Notebook execution'
