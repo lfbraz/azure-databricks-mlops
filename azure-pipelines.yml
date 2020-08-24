@@ -12,12 +12,9 @@ pool:
 stages:
 - stage: Build
   jobs:
-
-  - job: Train
-    displayName: 'Train model'
-    pool:
-      vmImage: 'ubuntu-latest'
-      steps:
+  - job: train
+    displayName: Train model
+    steps:
       - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
         displayName: 'Configure Databricks Cluster'
         inputs:
@@ -28,3 +25,5 @@ stages:
         inputs:
           notebookPath: /Shared/train
           existingClusterId: '0618-190813-trues609'
+      - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
+        displayName: 'Wait for Notebook execution'
