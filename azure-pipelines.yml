@@ -22,12 +22,19 @@ stages:
     - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
       displayName: 'Configure Databricks Cluster'
       inputs:
-        url: '<YOUR-CLUSTER-URL>'
-        token: <YOUR-TOKEN>
+        url: $(databricks-url)
+        token: $(databricks-token)
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
       displayName: Train
       inputs:
         notebookPath: /Shared/train
-        existingClusterId: '<YOUR-CLUSTER-ID>'
+        existingClusterId: $(databricks-cluster-id)
+    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
+      displayName: 'Wait for Notebook execution'
+    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
+      displayName: Train
+      inputs:
+        notebookPath: /Shared/train
+        existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Notebook execution'
