@@ -28,5 +28,3 @@ stages:
         inputs:
           notebookPath: /Shared/train
           existingClusterId: '0618-190813-trues609'
-
-
