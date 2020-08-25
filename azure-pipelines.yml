@@ -32,13 +32,26 @@ stages:
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Training notebook'
+  - job: tests
+    displayName: Unit Tests
+    steps:
+    - task: UsePythonVersion@0
+      displayName: Use Python 3.7.*
+      inputs:
+        versionSpec: 3.7.*
+    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
+      displayName: 'Configure Databricks Cluster'
+      inputs:
+        url: $(databricks-url)
+        token: $(databricks-token)
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
       displayName: Unit tests
       inputs:
         notebookPath: /Shared/tests
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Unit Tests'
+      displayName: 'Wait for Training notebook'
+
 - stage: build_image
   displayName: Build Image
   jobs:
@@ -55,7 +68,7 @@ stages:
         url: $(databricks-url)
         token: $(databricks-token)
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Train
+      displayName: Build Image and Registry in Container Registry
       inputs:
         notebookPath: /Shared/build-image
         existingClusterId: $(databricks-cluster-id)
