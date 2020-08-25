@@ -92,7 +92,29 @@ stages:
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
       displayName: Deploy to ACI
       inputs:
-        notebookPath: /Shared/deploy
+        notebookPath: /Shared/deploy-aci
+        existingClusterId: $(databricks-cluster-id)
+    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
+      displayName: 'Wait for Build image notebook'
+- stage: deploy_prod
+  displayName: Deploy to PROD
+  jobs:
+  - job: deploy_aci
+    displayName: Deploy to Prod
+    steps:
+    - task: UsePythonVersion@0
+      displayName: Use Python 3.7.*
+      inputs:
+        versionSpec: 3.7.*
+    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
+      displayName: 'Configure Databricks Cluster'
+      inputs:
+        url: $(databricks-url)
+        token: $(databricks-token)
+    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
+      displayName: Deploy to AKS
+      inputs:
+        notebookPath: /Shared/deploy-aks
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Build image notebook'
