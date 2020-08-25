@@ -1,4 +1,6 @@
 # Databricks notebook source
+!pip install pytest-databricks
+
 import unittest
 from pytest_databricks.helper import run_unittest
 
