@@ -112,3 +112,4 @@ def deploy_aci(endpoint_name, image_name):
                                                 overwrite=True)
 
   dev_webservice.wait_for_deployment(show_output = True)
+  print(f"Model : {model_image_id} was successfully deployed to ACI")
