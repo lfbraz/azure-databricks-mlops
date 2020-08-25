@@ -30,11 +30,11 @@ stages:
         notebookPath: /Shared/train
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Notebook execution'
+      displayName: 'Wait for Training notebook'
     - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
       displayName: Unit tests
       inputs:
         notebookPath: /Shared/tests
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Notebook execution'
+      displayName: 'Wait for Unit Tests'
