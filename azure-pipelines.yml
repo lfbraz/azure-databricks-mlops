@@ -10,7 +10,8 @@ pool:
   vmImage: 'ubuntu-latest'
 
 stages:
-- stage: Build and Train model
+- stage: train_model
+  displayName: Train
   jobs:
   - job: train
     displayName: Train model
@@ -38,7 +39,8 @@ stages:
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Unit Tests'
-- stage: Build Image
+- stage: build_image
+  displayName: Build Image
   jobs:
   - job: image
     displayName: Create and package model image
@@ -59,9 +61,10 @@ stages:
         existingClusterId: $(databricks-cluster-id)
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Build image notebook'
-- stage: Deploy to Dev
+- stage: deploy_dev
+  displayName: Deploy to DEV
   jobs:
-  - job: deploy-aci
+  - job: deploy_aci
     displayName: Deploy to Dev
     steps:
     - task: UsePythonVersion@0
