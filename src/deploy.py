@@ -18,3 +18,4 @@ endpoint_name_dev = 'api-churn-dev'
 workspace = get_workspace(workspace_name, workspace_location, resource_group, subscription_id)
 
 deploy_aci(workspace, endpoint_name_dev, image_name)
+print('done')
