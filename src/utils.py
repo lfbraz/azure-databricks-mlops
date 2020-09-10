@@ -7,6 +7,7 @@ from azureml.core.image import Image
 from azureml.core import Workspace
 from azureml.core.authentication import ServicePrincipalAuthentication
 from azureml.core.compute import AksCompute
+from azureml.exceptions import WebserviceException
 
 # SKLearn
 from sklearn.ensemble import RandomForestClassifier
@@ -106,7 +107,7 @@ def deploy_aci(workspace, model_uri, endpoint_name, model_name):
   print(f"Model : {model_uri} was successfully deployed to ACI")
   print(f"Endpoint : {webservice.scoring_uri} created")
   
-def deploy_aks(workspace, model_uri, endpoint_name, aks_name): 
+def deploy_aks(workspace, model_uri, endpoint_name, model_name, aks_name): 
   aks_target = AksCompute(workspace, aks_name)
   deployment_config = AksWebservice.deploy_configuration(compute_target_name=aks_name)
   
