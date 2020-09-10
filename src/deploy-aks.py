@@ -4,10 +4,10 @@
 # COMMAND ----------
 
 # Workspace parameters
-workspace_name = 'wp-ml-db'
-workspace_location = 'East US 2'
-resource_group = 'RG-Databricks'
-subscription_id = 'f56912be-98e5-44e3-9e64-54bc52cef4a7'
+workspace_name = dbutils.secrets.get(scope = "azure-key-vault", key = "workspace-name")
+workspace_location = dbutils.secrets.get(scope = "azure-key-vault", key = "location")
+resource_group = dbutils.secrets.get(scope = "azure-key-vault", key = "resource-group")
+subscription_id = dbutils.secrets.get(scope = "azure-key-vault", key = "subscription-id")
 
 # Image parameters
 image_name = 'churn-model-image'
