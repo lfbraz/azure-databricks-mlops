@@ -52,28 +52,6 @@ stages:
     - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
       displayName: 'Wait for Training notebook'
 
-- stage: build_image
-  displayName: Build Image
-  jobs:
-  - job: image
-    displayName: Create and package model image
-    steps:
-    - task: UsePythonVersion@0
-      displayName: Use Python 3.7.*
-      inputs:
-        versionSpec: 3.7.*
-    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-      displayName: 'Configure Databricks Cluster'
-      inputs:
-        url: $(databricks-url)
-        token: $(databricks-token)
-    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Build Image and Registry in Container Registry
-      inputs:
-        notebookPath: /Shared/build-image
-        existingClusterId: $(databricks-cluster-id)
-    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Build image notebook'
 - stage: deploy_dev
   displayName: Deploy to DEV
   jobs:
