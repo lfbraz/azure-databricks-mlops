@@ -23,4 +23,4 @@ model_uri = get_model_uri(experiment_name, run_name)
 workspace = get_workspace(workspace_name, workspace_location, resource_group, subscription_id)
 
 deploy_aks(workspace, model_uri, endpoint_name_prod, model_name, aks_target)
-print('OK')
+print(' ')
