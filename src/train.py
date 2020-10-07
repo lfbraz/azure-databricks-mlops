@@ -23,4 +23,4 @@ X_train, X_test, y_train, y_test = get_X_y(train_dataset, test_dataset, TARGET, 
 # Train model
 model_uri = train_model(X_train, y_train, 20, SEED)
 print(f'model_uri: {model_uri}')
-print('Model trained - 2')
+print('Model trained')
