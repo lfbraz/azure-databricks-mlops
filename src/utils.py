@@ -1,14 +1,17 @@
 # Databricks notebook source
 import pandas as pd
 import numpy as np
+
 # Azure libs
 from azureml.core.webservice import AciWebservice, Webservice
 from azureml.core.image import Image
 from azureml.core import Workspace
 from azureml.core.authentication import ServicePrincipalAuthentication
+
 # SKLearn
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
+
 # MLFlow
 import mlflow
 import mlflow.sklearn
