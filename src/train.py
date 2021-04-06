@@ -3,7 +3,7 @@
 
 # COMMAND ----------
 
-SEED = 2020
+SEED = 2021
 TARGET = 'Churn'
 
 drop_columns = [TARGET, 'CodigoCliente']
