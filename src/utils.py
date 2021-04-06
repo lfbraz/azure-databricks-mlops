@@ -3,10 +3,15 @@ import pandas as pd
 import numpy as np
 
 # Azure libs
-from azureml.core.webservice import AciWebservice, Webservice
+from azureml.core.webservice import AciWebservice,  AksWebservice, Webservice
 from azureml.core.image import Image
 from azureml.core import Workspace
 from azureml.core.authentication import ServicePrincipalAuthentication
+<<<<<<< HEAD
+=======
+from azureml.core.compute import AksCompute
+from azureml.exceptions import WebserviceException
+>>>>>>> 87fd260fb1fc4ef5602bc8afb22e17c450a32115
 
 # SKLearn
 from sklearn.ensemble import RandomForestClassifier
@@ -19,6 +24,7 @@ import mlflow.xgboost
 import mlflow.azureml
 from mlflow.tracking.client import MlflowClient
 from mlflow.entities import ViewType
+
 
 def get_dataset(filename):
   data = pd.read_csv("/dbfs/dataset/{}".format(filename), sep=',')
@@ -88,30 +94,39 @@ def get_workspace(workspace_name, workspace_location, resource_group, subscripti
   
   return workspace
 
-def build_image(workspace, model_uri, model_name, image_name, image_description):
-  print(model_uri, workspace, model_name, image_name, image_description)
-  model_image, azure_model = mlflow.azureml.build_image(model_uri=model_uri, 
-                                                      workspace=workspace,
-                                                      model_name=model_name,
-                                                      image_name=image_name,
-                                                      description=image_description,
-                                                      synchronous=False)
+def deploy_aci(workspace, model_uri, endpoint_name, model_name):
+  aci_config = AciWebservice.deploy_configuration(cpu_cores=1, memory_gb=1)
 
-  model_image.wait_for_creation(show_output=True)
+  # Remove any existing service under the same name.
+  try:
+    Webservice(workspace, endpoint_name).delete()
+  except WebserviceException:
+    pass
+  
+  (webservice, model) = mlflow.azureml.deploy(model_uri=model_uri,
+                                              workspace=workspace,
+                                              model_name=model_name,
+                                              service_name=endpoint_name,
+                                              deployment_config=aci_config)
 
-def deploy_aci(endpoint_name, image_name):
-  model_image_id = workspace.images[image_name].id
-  print("Model Image ID:", model_image_id)
-
-  model_image = Image(workspace, id=model_image_id)
-
-  dev_webservice_deployment_config = AciWebservice.deploy_configuration()
-
-  dev_webservice = Webservice.deploy_from_image(name=endpoint_name,
-                                                image=model_image,
-                                                deployment_config=dev_webservice_deployment_config,
-                                                workspace=workspace,
-                                                deployment_target=None,
-                                                overwrite=True)
-
-  dev_webservice.wait_for_deployment(show_output = True)
+  print(f"Model : {model_uri} was successfully deployed to ACI")
+  print(f"Endpoint : {webservice.scoring_uri} created")
+  
+def deploy_aks(workspace, model_uri, endpoint_name, model_name, aks_name): 
+  aks_target = AksCompute(workspace, aks_name)
+  deployment_config = AksWebservice.deploy_configuration(compute_target_name=aks_name)
+  
+  # Remove any existing service under the same name.
+  try:
+    Webservice(workspace, endpoint_name).delete()
+  except WebserviceException:
+    pass
+  
+  (webservice, model) = mlflow.azureml.deploy(model_uri=model_uri,
+                                              workspace=workspace,
+                                              model_name=model_name,
+                                              service_name=endpoint_name,
+                                              deployment_config=deployment_config)
+  
+  print(f"Model : {model_uri} was successfully deployed to AKS")
+  print(f"Endpoint : {webservice.scoring_uri} created")

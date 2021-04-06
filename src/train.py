@@ -3,7 +3,7 @@
 
 # COMMAND ----------
 
-SEED = 2020
+SEED = 2021
 TARGET = 'Churn'
 
 drop_columns = [TARGET, 'CodigoCliente']
@@ -23,3 +23,4 @@ X_train, X_test, y_train, y_test = get_X_y(train_dataset, test_dataset, TARGET, 
 # Train model
 model_uri = train_model(X_train, y_train, 20, SEED)
 print(f'model_uri: {model_uri}')
+print('Model trained')

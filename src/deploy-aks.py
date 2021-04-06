@@ -15,11 +15,12 @@ workspace_location = dbutils.secrets.get(scope = "azure-key-vault", key = "locat
 resource_group = dbutils.secrets.get(scope = "azure-key-vault", key = "resource-group")
 subscription_id = dbutils.secrets.get(scope = "azure-key-vault", key = "subscription-id")
 
-# Dev instance parameters
-endpoint_name_dev = 'api-churn-dev'
+# Prod instance parameters
+endpoint_name_prod = 'api-churn-prod'
+aks_target = 'aks-cluster-1'
 
 model_uri = get_model_uri(experiment_name, run_name)
 workspace = get_workspace(workspace_name, workspace_location, resource_group, subscription_id)
 
-deploy_aci(workspace, model_uri, endpoint_name_dev, model_name)
-print('OK')
+deploy_aks(workspace, model_uri, endpoint_name_prod, model_name, aks_target)
+print(' ')
