@@ -1,0 +1,39 @@
+{
+    "name": "train-model-churn",
+    "new_cluster": {
+        "spark_version": "10.4.x-cpu-ml-scala2.12",
+        "spark_conf": {
+            "spark.databricks.delta.preview.enabled": "true",
+            "spark.master": "local[*, 4]",
+            "spark.databricks.cluster.profile": "singleNode"
+        },
+        "node_type_id": "Standard_DS3_v2",
+        "custom_tags": {
+            "ResourceClass": "SingleNode"
+        },
+        
+        "enable_elastic_disk": true,
+        "azure_attributes": {
+            "first_on_demand": 1,
+            "availability": "ON_DEMAND_AZURE",
+            "spot_bid_max_price": -1
+        },
+        "num_workers": 0
+    },
+    "libraries": [
+        {
+            "pypi": {
+                "package": "azureml-sdk"
+            }
+        }
+    ],
+    "email_notifications": {
+        "no_alert_for_skipped_runs": false
+    },
+    "timeout_seconds": 0,
+    "notebook_task": {
+        "notebook_path": "/Repos/QA/azure-databricks-mlops/notebooks/train"
+    },
+    "max_concurrent_runs": 1,
+    "format": "SINGLE_TASK"
+}
