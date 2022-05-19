@@ -32,7 +32,7 @@
     },
     "timeout_seconds": 0,
     "notebook_task": {
-        "notebook_path": "/Repos/QA/azure-databricks-mlops/notebooks/register"
+        "notebook_path": "/Repos/QA/azure-databricks-mlops/notebooks/move-staging"
     },
     "max_concurrent_runs": 1,
     "format": "SINGLE_TASK"
