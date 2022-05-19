@@ -1,98 +1,34 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+variables:
+- group: 'databricks'
 
 trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: ubuntu-latest
 
-stages:
-- stage: train_model
-  displayName: Train
-  jobs:
-  - job: train
-    displayName: Train model
-    steps:
-    - task: UsePythonVersion@0
-      displayName: Use Python 3.7.*
-      inputs:
-        versionSpec: 3.7.*
-    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-      displayName: 'Configure Databricks Cluster'
-      inputs:
-        url: $(databricks-url)
-        token: $(databricks-token)
-    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Train
-      inputs:
-        notebookPath: /Shared/train
-        existingClusterId: $(databricks-cluster-id)
-    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Training notebook'
-  - job: tests
-    displayName: Unit Tests
-    steps:
-    - task: UsePythonVersion@0
-      displayName: Use Python 3.7.*
-      inputs:
-        versionSpec: 3.7.*
-    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-      displayName: 'Configure Databricks Cluster'
-      inputs:
-        url: $(databricks-url)
-        token: $(databricks-token)
-    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Unit tests
-      inputs:
-        notebookPath: /Shared/tests
-        existingClusterId: $(databricks-cluster-id)
-    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Training notebook'
+steps:
+- script: env | sort
+  displayName: 'Environment / Context'
 
-- stage: deploy_dev
-  displayName: Deploy to DEV
-  jobs:
-  - job: deploy_aci
-    displayName: Deploy to Dev
-    steps:
-    - task: UsePythonVersion@0
-      displayName: Use Python 3.7.*
-      inputs:
-        versionSpec: 3.7.*
-    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-      displayName: 'Configure Databricks Cluster'
-      inputs:
-        url: $(databricks-url)
-        token: $(databricks-token)
-    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Deploy to ACI
-      inputs:
-        notebookPath: /Shared/deploy-aci
-        existingClusterId: $(databricks-cluster-id)
-    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Build image notebook'
-- stage: deploy_prod
-  displayName: Deploy to PROD
-  jobs:
-  - job: deploy_aci
-    displayName: Deploy to Prod
-    steps:
-    - task: UsePythonVersion@0
-      displayName: Use Python 3.7.*
-      inputs:
-        versionSpec: 3.7.*
-    - task: riserrad.azdo-databricks.azdo-databricks-configuredatabricks.configuredatabricks@0
-      displayName: 'Configure Databricks Cluster'
-      inputs:
-        url: $(databricks-url)
-        token: $(databricks-token)
-    - task: riserrad.azdo-databricks.azdo-databricks-executenotebook.executenotebook@0
-      displayName: Deploy to AKS
-      inputs:
-        notebookPath: /Shared/deploy-aks
-        existingClusterId: $(databricks-cluster-id)
-    - task: riserrad.azdo-databricks.azdo-databricks-waitexecution.waitexecution@0
-      displayName: 'Wait for Build image notebook'
+- task: UsePythonVersion@0
+  displayName: 'Use Python 3.7'
+  inputs:
+    versionSpec: 3.7
+
+- checkout: self
+  persistCredentials: true
+  clean: true
+  displayName: 'Checkout & Build.Reason: $(Build.Reason) & Build.SourceBranchName: $(Build.SourceBranchName)'
+
+- script: |
+    python -m pip install --upgrade databricks-cli
+  displayName: 'Install dependencies'
+
+- script: |
+        echo "Checking out the $(Build.SourceBranchName) branch"
+        databricks repos update --path /Repos/QA/azure-databricks-mlops --branch "$(Build.SourceBranchName)"
+  env:
+    DATABRICKS_HOST: $(databricks-host)
+    DATABRICKS_TOKEN: $(databricks-token)
+  displayName: 'Update Staging environment'
