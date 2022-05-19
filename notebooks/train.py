@@ -26,6 +26,7 @@ params = {'early_stopping_rounds': 50,
           'num_boost_round': 1000, 
           'reg_alpha': 0.01, 
           'reg_lambda': 0.348, 
+          'objective': 'binary:hinge',
           'verbose_eval': False,
           'seed': seed}
 

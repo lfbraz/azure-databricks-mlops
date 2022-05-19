@@ -73,7 +73,8 @@ def train_model(X_train, y_train, X_test, y_test):
         # Pass in the test set so xgb can track an evaluation metric. XGBoost terminates training when the evaluation metric
         # is no longer improving.
         model = xgb.train(params=params, dtrain=train, num_boost_round=1000,\
-                           evals=[(test, "test")], early_stopping_rounds=50)
+                           evals=[(test, "test")], early_stopping_rounds=50
+                         )
 
         mlflow.xgboost.log_model(model, 'model')
         persist_shap(model, X_train)
