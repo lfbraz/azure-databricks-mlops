@@ -11,7 +11,13 @@
         "custom_tags": {
             "ResourceClass": "SingleNode"
         },
-        
+      
+        "instance_pool_id": "0524-183651-rank1-pool-wbh7e3lw",
+        "azure_attributes": {},
+        "driver_instance_pool_id": "0524-183651-rank1-pool-wbh7e3lw",
+        "runtime_engine": "STANDARD",
+        "num_workers": 0,  
+      
         "enable_elastic_disk": true,
         "azure_attributes": {
             "first_on_demand": 1,

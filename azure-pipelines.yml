@@ -97,10 +97,14 @@ stages:
         deploy:
           steps:
           - script: |
+              echo 'Rodando o ls'
+              ls /
+            displayName: 'LS'
+          - script: |
               python -m pip install --upgrade databricks-cli
               python -m pip install --upgrade mlflow
             displayName: 'Install Dependencies'
-          - script: 'python mlops/download-artifacts.py'
+          - script: 'python $(System.DefaultWorkingDirectory)/_lfbraz_azure-databricks-mlops/mlops/download-artifacts.py'
             displayName: 'Download Artifacts from DEV/QA'
             env:
               DATABRICKS_HOST: $(databricks-host-dev)
@@ -111,7 +115,7 @@ stages:
               DATABRICKS_HOST: $(databricks-host-prod)
               DATABRICKS_TOKEN: $(databricks-token-prod)
           - script: |
-              JOB_ID=$(databricks jobs create --json-file jobs/register-model-prod-job.json | jq .job_id)
+              JOB_ID=$(databricks jobs create --json-file $(System.DefaultWorkingDirectory)/_lfbraz_azure-databricks-mlops/mlops/register-model-prod-job.json | jq .job_id)
               RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
 
               job_status="PENDING"
