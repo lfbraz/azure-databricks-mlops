@@ -90,9 +90,10 @@ stages:
   - deployment: prod_deploy
     pool:
       vmImage: ubuntu-latest
-      strategy:
-        runOnce:
-          deploy:
-            steps:
-              - script: echo "Hello World"
+    environment: 'deploy-prod'
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+            - script: echo "Hello World"
     
