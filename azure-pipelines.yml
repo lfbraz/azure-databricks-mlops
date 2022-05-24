@@ -4,79 +4,94 @@ variables:
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+# TRAIN (Build) Pipeline / CI
+stages:
+- stage: Train
+  jobs:
+  - job: Train
+    pool:
+      vmImage: ubuntu-latest
+      steps:
+      - script: env | sort
+        displayName: 'Environment / Context'
+      - task: UsePythonVersion@0
+        displayName: 'Use Python 3.7'
+        inputs:
+          versionSpec: 3.7
 
-steps:
-- script: env | sort
-  displayName: 'Environment / Context'
+      - checkout: self
+        persistCredentials: true
+        clean: true
+        displayName: 'Checkout & Build.Reason: $(Build.Reason) & Build.SourceBranchName: $(Build.SourceBranchName)'
 
-- task: UsePythonVersion@0
-  displayName: 'Use Python 3.7'
-  inputs:
-    versionSpec: 3.7
+      - script: |
+          python -m pip install --upgrade databricks-cli
+        displayName: 'Install dependencies'
 
-- checkout: self
-  persistCredentials: true
-  clean: true
-  displayName: 'Checkout & Build.Reason: $(Build.Reason) & Build.SourceBranchName: $(Build.SourceBranchName)'
+      # - script: |
+      #         echo "Checking out the $(Build.SourceBranchName) branch"
+      #         databricks repos update --path /Repos/QA/azure-databricks-mlops --branch "$(Build.SourceBranchName)"
+      #   env:
+      #     DATABRICKS_HOST: $(databricks-host-dev)
+      #     DATABRICKS_TOKEN: $(databricks-token-dev)
+      #   displayName: 'Update Staging environment'
 
-- script: |
-    python -m pip install --upgrade databricks-cli
-  displayName: 'Install dependencies'
+      # - script: |
+      #       JOB_ID=$(databricks jobs create --json-file jobs/create-train-job.json | jq .job_id)
+      #       RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
 
-- script: |
-        echo "Checking out the $(Build.SourceBranchName) branch"
-        databricks repos update --path /Repos/QA/azure-databricks-mlops --branch "$(Build.SourceBranchName)"
-  env:
-    DATABRICKS_HOST: $(databricks-host-dev)
-    DATABRICKS_TOKEN: $(databricks-token-dev)
-  displayName: 'Update Staging environment'
+      #       job_status="PENDING"
+      #         while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
+      #         do
+      #           sleep 2
+      #           job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
+      #           echo Status $job_status
+      #         done
+      #   env:
+      #     DATABRICKS_HOST: $(databricks-host-dev)
+      #     DATABRICKS_TOKEN: $(databricks-token-dev)
+      #   displayName: 'Train Model'
+        
+      # - script: |
+      #     JOB_ID=$(databricks jobs create --json-file jobs/register-model-qa-job.json | jq .job_id)
+      #     RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
 
-- script: |
-      JOB_ID=$(databricks jobs create --json-file jobs/create-train-job.json | jq .job_id)
-      RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
+      #     job_status="PENDING"
+      #       while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
+      #       do
+      #         sleep 2
+      #         job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
+      #         echo Status $job_status
+      #       done
+      #   env:
+      #     DATABRICKS_HOST: $(databricks-host-dev)
+      #     DATABRICKS_TOKEN: $(databricks-token-dev)
+      #   displayName: 'Register Model'
+        
+      # - script: |
+      #     JOB_ID=$(databricks jobs create --json-file jobs/move-staging-job.json | jq .job_id)
+      #     RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
 
-      job_status="PENDING"
-        while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
-        do
-          sleep 2
-          job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
-          echo Status $job_status
-        done
-  env:
-    DATABRICKS_HOST: $(databricks-host-dev)
-    DATABRICKS_TOKEN: $(databricks-token-dev)
-  displayName: 'Train Model'
-  
-- script: |
-    JOB_ID=$(databricks jobs create --json-file jobs/register-model-qa-job.json | jq .job_id)
-    RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
+      #     job_status="PENDING"
+      #       while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
+      #       do
+      #         sleep 2
+      #         job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
+      #         echo Status $job_status
+      #       done
+      #   env:
+      #     DATABRICKS_HOST: $(databricks-host-dev)
+      #     DATABRICKS_TOKEN: $(databricks-token-dev)
+      #   displayName: 'Transition to Stage'
 
-    job_status="PENDING"
-      while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
-      do
-        sleep 2
-        job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
-        echo Status $job_status
-      done
-  env:
-    DATABRICKS_HOST: $(databricks-host-dev)
-    DATABRICKS_TOKEN: $(databricks-token-dev)
-  displayName: 'Register Model'
-  
-- script: |
-    JOB_ID=$(databricks jobs create --json-file jobs/move-staging-job.json | jq .job_id)
-    RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
-
-    job_status="PENDING"
-      while [ $job_status = "RUNNING" ] || [ $job_status = "PENDING" ]
-      do
-        sleep 2
-        job_status=$(databricks runs get --run-id $RUN_ID | jq -r '.state.life_cycle_state')
-        echo Status $job_status
-      done
-  env:
-    DATABRICKS_HOST: $(databricks-host-dev)
-    DATABRICKS_TOKEN: $(databricks-token-dev)
-  displayName: 'Transition to Stage'
+- stage: Deploy to Prod
+  jobs:
+  - deployment: prod_deploy
+    pool:
+      vmImage: ubuntu-latest
+      strategy:
+        runOnce:
+          deploy:
+            steps:
+              - script: echo "Hello World"
+    
