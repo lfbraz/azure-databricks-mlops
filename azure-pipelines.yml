@@ -50,7 +50,7 @@ steps:
   displayName: 'Train Model'
   
 - script: |
-    JOB_ID=$(databricks jobs create --json-file jobs/register-model-job.json | jq .job_id)
+    JOB_ID=$(databricks jobs create --json-file jobs/register-model-qa-job.json | jq .job_id)
     RUN_ID=$(databricks jobs run-now --job-id $JOB_ID | jq '.run_id')
 
     job_status="PENDING"

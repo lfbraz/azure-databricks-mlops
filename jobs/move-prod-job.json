@@ -1,5 +1,5 @@
 {
-    "name": "score",
+    "name": "register-model-churn",
     "new_cluster": {
         "spark_version": "10.4.x-cpu-ml-scala2.12",
         "spark_conf": {
@@ -32,7 +32,7 @@
     },
     "timeout_seconds": 0,
     "notebook_task": {
-        "notebook_path": "/Repos/Prod/azure-databricks-mlops/notebooks/score"
+        "notebook_path": "/Repos/Prod/azure-databricks-mlops/notebooks/move-prod"
     },
     "max_concurrent_runs": 1,
     "format": "SINGLE_TASK"
