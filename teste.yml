@@ -24,5 +24,5 @@ steps:
         databricks clusters list
   env:
     DATABRICKS_HOST: $(databricks-host)
-    DATABRICKS_TOKEN: $(databricks-host)
+    DATABRICKS_TOKEN: $(databricks-token)
   displayName: 'Updating homolog'
