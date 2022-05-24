@@ -1,0 +1,28 @@
+variables:
+- group: 'databricks'
+trigger:
+- homologacao
+pool:
+  vmImage: ubuntu-latest
+steps:
+- script: env | sort
+  displayName: 'Environment / Context'
+- task: UsePythonVersion@0
+  displayName: 'Use Python 3.7'
+  inputs:
+    versionSpec: 3.7
+- checkout: self
+  persistCredentials: true
+  clean: true
+  displayName: 'Checkout & Build.Reason: $(Build.Reason) & Build.SourceBranchName: $(Build.SourceBranchName)'
+
+- script: |
+    python -m pip install --upgrade databricks-cli
+  displayName: 'Install dependencies'
+
+- script: |
+        databricks clusters list
+  env:
+    DATABRICKS_HOST: $(databricks-host)
+    DATABRICKS_TOKEN: $(databricks-host)
+  displayName: 'Updating homolog'
