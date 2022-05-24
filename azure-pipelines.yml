@@ -29,8 +29,8 @@ steps:
         echo "Checking out the $(Build.SourceBranchName) branch"
         databricks repos update --path /Repos/QA/azure-databricks-mlops --branch "$(Build.SourceBranchName)"
   env:
-    DATABRICKS_HOST: $(databricks-host)
-    DATABRICKS_TOKEN: $(databricks-token)
+    DATABRICKS_HOST: $(databricks-host-dev)
+    DATABRICKS_TOKEN: $(databricks-token-dev)
   displayName: 'Update Staging environment'
 
 - script: |
@@ -45,8 +45,8 @@ steps:
           echo Status $job_status
         done
   env:
-    DATABRICKS_HOST: $(databricks-host)
-    DATABRICKS_TOKEN: $(databricks-token)
+    DATABRICKS_HOST: $(databricks-host-dev)
+    DATABRICKS_TOKEN: $(databricks-token-dev)
   displayName: 'Train Model'
   
 - script: |
@@ -61,8 +61,8 @@ steps:
         echo Status $job_status
       done
   env:
-    DATABRICKS_HOST: $(databricks-host)
-    DATABRICKS_TOKEN: $(databricks-token)
+    DATABRICKS_HOST: $(databricks-host-dev)
+    DATABRICKS_TOKEN: $(databricks-token-dev)
   displayName: 'Register Model'
   
 - script: |
@@ -77,6 +77,6 @@ steps:
         echo Status $job_status
       done
   env:
-    DATABRICKS_HOST: $(databricks-host)
-    DATABRICKS_TOKEN: $(databricks-token)
+    DATABRICKS_HOST: $(databricks-host-dev)
+    DATABRICKS_TOKEN: $(databricks-token-dev)
   displayName: 'Transition to Stage'
