@@ -84,7 +84,8 @@ stages:
       #     DATABRICKS_TOKEN: $(databricks-token-dev)
       #   displayName: 'Transition to Stage'
 
-- stage: Deploy to Prod
+- stage: DeployProd
+  displayName: 'Deploy Model to Production'
   jobs:
   - deployment: prod_deploy
     pool:
