@@ -7,7 +7,6 @@
             "spark.master": "local[*, 4]",
             "spark.databricks.cluster.profile": "singleNode"
         },
-        "node_type_id": "Standard_DS3_v2",
         "custom_tags": {
             "ResourceClass": "SingleNode"
         },
@@ -18,7 +17,6 @@
         "runtime_engine": "STANDARD",
         "num_workers": 0,
       
-        "enable_elastic_disk": true,
         "azure_attributes": {
             "first_on_demand": 1,
             "availability": "ON_DEMAND_AZURE",
