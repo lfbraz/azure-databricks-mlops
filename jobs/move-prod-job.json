@@ -24,13 +24,6 @@
         },
         "num_workers": 0
     },
-    "libraries": [
-        {
-            "pypi": {
-                "package": "azureml-sdk"
-            }
-        }
-    ],
     "email_notifications": {
         "no_alert_for_skipped_runs": false
     },

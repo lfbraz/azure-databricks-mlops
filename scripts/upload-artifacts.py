@@ -11,4 +11,4 @@ mlflow.set_experiment(experiment_name)
 
 model_path = './Model'
 with mlflow.start_run(run_name='mlops-train'):
-    mlflow.log_artifacts(model_path, artifact_path="model")
+    mlflow.log_artifacts(model_path)

@@ -1,16 +1,6 @@
 # Databricks notebook source
 import pandas as pd
 import numpy as np
-# Azure libs
-from azureml.core.webservice import AciWebservice,  AksWebservice, Webservice
-from azureml.core.image import Image
-from azureml.core import Workspace
-from azureml.core.authentication import ServicePrincipalAuthentication
-from azureml.core.compute import AksCompute
-from azureml.exceptions import WebserviceException
-from azureml.core.model import Model, InferenceConfig
-from azureml.core.environment import Environment
-from azureml.core.conda_dependencies import CondaDependencies
 
 # SKLearn
 from sklearn.ensemble import RandomForestClassifier
@@ -20,7 +10,6 @@ from sklearn.model_selection import train_test_split
 import mlflow
 import mlflow.sklearn
 import mlflow.xgboost
-import mlflow.azureml
 from mlflow.tracking.client import MlflowClient
 from mlflow.entities import ViewType
 
@@ -109,73 +98,10 @@ def persist_model(model, model_path):
     # Persist the XGBoost model
     mlflow.xgboost.save_model(model, model_path)
 
-def get_model(workspace, model_name):
-    model_azure = Model(workspace, model_name)
-    return model_azure
-    
 def register_model(experiment_name, run_name, model_name):
     model_uri = get_model_uri(experiment_name, run_name)
     result = mlflow.register_model(model_uri, model_name)
     return result
-
-def get_workspace(workspace_name, resource_group, subscription_id):
-    svc_pr = ServicePrincipalAuthentication(
-      tenant_id = dbutils.secrets.get(scope = "azure-key-vault", key = "tenant-id"),
-      service_principal_id = dbutils.secrets.get(scope = "azure-key-vault", key = "client-id"),
-      service_principal_password = dbutils.secrets.get(scope = "azure-key-vault", key = "client-secret"))
-
-    workspace = Workspace.get(name = workspace_name,
-                            resource_group = resource_group,
-                            subscription_id = subscription_id,
-                            auth=svc_pr)
-
-    return workspace
-
-def get_inference_config(environment_name, conda_file, entry_script):
-    # Create the environment
-    env = Environment(name=environment_name)
-
-    conda_dep = CondaDependencies(conda_file)
-
-    # Define the packages needed by the model and scripts
-    conda_dep.add_pip_package("azureml-defaults")
-    conda_dep.add_pip_package("azureml-monitoring")
-    conda_dep.add_pip_package("xgboost")
-
-    # Adds dependencies to PythonSection of myenv
-    env.python.conda_dependencies=conda_dep
-
-    inference_config = InferenceConfig(entry_script=entry_script,
-                                     environment=env)
-
-    return inference_config
-
-def deploy_aci(workspace, model_azure, endpoint_name, inference_config):
-    deployment_config = AciWebservice.deploy_configuration(cpu_cores = 1, memory_gb = 1, auth_enabled=True)
-    service = Model.deploy(workspace, endpoint_name, [model_azure], inference_config, deployment_config, overwrite=True)
-    service.wait_for_deployment(show_output = True)
-
-    print(f"Endpoint : {endpoint_name} was successfully deployed to ACI")
-    print(f"Endpoint : {service.scoring_uri} created")
-    return service
-
-def deploy_aks(workspace, model_azure, endpoint_name, inference_config, aks_name):
-    aks_target = AksCompute(workspace, aks_name)
-    aks_config = AksWebservice.deploy_configuration(enable_app_insights = True, collect_model_data=True)
-
-    aks_service = Model.deploy(workspace=workspace,
-                             name=endpoint_name,
-                             models=[model_azure],
-                             inference_config=inference_config,
-                             deployment_config=aks_config,
-                             deployment_target=aks_target,
-                             overwrite=True)
-
-    aks_service.wait_for_deployment(show_output = True)
-
-    print(f"Endpoint : {endpoint_name} was successfully deployed to AKS")
-    print(f"Endpoint : {aks_service.scoring_uri} created")
-    print('')
 
 def transition_model(model_name, stage):
     client = MlflowClient()
