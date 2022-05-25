@@ -1,6 +1,6 @@
 # MLOps - Azure Databricks - Batch + Online
 
-In this repo we demonstrate how to create a simple MLOps Pipeline using Azure Databricks + Azure DevOps. 
+In this repo we demonstrate how to create a simple MLOps Pipeline using Azure Databricks + Azure DevOps to automate the deployment of a ML Model from a dev to a production environment.
 
 Please fork this repo to your own Github so you can make adjustments and customizations.
 
@@ -14,6 +14,8 @@ We automate the following steps:
 6. Register the Model in Production Workspace
 7. Create and Run a Batch Scoring Job in Production (Persisting the predictions to a Delta Table)
 8. TODO: Enable MLFlow Serving
+
+![](/images/mlops-flow.png)
 
 # Prerequisites
 
@@ -76,4 +78,5 @@ With this we'll have the pipeline imported to your Azure DevOps project. It'll b
 # TODO
 
 - Make some settings dinamic
+- Add Errors Handling
 - Add MLFlow online serving
