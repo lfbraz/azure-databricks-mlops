@@ -12,7 +12,8 @@ We automate the following steps:
 4. Deploy the Model to Production (Download the artifacts and Log them to a production Workspace)
 5. Transit the Model to Production stage in DEV/QA Workspace
 6. Register the Model in Production Workspace
-7. Create and Run a Scoring Job in Production
+7. Create and Run a Batch Scoring Job in Production (Persisting the predictions to a Delta Table)
+8. TODO: Enable MLFlow Serving
 
 # Prerequisites
 
@@ -75,3 +76,4 @@ With this we'll have the pipeline imported to your Azure DevOps project. It'll b
 # TODO
 
 - Make some settings dinamic
+- Add MLFlow online serving
