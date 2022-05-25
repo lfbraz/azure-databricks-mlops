@@ -28,4 +28,4 @@ prediction_df = spark.createDataFrame(prediction_df.withColumn('predictions', lo
 
 # COMMAND ----------
 
-prediction_df.write.format("delta").saveAsTable("QA.ChurnPredictions")
+prediction_df.write.format("delta").saveAsTable("Prod.ChurnPredictions")
